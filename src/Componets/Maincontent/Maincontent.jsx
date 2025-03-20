@@ -4,6 +4,19 @@ import image from '../../assets/Image/office.png';
 
 function Maincontent() {
   return (
+    <>
+
+<div className='w-full '>
+<div className='  container  mx-auto flex items-center flex-col py-6 gap-4'> 
+  <h1 className='text-4xl text-blue-900 py-6 font-bold font-serif'>About Office based Jobs</h1>
+  <div className=' w-[450px] p-2 text-center  px-8 '><p className='font-serif font-normal text-lg'>
+  At Office Based Jobs, we specialize in matching skilled professionals with fulfilling career opportunities in office-based environments. Our mission is to bridge the gap between talented job seekers and leading companies, ensuring the perfect fit for both parties. With a keen understanding of the evolving needs of the modern workforce.
+
+    </p></div>
+</div>
+</div>
+
+
     <Box
       sx={{
         display: 'flex',
@@ -25,6 +38,10 @@ function Maincontent() {
           objectFit: 'cover',
         }}
       />
+
+
+
+      {/* section 1 */}
       <Box sx={{ width: { xs: '100%', md: '50%' }, textAlign: 'left', px: { xs: 2, md: 5 } }}>
         <Typography
           variant="h4"
@@ -43,6 +60,12 @@ function Maincontent() {
         </Button>
       </Box>
     </Box>
+
+ 
+
+
+
+    </>
   );
 }
 

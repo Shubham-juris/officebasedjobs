@@ -28,17 +28,17 @@ function Navbar() {
   };
 
   return (
-    <Box sx={{ flexGrow: 1, position: 'relative' }}>
+    <Box sx={{ flexGrow: 1, position: 'sticky', top: 0, zIndex : 9 }}>
       <AppBar
         position="absolute"
         sx={{
           top: 0,
           left: 0,
           right: 0,
-          marginTop: { xs: '1rem', md: '2.5rem' },
+        padding : 1,
           boxShadow: 'none',
-          backgroundColor: 'transparent',
-        }}
+          backgroundColor: 'white',
+         }}
       >
         <Container maxWidth="xl">
           <Toolbar disableGutters>
@@ -100,9 +100,9 @@ function Navbar() {
                   onClick={handleCloseNavMenu}
                   sx={{
                     my: 0,
-                    color: 'white',
+                    color: 'black',
                     display: 'block',
-                    fontSize: { md: '0.7rem', lg: '0.9rem' },
+                    fontSize: { md: '1rem', lg: '1.2rem' },
                     padding: { xs: '0.5rem', md: '0.5rem 1rem' },
                     position: 'relative',
                     textTransform: 'none',

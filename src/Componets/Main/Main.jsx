@@ -1,9 +1,15 @@
 import React from 'react';
 import { Box, Typography } from '@mui/material';
 import jobsImage from '../../assets/Image/jobs.png'; // Imported image
+import  officeman from '../../assets/Image/officeman.png'
 
 const Main = () => {
   return (
+
+    <>
+
+   {/* section-1 */}
+
     <Box
       sx={{
         display: 'flex',
@@ -77,6 +83,41 @@ const Main = () => {
         />
       </Box>
     </Box>
+{/* section-2 */}
+
+
+    
+   <div className="flex flex-col  md:flex-row items-center justify-between overflow-hidden bg-white">
+   {/* Left Section - Image */}
+   <div className="w-full md:w-1/2 flex items-center justify-center">
+     <img
+       src={officeman}
+       alt="Business Man"
+       className=" h-[600px] object-cover"
+     />
+   </div>
+
+   {/* Right Section - Text Content */}
+   <div className="w-full flex flex-col items-start justify-between gap-12 md:w-1/2 text-center md:text-left  md:mt-0">
+     <h2 className="text-5xl font-bold font-serif text-gray-900">
+       Discover Top Talent for <br /> Your Business Needs
+     </h2>
+     <p className="text-gray-600 mt-4 font-sans w-3/4">
+       At Office Based Jobs, we understand that the success of any business
+       relies on its people. That’s why we’re dedicated to helping companies
+       like yours find the perfect candidates to drive growth and innovation.
+       With our extensive network and personalized approach to recruitment,
+       we connect you with professionals.
+     </p>
+
+     {/* Button */}
+     <button className="mt-6 px-6 py-2 border border-blue-500 text-blue-500 rounded-full hover:bg-blue-500 hover:text-white transition-all">
+       CONTACT TALENTS
+     </button>
+   </div>
+ </div>
+    </>
+
   );
 };
 
