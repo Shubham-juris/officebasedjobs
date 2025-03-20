@@ -1,5 +1,5 @@
-import * as React from 'react';
-import { useState } from 'react';
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import {
   AppBar,
   Box,
@@ -10,123 +10,86 @@ import {
   MenuItem,
   Button,
   Container,
-} from '@mui/material';
-import MenuIcon from '@mui/icons-material/Menu';
-import officejob from '../../assets/Image/logo.png';
+} from "@mui/material";
+import MenuIcon from "@mui/icons-material/Menu";
+import officejob from "../../assets/Image/logo.png";
 
-const pages = ['Home', 'About', 'Job Seekers','Employers', 'Resources', 'Contact', 'Location','Careers'];
+const pages = [
+  { name: "Home", path: "/" },
+  { name: "About", path: "/about-us" },
+  { name: "Job Seekers", path: "/job-seekers" },
+  { name: "Employers", path: "/employers" },
+  { name: "Resources", path: "/resources" },
+  { name: "Contact", path: "/contact" },
+  { name: "Location", path: "/location" },
+  { name: "Careers", path: "/careers" },
+];
 
 function Navbar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
 
-  const handleOpenNavMenu = (event) => {
-    setAnchorElNav(event.currentTarget);
-  };
-
-  const handleCloseNavMenu = () => {
-    setAnchorElNav(null);
-  };
+  const handleOpenNavMenu = (event) => setAnchorElNav(event.currentTarget);
+  const handleCloseNavMenu = () => setAnchorElNav(null);
 
   return (
-    <Box sx={{ flexGrow: 1, position: 'sticky', top: 0, zIndex : 9 }}>
-      <AppBar
-        position="absolute"
-        sx={{
-          top: 0,
-          left: 0,
-          right: 0,
-        padding : 1,
-          boxShadow: 'none',
-          backgroundColor: 'white',
-         }}
-      >
+    <Box sx={{ flexGrow: 1, position: "sticky", top: 0, zIndex: 9 }}>
+      <AppBar position="absolute" sx={{ padding: 1, boxShadow: "none", backgroundColor: "white" }}>
         <Container maxWidth="xl">
           <Toolbar disableGutters>
-            <Box
-              component="img"
-              src={officejob}
-              alt="Future Tech Logo"
-              sx={{
-                display: { xs: 'none', md: 'flex' },
-                height: { md: 40, xs: 20 },
-                mr: 2,
-              }}
-            />
+            {/* Logo */}
+            <Box component={Link} to="/" sx={{ display: "flex", alignItems: "center" }}>
+              <img src={officejob} alt="Logo" style={{ height: 40, marginRight: "1rem" }} />
+            </Box>
 
-            <Box sx={{ display: { xs: 'flex', md: 'none' }, flexGrow: 1 }}>
-              <IconButton
-                size="large"
-                aria-label="open navigation menu"
-                aria-controls="menu-appbar"
-                aria-haspopup="true"
-                onClick={handleOpenNavMenu}
-                sx={{ color: 'black', ml: 1 }}
-              >
+            {/* Mobile Menu */}
+            <Box sx={{ display: { xs: "flex", md: "none" }, flexGrow: 1 }}>
+              <IconButton onClick={handleOpenNavMenu} sx={{ color: "black" }}>
                 <MenuIcon />
               </IconButton>
               <Menu
-                id="menu-appbar"
                 anchorEl={anchorElNav}
-                anchorOrigin={{ vertical: 'bottom', horizontal: 'left' }}
-                keepMounted
-                transformOrigin={{ vertical: 'top', horizontal: 'left' }}
                 open={Boolean(anchorElNav)}
                 onClose={handleCloseNavMenu}
-                sx={{ display: { xs: 'block', md: 'none' } }}
+                sx={{ display: { xs: "block", md: "none" } }}
               >
-                {pages.map((page) => (
-                  <MenuItem key={page} onClick={handleCloseNavMenu}>
-                    <Typography
-                      sx={{
-                        textAlign: 'center',
-                        color: 'black',
-                        fontSize: { xs: '1.2rem', md: '2rem' },
-                        '&:hover': { color: 'red' },
-                      }}
-                    >
-                      {page}
+                {pages.map(({ name, path }) => (
+                  <MenuItem key={name} onClick={handleCloseNavMenu}>
+                    <Typography component={Link} to={path} sx={{ textDecoration: "none", color: "black", "&:hover": { color: "red" } }}>
+                      {name}
                     </Typography>
                   </MenuItem>
                 ))}
               </Menu>
             </Box>
 
-            <Box sx={{ flexGrow: 1 }} />
-
-            <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1 }}>
-              {pages.map((page) => (
+            {/* Desktop Menu */}
+            <Box sx={{ display: { xs: "none", md: "flex" }, gap: 2, flexGrow: 1, justifyContent: "flex-end" }}>
+              {pages.map(({ name, path }) => (
                 <Button
-                  key={page}
-                  onClick={handleCloseNavMenu}
+                  key={name}
+                  component={Link}
+                  to={path}
                   sx={{
-                    my: 0,
-                    color: 'black',
-                    display: 'block',
-                    fontSize: { md: '1rem', lg: '1.2rem' },
-                    padding: { xs: '0.5rem', md: '0.5rem 1rem' },
-                    position: 'relative',
-                    textTransform: 'none',
-                    '&:hover': {
-                      color: 'blue',
-                      backgroundColor: 'transparent',
-                    },
-                    '&::after': {
+                    color: "black",
+                    fontSize: "1rem",
+                    textTransform: "none",
+                    position: "relative",
+                    "&:hover": { color: "blue", backgroundColor: "transparent" },
+                    "&::after": {
                       content: '""',
-                      position: 'absolute',
-                      width: '0%',
-                      height: '2.7px',
-                      bottom: '4px',
-                      left: '50%',
-                      transform: 'translateX(-50%)',
-                      backgroundColor: 'blue',
-                      transition: 'width 0.4s ease-in-out',
+                      position: "absolute",
+                      width: "0%",
+                      height: "2.7px",
+                      bottom: "4px",
+                      left: "50%",
+                      transform: "translateX(-50%)",
+                      backgroundColor: "blue",
+                      transition: "width 0.4s ease-in-out",
                     },
-                    '&:hover::after': {
-                      width: '70%',
-                    },
+                    "&:hover::after": { width: "70%" },
                   }}
                 >
-                  {page}
+                  {name}
                 </Button>
               ))}
             </Box>
