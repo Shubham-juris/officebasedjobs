@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import {
   AppBar,
   Box,
@@ -27,18 +27,30 @@ const pages = [
 
 function Navbar() {
   const [anchorElNav, setAnchorElNav] = useState(null);
+  const location = useLocation();
 
   const handleOpenNavMenu = (event) => setAnchorElNav(event.currentTarget);
   const handleCloseNavMenu = () => setAnchorElNav(null);
 
   return (
     <Box sx={{ flexGrow: 1, position: "sticky", top: 0, zIndex: 9 }}>
-      <AppBar position="absolute" sx={{ padding: 1, boxShadow: "none", backgroundColor: "white" }}>
+      <AppBar
+        position="absolute"
+        sx={{ padding: 1, boxShadow: "none", backgroundColor: "white" }}
+      >
         <Container maxWidth="xl">
           <Toolbar disableGutters>
             {/* Logo */}
-            <Box component={Link} to="/" sx={{ display: "flex", alignItems: "center" }}>
-              <img src={officejob} alt="Logo" style={{ height: 40, marginRight: "1rem" }} />
+            <Box
+              component={Link}
+              to="/"
+              sx={{ display: "flex", alignItems: "center" }}
+            >
+              <img
+                src={officejob}
+                alt="Logo"
+                style={{ height: 40, marginRight: "1rem" }}
+              />
             </Box>
 
             {/* Mobile Menu */}
@@ -54,31 +66,49 @@ function Navbar() {
               >
                 {pages.map(({ name, path }) => (
                   <MenuItem key={name} onClick={handleCloseNavMenu}>
-                    <Typography component={Link} to={path} sx={{ textDecoration: "none", color: "black", "&:hover": { color: "red" } }}>
+                    <Link
+                      to={path}
+                      style={{
+                        textDecoration: "none",
+                        color: location.pathname === path ? "blue" : "black",
+                        fontWeight:
+                          location.pathname === path ? "bold" : "normal",
+                      }}
+                    >
                       {name}
-                    </Typography>
+                    </Link>
                   </MenuItem>
                 ))}
               </Menu>
             </Box>
-
             {/* Desktop Menu */}
-            <Box sx={{ display: { xs: "none", md: "flex" }, gap: 2, flexGrow: 1, justifyContent: "flex-end" }}>
+            <Box
+              sx={{
+                display: { xs: "none", md: "flex" },
+                gap: 2,
+                flexGrow: 1,
+                justifyContent: "flex-end",
+              }}
+            >
               {pages.map(({ name, path }) => (
                 <Button
                   key={name}
                   component={Link}
                   to={path}
                   sx={{
-                    color: "black",
+                    color: location.pathname === path ? "blue" : "black",
+                    fontWeight: location.pathname === path ? "bold" : "normal",
                     fontSize: "1rem",
                     textTransform: "none",
                     position: "relative",
-                    "&:hover": { color: "blue", backgroundColor: "transparent" },
+                    "&:hover": {
+                      color: "blue",
+                      backgroundColor: "transparent",
+                    },
                     "&::after": {
                       content: '""',
                       position: "absolute",
-                      width: "0%",
+                      width: location.pathname === path ? "70%" : "0%",
                       height: "2.7px",
                       bottom: "4px",
                       left: "50%",
