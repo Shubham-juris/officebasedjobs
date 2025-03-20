@@ -43,7 +43,7 @@ const Header = () => {
         </div>
 
         {/* form starts here */}
-        <div className="bg-white shadow-lg rounded-lg flex flex-col md:flex-row w-full max-w-4xl">
+        <div className="bg-white shadow-lg rounded-lg flex flex-col md:flex-row w-full mx-auto ">
           {/* Left Section: Job Description */}
           <div className="md:w-1/2 p-6 border-r border-gray-200">
             <h1 className="text-4xl font-bold text-center mb-4">
@@ -90,7 +90,7 @@ const Header = () => {
           </div>
 
           {/* Right Section: Application Form */}
-          <div className="md:w-full  p-6">
+          <div className="w-1/2   p-6">
             <div className="flex justify-end mb-4">
               <button className="text-blue-600 font-semibold">APPLY NOW</button>
             </div>
