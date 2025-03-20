@@ -3,6 +3,7 @@ import Hero from '../Componets/Hero/Hero'
 import Maincontent from '../Componets/Maincontent/Maincontent'
 import Main from '../Componets/Main/Main'
 import ContactUs from '../Componets/ContactUs/ContactUs'
+import Sitemaintenance from '../Componets/Maintenence/Mantinence'
 
 const Home = () => {
   return (
@@ -12,7 +13,7 @@ const Home = () => {
      <Maincontent/>
      <Main/>
      <ContactUs/>
-     {/* <Sitemaintenance/> */}
+     <Sitemaintenance/>
 </>  )
 }
 
