@@ -2,7 +2,7 @@ import React from 'react';
 import { Box, Typography } from '@mui/material';
 import jobsImage from '../../assets/Image/jobs.png'; // Imported image
 import  officeman from '../../assets/Image/officeman.png'
-
+import { FileSearch, Lightbulb } from 'lucide-react';
 const Main = () => {
   return (
 
@@ -84,9 +84,6 @@ const Main = () => {
       </Box>
     </Box>
 {/* section-2 */}
-
-
-    
    <div className="flex flex-col  md:flex-row items-center justify-between overflow-hidden bg-white">
    {/* Left Section - Image */}
    <div className="w-full md:w-1/2 flex items-center justify-center">
@@ -116,6 +113,46 @@ const Main = () => {
      </button>
    </div>
  </div>
+
+
+
+{/* section 3 */}
+<div className='bg-blue-900 w-full  flex flex-col items-center justify-between py-6'>
+<h1 className='text-white font-bold text-4xl font-serif '>Job Seekers  Services</h1>
+
+<div className="grid w-5/6 container  grid-cols-3 gap-4 p-4">
+{/* 1st col */}
+      <div className=" p-4 py-2 text-white text-center flex flex-col gap-8 items-center justify-between">
+
+<h1 className='font-bold font-serif   text-2xl'>Tailored Guidance</h1>
+{/* icon */}
+<FileSearch size={80} />
+
+<p className='w-4/5 text-md'>  We start by understanding your company's unique needs and  culture  through  strategic  consultation. Our team  works closely  with you to  develop a  tailored  recruitement strategy  that aligns  with your goals  and objectives </p>
+      </div>
+
+{/* 2nd col */}
+<div className=" p-4 py-2 text-white text-center flex flex-col gap-8 items-center justify-between">
+
+<h1 className='font-bold font-serif   text-2xl'>Innovative Recruitement</h1>
+{/* icon */}
+<Lightbulb  size={80} />
+
+<p className='w-4/5 text-md'>  We start by understanding your company's unique needs and  culture  through  strategic  consultation. Our team  works closely  with you to  develop a  tailored  recruitement strategy  that aligns  with your goals  and objectives </p>
+      </div>
+
+      {/* 3rd col */}
+      <div className=" p-4 py-2 text-white text-center flex flex-col gap-8 items-center justify-between">
+
+<h1 className='font-bold font-serif   text-2xl'>Tailored Guidance</h1>
+{/* icon */}
+<FileSearch size={80} />
+
+<p className='w-4/5 text-md'>  We start by understanding your company's unique needs and  culture  through  strategic  consultation. Our team  works closely  with you to  develop a  tailored  recruitement strategy  that aligns  with your goals  and objectives </p>
+      </div>    </div>
+
+</div>
+
     </>
 
   );
