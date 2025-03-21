@@ -1,5 +1,6 @@
 import React from "react";
-import image from "../../assets/Image/jobs.png";
+import image from "../../assets/Image/jobseekers/jobs.jpeg";
+import images from "../../assets/Image/jobseekers/elevateyourcareer.jpg";
 import Contactus from "./contactus";
 const Header = () => {
   return (
@@ -39,7 +40,7 @@ const Header = () => {
           </div>
 
           <div className="flex items-center justify-center">
-            <img src={image} alt="image" className="h-80" />
+            <img src={images} alt="image" className="h-80" />
           </div>
         </div>
 
