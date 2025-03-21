@@ -20,7 +20,7 @@ const pages = [
   { name: "Job Seekers", path: "/job-seekers" },
   { name: "Employers", path: "/employers" },
   { name: "Resources", path: "/resource" },
-  { name: "Contact", path: "/contact" },
+  { name: "Contact", path: "/contact-us" },
   { name: "Location", path: "/location" },
   { name: "Careers", path: "/careers" },
 ];
