@@ -7,15 +7,16 @@ import AboutUs from "../Componets/AboutUs/AboutUs";
 import Employers from "../pages/Employers";
 import Resource from "../pages/Resource";
 
+
 const AppRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="about-us" element={<AboutUs />} />
       <Route path="job-seekers" element={<JobSeekers />} />
+      <Route path="contact-us" element={<ContactUsPage />} />
       <Route path="employers" element={<Employers />} />
       <Route path="resources" element={<Resource/>} />
-
     </Routes>
   );
 };
