@@ -19,7 +19,7 @@ const pages = [
   { name: "About", path: "/about-us" },
   { name: "Job Seekers", path: "/job-seekers" },
   { name: "Employers", path: "/employers" },
-  { name: "Resources", path: "/resources" },
+  { name: "Resources", path: "/resource" },
   { name: "Contact", path: "/contact" },
   { name: "Location", path: "/location" },
   { name: "Careers", path: "/careers" },

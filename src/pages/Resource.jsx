@@ -1,14 +1,13 @@
-import React from 'react'
-import Main from '../Componets/Resource/Main'
-// import imgs from '../assets/Image/jobs.png'
-// import image from '../assets/Image/officejobs.png'
-// import images from '../assets/Image/jobs.png'
+import React from 'react';
+import ResourceHeader from '../Componets/Resource/ResourceHeader';
 
-function Resource() {
-    // const images = [imgs]
+
+const Resource = () => {
   return (
-  <Main/>
+    <>
+   < ResourceHeader />
+    </>
   )
 }
 
-export default Resource
+export default Resource;
