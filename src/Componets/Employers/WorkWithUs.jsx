@@ -1,6 +1,8 @@
 import React from "react";
-import approachImg from "../../assets/Image/jobs.png";
-import resourcesImg from "../../assets/Image/jobs.png";
+import approachImg from "../../assets/Image/employers/work.jpg";
+import resourcesImg from '../../assets/Image/employers/CHOOSEUS.png'
+import img from '../../assets/Image/employers/image.jpg'
+import imge from '../../assets/Image/employers/books.jpg'
 
 const WorkWithUs = () => {
   return (
@@ -38,7 +40,7 @@ const WorkWithUs = () => {
       </div>
       <div className="grid md:grid-cols-2 gap-8 items-center mt-16 mb-16">
         <img
-          src={approachImg}
+          src={img}
           alt="Our Approach"
           className="rounded-md w-full h-[300px] object-cover"
         />
@@ -61,7 +63,7 @@ const WorkWithUs = () => {
           </p>
         </div>
         <img
-          src={resourcesImg}
+          src={imge}
           alt="Choose Us"
           className="rounded-md w-full h-[300px] object-cover"
         />
