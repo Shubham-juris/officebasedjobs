@@ -2,11 +2,11 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Home from "../pages/Home";
 import JobSeekers from "../pages/JobSeekers";
- 
+
+import ContactUsPage from "../pages/ContactUsPage";
 import AboutUs from "../Componets/AboutUs/AboutUs";
 import Employers from "../pages/Employers";
-import Resource from "../pages/Resource";
-
+import Resource from "../pages/Resource"
 
 const AppRoutes = () => {
   return (
@@ -16,7 +16,10 @@ const AppRoutes = () => {
       <Route path="job-seekers" element={<JobSeekers />} />
       <Route path="contact-us" element={<ContactUsPage />} />
       <Route path="employers" element={<Employers />} />
-      <Route path="resources" element={<Resource/>} />
+      <Route path="contact-us" element={<ContactUsPage />} />
+      <Route path="resource" element={<Resource />} />
+
+
     </Routes>
   );
 };

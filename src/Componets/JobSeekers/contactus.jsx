@@ -10,7 +10,7 @@ const Contactus = () => {
       <p className="text-gray-600 text-sm mb-6">
         We love our customers, so feel free to visit during normal business
         hours.
-      </p>
+      </p> 
 
       <h3 className="text-md font-semibold text-gray-700  tracking-wide mb-2">
         OFFICE BASED JOBS
