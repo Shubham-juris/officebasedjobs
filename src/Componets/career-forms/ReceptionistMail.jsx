@@ -1,97 +1,63 @@
 import React from "react";
 
-const Inmail = () => {
+const ReceptionistMail = () => {
   return (
     <div className="w-full mx-auto">
-      {/* form starts here */}
       <h1 className="text-2xl font-extrabold font-serif drop-shadow-md text-center mt-8 mb-4">
         WE ARE HIRING!
       </h1>
 
-      {/* office administrative assistant */}
       <div className="bg-white container rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8">
         {/* Left Section: Job Description */}
         <div className="md:w-1/2 p-4 px-12">
-          <h2 className="text-2xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
-            Office Administrative Assistant
+          <h2 className="text-4xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
+            Receptionist
           </h2>
-          <p className="text-gray-600 mb-2">Olu</p>
-          <p className="text-gray-600 mb-2">Calgary, AB T2P 1H2</p>
+          <p className="text-gray-600 mb-2">Rooster Building group</p>
+          <p className="text-gray-600 mb-2">Calgary, AB T2G 1X4</p>
 
           <h3 className="text-lg font-semibold mb-2">Job Details</h3>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Pay: $35.40 an hour</li>
+            <li>Pay: $35.50 an hour</li>
             <li>Job type: Permanent, Full-time</li>
-            <li>Location: Calgary, AB T2P 1H2</li>
+            <li>Location: Calgary, AB T2G 1X4</li>
           </ul>
 
           <h3 className="text-lg font-semibold mb-2">Full Job Description</h3>
           <p className="text-sm text-gray-600 mb-2">
-            Education: College, CEGEP or other non-university certificate or
-            diploma from a program of 1 year to 2 years
+            Education: Secondary (high) school graduation certificate
           </p>
           <p className="text-sm text-gray-600 mb-4">
-            Experience: 2 years to less than 3 years or equivalent experience
+            Experience: 1 year to less than 2 years
           </p>
 
           <h4 className="text-md font-medium mb-2">Tasks</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Direct and control daily operations</li>
+            <li>Greet people and direct them to contacts or service areas</li>
+            <li>Provide basic information to clients and the public</li>
+            <li>Obtain and process information required to provide customer service</li>
+            <li>Order office supplies</li>
             <li>Schedule and confirm appointments</li>
+            <li>Send invoices</li>
+            <li>Perform clerical duties, such as filing and sorting and distributing mail</li>
             <li>Answer telephone and relay telephone calls and messages</li>
-            <li>Answer electronic enquiries</li>
-            <li>Compile data, statistics and other information</li>
-            <li>Order office supplies and maintain inventory</li>
-            <li>
-              Set up and maintain manual and computerized information filing
-              systems
-            </li>
-            <li>Perform data entry</li>
-            <li>Provide customer service</li>
-            <li>Maintain and manage digital database</li>
-            <li>Perform basic bookkeeping tasks</li>
-            <li>Arrange for billing for services</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">
-            Computer and Technology Knowledge
-          </h4>
+          <h4 className="text-md font-medium mb-2">Support</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>MS Excel</li>
-            <li>MS Word</li>
-            <li>Electronic scheduler</li>
-            <li>Database software</li>
-            <li>Accounting software</li>
-            <li>MS Office</li>
-          </ul>
-
-          <h4 className="text-md font-medium mb-2">
-            Work Conditions and Physical Capabilities
-          </h4>
-          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to work independently</li>
-            <li>Attention to detail</li>
-            <li>Work with minimal supervision</li>
-          </ul>
-
-          <h4 className="text-md font-medium mb-2">Personal Suitability</h4>
-          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to multitask</li>
-            <li>Organized</li>
-            <li>Team player</li>
-            <li>Accurate</li>
-            <li>Client focus</li>
-            <li>Reliability</li>
-            <li>Time management</li>
-            <li>Dependability</li>
-            <li>Efficiency</li>
-            <li>Positive attitude</li>
+            <li>Support for persons with disabilities</li>
+            <li>Support for newcomers and refugees</li>
+            <li>Support for youths</li>
+            <li>Support for Veterans</li>
+            <li>Support for Indigenous people</li>
+            <li>Support for mature workers</li>
+            <li>Supports for visible minorities</li>
           </ul>
 
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
             <li>Work Term: Permanent</li>
             <li>Work Language: English</li>
-            <li>Hours: 32 to 40 hours per week</li>
+            <li>Hours: 35 to 40 hours per week</li>
           </ul>
         </div>
 
@@ -167,4 +133,4 @@ const Inmail = () => {
   );
 };
 
-export default Inmail;
+export default ReceptionistMail;

@@ -11,7 +11,7 @@ const Form = () => {
       <div className="bg-white container   rounded-lg flex flex-col md:flex-row w-full mx-auto ">
         {/* Left Section: Job Description */}
         <div className="md:w-1/2 p-4 px-12 ">
-          <h2 className="text-2xl drop-shadow-md font-serif font-extrabold ">
+          <h2 className="text-4xl text-blue-600 drop-shadow-md font-serif font-extrabold ">
             Office Manager
           </h2>
           <p className="text-gray-600 ">Calgary Software Developers</p>
@@ -177,7 +177,7 @@ const Form = () => {
       <div className="bg-white container   rounded-lg flex flex-col md:flex-row w-full mx-auto ">
         {/* Left Section: Job Description */}
         <div className="md:w-1/2 p-4 px-12 ">
-          <h2 className="text-2xl drop-shadow-md font-serif font-extrabold ">
+          <h2 className="text-4xl text-blue-600 drop-shadow-md font-serif font-extrabold ">
             Office Clerk
           </h2>
           <p className="text-gray-600 ">AMAYRA ENTERPRISES </p>

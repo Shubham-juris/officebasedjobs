@@ -1,97 +1,91 @@
 import React from "react";
 
-const Inmail = () => {
+const OfficeClerkMail = () => {
   return (
     <div className="w-full mx-auto">
-      {/* form starts here */}
       <h1 className="text-2xl font-extrabold font-serif drop-shadow-md text-center mt-8 mb-4">
         WE ARE HIRING!
       </h1>
 
-      {/* office administrative assistant */}
       <div className="bg-white container rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8">
         {/* Left Section: Job Description */}
         <div className="md:w-1/2 p-4 px-12">
-          <h2 className="text-2xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
-            Office Administrative Assistant
+          <h2 className="text-3xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
+            Office Clerk
           </h2>
-          <p className="text-gray-600 mb-2">Olu</p>
-          <p className="text-gray-600 mb-2">Calgary, AB T2P 1H2</p>
+          <p className="text-gray-600 mb-2">Ricoh</p>
+          <p className="text-gray-600 mb-2">Calgary, AB</p>
 
           <h3 className="text-lg font-semibold mb-2">Job Details</h3>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Pay: $35.40 an hour</li>
-            <li>Job type: Permanent, Full-time</li>
-            <li>Location: Calgary, AB T2P 1H2</li>
+            <li>Job type: Full-time</li>
+            <li>Location: Calgary, AB</li>
           </ul>
 
           <h3 className="text-lg font-semibold mb-2">Full Job Description</h3>
-          <p className="text-sm text-gray-600 mb-2">
-            Education: College, CEGEP or other non-university certificate or
-            diploma from a program of 1 year to 2 years
-          </p>
           <p className="text-sm text-gray-600 mb-4">
-            Experience: 2 years to less than 3 years or equivalent experience
+            The Office Clerk is responsible for supporting the daily operations of one or more Managed Services locations including any or all of the following: copy, print and scanning production and finish work, operation of a mail and courier centre, maintaining billing logs and reports. The position supports the region's Managed Services during implementation, fills in for absences and vacations throughout the Ricoh Managed Services locations. Responsible for supporting operational objectives at all existing customer sites within a geographic territory.
           </p>
 
-          <h4 className="text-md font-medium mb-2">Tasks</h4>
+          <h4 className="text-md font-medium mb-2">Responsibilities</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Direct and control daily operations</li>
-            <li>Schedule and confirm appointments</li>
-            <li>Answer telephone and relay telephone calls and messages</li>
-            <li>Answer electronic enquiries</li>
-            <li>Compile data, statistics and other information</li>
-            <li>Order office supplies and maintain inventory</li>
-            <li>
-              Set up and maintain manual and computerized information filing
-              systems
-            </li>
-            <li>Perform data entry</li>
-            <li>Provide customer service</li>
-            <li>Maintain and manage digital database</li>
-            <li>Perform basic bookkeeping tasks</li>
-            <li>Arrange for billing for services</li>
+            <li>Maintains accurate, complete and up-to-date Site Procedure Guides, forms and logs</li>
+            <li>Collects data for the monthly management report</li>
+            <li>Orders paper, toner and office supplies</li>
+            <li>Assist Site Manager/Supervisor with process improvements</li>
+            <li>Assist in training of employees</li>
+            <li>Work at various client locations as needed</li>
+            <li>Other duties as assigned</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">
-            Computer and Technology Knowledge
-          </h4>
+          <h4 className="text-md font-medium mb-2">Reception & Guest Management</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>MS Excel</li>
-            <li>MS Word</li>
-            <li>Electronic scheduler</li>
-            <li>Database software</li>
-            <li>Accounting software</li>
-            <li>MS Office</li>
+            <li>Greet and assist visitors</li>
+            <li>Manage check-ins and badges</li>
+            <li>Answer phone calls and emails</li>
+            <li>Provide concierge-style guest support</li>
+            <li>Coordinate vendor services and facility requests</li>
+            <li>Manage meeting rooms and supplies</li>
+            <li>Submit IT and printer support requests</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">
-            Work Conditions and Physical Capabilities
-          </h4>
+          <h4 className="text-md font-medium mb-2">Mail</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to work independently</li>
-            <li>Attention to detail</li>
-            <li>Work with minimal supervision</li>
+            <li>Process incoming and outgoing mail</li>
+            <li>Mail fulfillment and shipments</li>
+            <li>Document filing and labeling</li>
+            <li>Shipping/receiving and courier service</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">Personal Suitability</h4>
+          <h4 className="text-md font-medium mb-2">Copy</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to multitask</li>
-            <li>Organized</li>
-            <li>Team player</li>
-            <li>Accurate</li>
-            <li>Client focus</li>
-            <li>Reliability</li>
-            <li>Time management</li>
-            <li>Dependability</li>
-            <li>Efficiency</li>
-            <li>Positive attitude</li>
+            <li>Copy center assistance, binding, laminating, etc.</li>
+            <li>Document scanning and indexing</li>
+            <li>Basic troubleshooting of equipment</li>
           </ul>
 
+          <h4 className="text-md font-medium mb-2">General</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Work Term: Permanent</li>
-            <li>Work Language: English</li>
-            <li>Hours: 32 to 40 hours per week</li>
+            <li>Front desk duties</li>
+            <li>Coordinate work assignments</li>
+            <li>Manage Ricoh Centre in absence of manager</li>
+          </ul>
+
+          <h4 className="text-md font-medium mb-2">Qualifications</h4>
+          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+            <li>High School Diploma or equivalent</li>
+            <li>1+ year experience in mail room, copy center or customer service</li>
+          </ul>
+
+          <h4 className="text-md font-medium mb-2">Skills</h4>
+          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+            <li>Use of photocopier, scanner, printer, etc.</li>
+            <li>Strong interpersonal and multitasking skills</li>
+            <li>Motivated and results-driven</li>
+            <li>Excellent communication skills</li>
+            <li>Microsoft Office 365 knowledge</li>
+            <li>Professional demeanor</li>
+            <li>Ability to lift up to 50 lbs.</li>
           </ul>
         </div>
 
@@ -167,4 +161,4 @@ const Inmail = () => {
   );
 };
 
-export default Inmail;
+export default OfficeClerkMail;

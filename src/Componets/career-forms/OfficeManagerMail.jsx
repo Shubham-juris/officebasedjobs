@@ -1,6 +1,6 @@
 import React from "react";
 
-const Inmail = () => {
+const OfficeManagerMail = () => {
   return (
     <div className="w-full mx-auto">
       {/* form starts here */}
@@ -8,90 +8,82 @@ const Inmail = () => {
         WE ARE HIRING!
       </h1>
 
-      {/* office administrative assistant */}
+      {/* office manager job section */}
       <div className="bg-white container rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8">
         {/* Left Section: Job Description */}
         <div className="md:w-1/2 p-4 px-12">
-          <h2 className="text-2xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
-            Office Administrative Assistant
+          <h2 className="text-4xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
+            Office Manager
           </h2>
-          <p className="text-gray-600 mb-2">Olu</p>
-          <p className="text-gray-600 mb-2">Calgary, AB T2P 1H2</p>
+          <p className="text-gray-600 mb-2">Build for Queen</p>
+          <p className="text-gray-600 mb-2">Calgary, AB T2A 0V1</p>
 
           <h3 className="text-lg font-semibold mb-2">Job Details</h3>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Pay: $35.40 an hour</li>
-            <li>Job type: Permanent, Full-time</li>
-            <li>Location: Calgary, AB T2P 1H2</li>
+            <li>Pay: $32 an hour</li>
+            <li>Job Type: Permanent, Full-time</li>
+            <li>Location: Calgary, AB T2A 0V1</li>
           </ul>
 
           <h3 className="text-lg font-semibold mb-2">Full Job Description</h3>
-          <p className="text-sm text-gray-600 mb-2">
-            Education: College, CEGEP or other non-university certificate or
-            diploma from a program of 1 year to 2 years
-          </p>
-          <p className="text-sm text-gray-600 mb-4">
-            Experience: 2 years to less than 3 years or equivalent experience
-          </p>
+          <p className="text-sm text-gray-600 mb-2 font-semibold">Education:</p>
+          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+            <li>Secondary (high) school graduation certificate</li>
+          </ul>
+
+          <p className="text-sm text-gray-600 mb-2 font-semibold">Experience:</p>
+          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+            <li>1 year to less than 2 years</li>
+          </ul>
 
           <h4 className="text-md font-medium mb-2">Tasks</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Direct and control daily operations</li>
-            <li>Schedule and confirm appointments</li>
-            <li>Answer telephone and relay telephone calls and messages</li>
-            <li>Answer electronic enquiries</li>
-            <li>Compile data, statistics and other information</li>
-            <li>Order office supplies and maintain inventory</li>
-            <li>
-              Set up and maintain manual and computerized information filing
-              systems
-            </li>
-            <li>Perform data entry</li>
-            <li>Provide customer service</li>
-            <li>Maintain and manage digital database</li>
-            <li>Perform basic bookkeeping tasks</li>
-            <li>Arrange for billing for services</li>
+            <li>Implement new administrative procedures</li>
+            <li>Review and evaluate new administrative procedures</li>
+            <li>Establish work priorities and ensure procedures are followed and deadlines are met</li>
+            <li>Carry out administrative activities of establishment</li>
+            <li>Co-ordinate and plan for office services such as accommodation, relocation, equipment, supplies, forms, disposal of assets, parking, maintenance and security services</li>
+            <li>Assist in the preparation of operating budget and maintain inventory and budgetary controls</li>
+            <li>Assemble data and prepare periodic and special reports, manuals and correspondence</li>
+            <li>Train staff</li>
+            <li>Oversee and co-ordinate office administrative procedures</li>
+            <li>Plan and control budget and expenditures</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">
-            Computer and Technology Knowledge
-          </h4>
+          <h4 className="text-md font-medium mb-2">Computer and Technology Knowledge</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+            <li>Electronic mail</li>
+            <li>Spreadsheet</li>
             <li>MS Excel</li>
-            <li>MS Word</li>
-            <li>Electronic scheduler</li>
-            <li>Database software</li>
-            <li>Accounting software</li>
             <li>MS Office</li>
+            <li>MS Outlook</li>
+            <li>MS PowerPoint</li>
+            <li>MS Windows</li>
+            <li>MS Word</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">
-            Work Conditions and Physical Capabilities
-          </h4>
+          <h4 className="text-md font-medium mb-2">Work Conditions and Physical Capabilities</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to work independently</li>
+            <li>Fast-paced environment</li>
+            <li>Work under pressure</li>
+            <li>Tight deadlines</li>
             <li>Attention to detail</li>
-            <li>Work with minimal supervision</li>
+            <li>Large workload</li>
           </ul>
 
           <h4 className="text-md font-medium mb-2">Personal Suitability</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to multitask</li>
+            <li>Efficient interpersonal skills</li>
+            <li>Flexibility</li>
             <li>Organized</li>
-            <li>Team player</li>
-            <li>Accurate</li>
-            <li>Client focus</li>
             <li>Reliability</li>
-            <li>Time management</li>
-            <li>Dependability</li>
-            <li>Efficiency</li>
-            <li>Positive attitude</li>
+            <li>Integrity</li>
           </ul>
 
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
             <li>Work Term: Permanent</li>
             <li>Work Language: English</li>
-            <li>Hours: 32 to 40 hours per week</li>
+            <li>Hours: 36 to 40 hours per week</li>
           </ul>
         </div>
 
@@ -167,4 +159,4 @@ const Inmail = () => {
   );
 };
 
-export default Inmail;
+export default OfficeManagerMail;

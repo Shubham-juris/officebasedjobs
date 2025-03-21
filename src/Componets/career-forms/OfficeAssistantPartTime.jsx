@@ -1,98 +1,65 @@
 import React from "react";
 
-const Inmail = () => {
+const OfficeAssistantPartTime = () => {
   return (
     <div className="w-full mx-auto">
       {/* form starts here */}
-      <h1 className="text-2xl font-extrabold font-serif drop-shadow-md text-center mt-8 mb-4">
+      <h1 className="text-2xl  font-extrabold font-serif drop-shadow-md text-center mt-8 mb-4">
         WE ARE HIRING!
       </h1>
 
-      {/* office administrative assistant */}
+      {/* Office Assistant (Part-Time) */}
       <div className="bg-white container rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8">
         {/* Left Section: Job Description */}
         <div className="md:w-1/2 p-4 px-12">
           <h2 className="text-2xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
-            Office Administrative Assistant
+            Office Assistant (Part-Time)
           </h2>
-          <p className="text-gray-600 mb-2">Olu</p>
-          <p className="text-gray-600 mb-2">Calgary, AB T2P 1H2</p>
+          <p className="text-gray-600 mb-2">TriSummit Utilities Inc.</p>
+          <p className="text-gray-600 mb-2">Calgary, AB</p>
 
           <h3 className="text-lg font-semibold mb-2">Job Details</h3>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Pay: $35.40 an hour</li>
-            <li>Job type: Permanent, Full-time</li>
-            <li>Location: Calgary, AB T2P 1H2</li>
+            <li>Job type: Part-time</li>
           </ul>
 
           <h3 className="text-lg font-semibold mb-2">Full Job Description</h3>
-          <p className="text-sm text-gray-600 mb-2">
-            Education: College, CEGEP or other non-university certificate or
-            diploma from a program of 1 year to 2 years
-          </p>
           <p className="text-sm text-gray-600 mb-4">
-            Experience: 2 years to less than 3 years or equivalent experience
+            TriSummit Utilities Inc. (TSU) is an energy company with natural gas distribution utilities and long-term contracted renewable power generation assets. TSU’s mission is to make communities a better place to live, by connecting them to the energy they want, when they need it, now and into the future. In an ever-changing world, our vision is to adapt, using our energy infrastructure to provide increasing value to our communities and investors. Our people take great pride in supporting and having a positive impact in the communities where we live and work. If you share our passion for these values and are eager to make a meaningful impact, we invite you to join our dedicated team.
           </p>
 
-          <h4 className="text-md font-medium mb-2">Tasks</h4>
+          <h4 className="text-md font-medium mb-2">What You Will Do:</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Direct and control daily operations</li>
-            <li>Schedule and confirm appointments</li>
-            <li>Answer telephone and relay telephone calls and messages</li>
-            <li>Answer electronic enquiries</li>
-            <li>Compile data, statistics and other information</li>
-            <li>Order office supplies and maintain inventory</li>
-            <li>
-              Set up and maintain manual and computerized information filing
-              systems
-            </li>
-            <li>Perform data entry</li>
-            <li>Provide customer service</li>
-            <li>Maintain and manage digital database</li>
-            <li>Perform basic bookkeeping tasks</li>
-            <li>Arrange for billing for services</li>
+            <li>Maintain receptionist duties and support employees and the Senior Office Administrator</li>
+            <li>Welcome guests and visitors</li>
+            <li>Process and distribute mail, couriers, and deliveries</li>
+            <li>Handle catering requests</li>
+            <li>Answer and redirect calls, respond to information requests</li>
+            <li>Ensure office is stocked and fully operational</li>
+            <li>Track facility issues and coordinate with maintenance</li>
+            <li>Support specialized project initiatives</li>
+            <li>Assist with employee events and functions</li>
+            <li>Help complete expenses and other assigned office duties</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">
-            Computer and Technology Knowledge
-          </h4>
+          <h4 className="text-md font-medium mb-2">What You Will Need to Succeed:</h4>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>MS Excel</li>
-            <li>MS Word</li>
-            <li>Electronic scheduler</li>
-            <li>Database software</li>
-            <li>Accounting software</li>
-            <li>MS Office</li>
+            <li>1-2 years experience in an office or customer service role</li>
+            <li>High school diploma and/or post-secondary education in administration</li>
+            <li>Proficiency with Microsoft Office (Word, Excel, PowerPoint, SharePoint)</li>
+            <li>Strong communication, interpersonal, and customer service skills</li>
+            <li>Reliable, detail-oriented, and a strong team player</li>
           </ul>
 
-          <h4 className="text-md font-medium mb-2">
-            Work Conditions and Physical Capabilities
-          </h4>
-          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to work independently</li>
-            <li>Attention to detail</li>
-            <li>Work with minimal supervision</li>
-          </ul>
+          <h4 className="text-md font-medium mb-2">Inclusive Workplace:</h4>
+          <p className="text-sm text-gray-600 mb-4">
+            TriSummit Utilities Inc. is committed to creating an inclusive workplace that celebrates the unique strengths, perspectives, and experiences of all employees. Applications are welcomed from candidates of all backgrounds.
+          </p>
 
-          <h4 className="text-md font-medium mb-2">Personal Suitability</h4>
-          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Ability to multitask</li>
-            <li>Organized</li>
-            <li>Team player</li>
-            <li>Accurate</li>
-            <li>Client focus</li>
-            <li>Reliability</li>
-            <li>Time management</li>
-            <li>Dependability</li>
-            <li>Efficiency</li>
-            <li>Positive attitude</li>
-          </ul>
-
-          <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-            <li>Work Term: Permanent</li>
-            <li>Work Language: English</li>
-            <li>Hours: 32 to 40 hours per week</li>
-          </ul>
+          <h4 className="text-md font-medium mb-2">Ready to Join Us?</h4>
+          <p className="text-sm text-gray-600 mb-4">
+            Submit your resume and cover letter to the Human Resources Department. We look forward to your application!
+          </p>
         </div>
 
         {/* Right Section: Application Form */}
@@ -167,4 +134,4 @@ const Inmail = () => {
   );
 };
 
-export default Inmail;
+export default OfficeAssistantPartTime;

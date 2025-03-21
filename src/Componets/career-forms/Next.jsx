@@ -10,7 +10,7 @@ const Next = () => {
           <div className="bg-white container rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8">
             {/* Left Section: Job Description */}
             <div className="md:w-1/2 p-4 px-12">
-              <h2 className="text-2xl drop-shadow-md font-serif font-extrabold mb-1">
+              <h2 className="text-2xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
                 Administrative Assistant, Legal
               </h2>
               <p className="text-gray-600 mb-2">Axess Law</p>
