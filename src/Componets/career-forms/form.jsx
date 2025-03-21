@@ -17,10 +17,10 @@ const Form = () => {
           <p className="text-gray-600 ">Calgary Software Developers</p>
 
           <p className="text-sm text-gray-600 mb-2">
-            <strong>Date posted:</strong> 23/03/2023
+            <strong>Date posted:</strong> 23/01/2025
           </p>
           <p className="text-sm text-gray-600 mb-4">
-            <strong>Date Expiry:</strong> 24/09/24
+            <strong>Date Expiry:</strong> 24/09/2025
           </p>
           <h3 className="text-lg font-semibold mb-2">Overview</h3>
           <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
@@ -183,7 +183,7 @@ const Form = () => {
           <p className="text-gray-600 ">AMAYRA ENTERPRISES </p>
 
           <p className="text-sm text-gray-600 mb-2">
-            <strong>Date posted:</strong> 19/06/2024
+            <strong>Date posted:</strong> 19/01/2025
           </p>
 
           <h3 className="text-lg font-semibold mb-2">Overview</h3>

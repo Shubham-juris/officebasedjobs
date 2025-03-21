@@ -1,49 +1,8 @@
 import React from "react";
-import image from "../../assets/Image/jobseekers/jobs.jpeg";
-import images from "../../assets/Image/jobseekers/elevateyourcareer.jpg";
-import Contactus from "./contactus";
-const Header = () => {
+const Jobmail = () => {
   return (
     <>
       <div className="w-full  mx-auto">
-        <div className="grid  bg-blue-800 grid-cols-2 grid-rows-1 py-8 px-4  gap-4">
-          <div className="flex items-center justify-center">
-            <img src={image} alt="image" className="h-80" />
-          </div>
-          <div className="p-4 gap-8 text-white flex flex-col  justify-center items-center">
-            <h1 className="text-4xl font-extrabold  font-serif">
-              Elevate Your Career
-            </h1>
-            <p className="font-normal ">
-              Expand your career Possibilities with office Based Jobs
-            </p>
-          </div>
-        </div>
-        <div className=" w-full  flex justify-center items-center py-8  mt-6 p-4">
-          <p className="font-serif font-extrabold   text-3xl ">
-            Discover Office jobs Tailored just for you with us.
-          </p>
-        </div>
-        <div className="grid   grid-cols-2 grid-rows-1 py-8 px-4  gap-4">
-          <div className="p-4 gap-12 text-black flex flex-col  justify-between items-start">
-            <h1 className="text-base tracking-widest font-extrabold  font-serif">
-              Unlock the full potential of your team with office based jobs!
-            </h1>
-            <p className="font-light text-lg ">
-              At Office Based Jobs, we believe that every business has the
-              potential to achieve great things with the right team in place.
-              That's why we offer a range of services to help you attract,
-              develop, and retain top talent. Whether you're seeking your next
-              challenge or looking to take the next step in your career, we
-              offer a range of services tailored to meet your needs.
-            </p>
-          </div>
-
-          <div className="flex items-center justify-center">
-            <img src={images} alt="image" className="h-80" />
-          </div>
-        </div>
-
         {/* form starts here */}
         <h1 className="text-3xl font-extrabold font-serif   text-center mt-8 mb-4">
           WE ARE HIRING
@@ -2639,12 +2598,9 @@ const Header = () => {
             </form>
           </div>
         </div>
-
-        {/* contactus */}
-        <Contactus />
       </div>
     </>
   );
 };
 
-export default Header;
+export default Jobmail;
