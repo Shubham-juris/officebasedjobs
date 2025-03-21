@@ -277,10 +277,10 @@ const Header = () => {
               <p>By email</p>
 
               <a
-                href="mailto:geekology16@gmail.com"
+                href="mailto:kilianholdingltd@gmail.com"
                 className="text-blue-500 underline"
               >
-                geekology16@gmail.com
+                kilianholdingltd@gmail.com
               </a>
 
               <h3>How-to-apply instructions</h3>
@@ -427,10 +427,10 @@ const Header = () => {
               <p>By email</p>
 
               <a
-                href="mailto:geekology16@gmail.com"
+                href="mailto:kilianholdingltd@gmail.com"
                 className="text-blue-500 underline"
               >
-                geekology16@gmail.com
+                kilianholdingltd@gmail.com
               </a>
 
               <h3>How-to-apply instructions</h3>
@@ -577,10 +577,10 @@ const Header = () => {
               <p>By email</p>
 
               <a
-                href="mailto:geekology16@gmail.com"
+                href="mailto:kilianholdingltd@gmail.com"
                 className="text-blue-500 underline"
               >
-                geekology16@gmail.com
+                kilianholdingltd@gmail.com
               </a>
 
               <h3>How-to-apply instructions</h3>
@@ -726,10 +726,10 @@ const Header = () => {
               <p>By email</p>
 
               <a
-                href="mailto:geekology16@gmail.com"
+                href="mailto:info.amayraenterprises@gmail.com"
                 className="text-blue-500 underline"
               >
-                geekology16@gmail.com
+                info.amayraenterprises@gmail.com
               </a>
 
               <h3>How-to-apply instructions</h3>
@@ -890,10 +890,10 @@ const Header = () => {
               <p>By email</p>
 
               <a
-                href="mailto:geekology16@gmail.com"
+                href="mailto:info.amayraenterprises@gmail.com"
                 className="text-blue-500 underline"
               >
-                geekology16@gmail.com
+                info.amayraenterprises@gmail.com
               </a>
 
               <h3>How-to-apply instructions</h3>
@@ -1178,6 +1178,37 @@ const Header = () => {
               <li>Prepare and monitor contracts and budgets</li>
               <li>Store, update and retrieve financial data</li>
             </ul>
+            <h3 className="  text-md mt-4 font-medium  ">Health benefits </h3>
+            <ul className="  list-inside  text-sm text-gray-600 ">
+              <li>Dental plan</li>
+              <li>Health care plan</li>
+            </ul>
+
+            <h3 className="text-lg font-semibold mt-3">How to apply</h3>
+            <div className=" text-sm font-medium text-gray-600  ">
+              <p>By email</p>
+
+              <a
+                href="mailto:kilianholdingltd@gmail.com"
+                className="text-blue-500 underline"
+              >
+                kilianholdingltd@gmail.com
+              </a>
+
+              <h3>How-to-apply instructions</h3>
+              <p>Here is what you must include in your application:</p>
+
+              <h3>Cover letter</h3>
+              <p>
+                This job posting includes screening questions. Please answer the
+                following questions when applying:
+              </p>
+
+              <ul>
+                <li>Are you available for the advertised start date?</li>
+                <li>Are you currently legally able to work in Canada?</li>
+              </ul>
+            </div>
           </div>
 
           {/* Right Section: Application Form */}
