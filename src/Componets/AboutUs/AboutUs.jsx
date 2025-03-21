@@ -1,7 +1,7 @@
 import { Box, Typography, Container } from "@mui/material";
 import { Group as GroupIcon, Search as SearchIcon, Support as SupportIcon } from "@mui/icons-material";
-import TopImg from "../../assets/Image/office.png";
-import Img from "../../assets/Image/office.png";
+import TopImg from "../../assets/Image/AboutUsMain.jpg";
+import Img from "../../assets/Image/AboutUs.jpg";
 
 
 const AboutUs = () => {
