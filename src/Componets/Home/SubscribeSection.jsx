@@ -2,8 +2,8 @@ import React from "react";
 
 const SubscribeSection = () => {
   return (
-    <div className="bg-blue-800 text-white py-10 px-4 text-center">
-      <h2 className="text-4xl font-extrabold font-serif mb-2">Subscribe</h2>
+    <div className="bg-blue-600 text-white py-20 px-4 text-center">
+      <h2 className="text-4xl py-4 font-extrabold font-serif mb-2">Subscribe</h2>
       <p className="mb-6">
         Sign up to hear from us about specials, sales, and events.
       </p>
@@ -12,7 +12,7 @@ const SubscribeSection = () => {
         <input
           type="email"
           placeholder="Email"
-          className="w-4/5 p-3  bg-blue-900  rounded-md text-white outline-none"
+          className="w-4/5 p-3  bg-blue-700  rounded-md text-white outline-none"
         />
         <button className="bg-white text-black text-sm rounded-full font-mono p-2 px-4 hover:bg-gray-200 transition">
           SIGN UP

@@ -127,7 +127,7 @@ const Main = () => {
       </div>
 
       {/* section 3 */}
-      <div className="bg-blue-800 w-full  flex flex-col items-center justify-between py-8 ">
+      <div className="bg-blue-600 w-full  flex flex-col items-center justify-between py-8 ">
         <h1 className="text-white font-bold text-4xl font-serif ">
           Job Seekers Services
         </h1>

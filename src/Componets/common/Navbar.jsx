@@ -21,7 +21,7 @@ const pages = [
   { name: "Employers", path: "/employers" },
   { name: "Resources", path: "/resource" },
   { name: "Contact", path: "/contact-us" },
-  { name: "Location", path: "/location" },
+  // { name: "Location", path: "/location" },
   { name: "Careers", path: "/careers" },
 ];
 

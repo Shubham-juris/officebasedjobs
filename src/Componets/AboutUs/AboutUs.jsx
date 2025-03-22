@@ -4,12 +4,12 @@ import {
   Search as SearchIcon,
   Support as SupportIcon,
 } from "@mui/icons-material";
-import TopImg from "../../assets/Image/AboutUsMain.jpg";
+import TopImg from "../../assets/Image/aboutus/about.jpg";
 import Img from "../../assets/Image/AboutUs.jpg";
 
 const AboutUs = () => {
   return (
-    <Box sx={{ py: 5 }}>
+    <Box sx={{ py: 0 }}>
       {/* Hero Section */}
       {/* <Box
           sx={{
@@ -42,17 +42,17 @@ const AboutUs = () => {
           </Box>
         </Box> */}
       <div className="w-full mx-auto">
-        <div className="grid bg-blue-800 grid-cols-2 py-8 px-4 gap-4">
+        <div className="grid bg-blue-800 grid-cols-2 py-4 px-4 gap-4">
           <div className="flex items-center justify-center">
             <img src={TopImg} alt="Office jobs illustration" className="h-80" />
           </div>
           <div className="p-4 gap-8 text-white flex flex-col justify-center items-center">
             <h1 className="text-4xl font-extrabold font-serif">ABOUT US</h1>
             <p className="font-normal text-center ">
-              At Office Based Jobs, we're more than just a recruitment agency;
+              At Office Based Jobs, we're more than just a recruitment agency
               we're your strategic partner in talent acquisition. With years of
               industry expertise and a passion for connecting top talent with
-              leading companies.
+              leading companies.    
             </p>
           </div>
         </div>
