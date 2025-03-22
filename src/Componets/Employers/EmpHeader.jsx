@@ -1,7 +1,7 @@
 
 
 import React from "react";
-import image from "../../assets/Image/jobs.png";
+import image from "../../assets/Image/employers/empimg.jpg";
 
 const EmpHeader = () => {
   return (

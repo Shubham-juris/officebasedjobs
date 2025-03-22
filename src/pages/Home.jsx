@@ -1,9 +1,10 @@
 import React from "react";
-import Hero from "../Componets/Hero/Hero";
-import Maincontent from "../Componets/Maincontent/Maincontent";
-import Main from "../Componets/Main/Main";
-import ContactUs from "../Componets/ContactUs/ContactUs";
-import SubscribeSection from "../Componets/subscribe-section/SubscribeSection";
+import Hero from "../Componets/Home/Hero";
+import Maincontent from "../Componets/Home/Maincontent";
+import Main from "../Componets/Home/Main";
+import ContactUs from "../Componets/Home/ContactUs";
+import SubscribeSection from "../Componets/Home/SubscribeSection";
+
 
 const Home = () => {
   return (
@@ -13,7 +14,6 @@ const Home = () => {
       <Main />
       <ContactUs />
       <SubscribeSection />
-      {/* <Sitemaintenance/> */}
     </>
   );
 };

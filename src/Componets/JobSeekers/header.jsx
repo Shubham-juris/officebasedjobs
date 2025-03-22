@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../assets/Image/jobseekers/jobs.jpeg";
+import image from "../../assets/Image/jobs.png";
 import images from "../../assets/Image/jobseekers/elevateyourcareer.jpg";
 import Contactus from "./contactus";
 const Header = () => {

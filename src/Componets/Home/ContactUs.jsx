@@ -11,10 +11,9 @@ const ContactUs = () => {
         flexDirection: { xs: "column", md: "row" },
         maxWidth: "1400px",
         margin: "0 auto",
-        padding: { xs: 2, md: 6 },
+        padding: { xs: 2, md: 0 },
         minHeight: "90vh",
         background: "linear-gradient(135deg, #f5f7fa 0%, #ffffff 100%)",
-        borderRadius: { xs: 0, md: "16px" },
         boxShadow: "0 4px 20px rgba(0, 0, 0, 0.1)",
         overflow: "hidden",
       }}
