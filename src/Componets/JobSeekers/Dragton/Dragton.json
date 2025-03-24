@@ -1,0 +1,1214 @@
+
+{
+  "jobs": [
+    {
+      "job_title": "Laser Machine Programmer",
+      "company": "Ice Western",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "Based on experience and trades tickets",
+      "job_type": ["Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Minimum of a Grade 12 education",
+        "experience": "Shop-HVAC experience",
+        "skills": [
+          "Ability to read Shop Drawings",
+          "Flexibility to work overtime",
+          "Forklift Experience",
+          "Superior communication skills"
+        ]
+      },
+      "job_details": {
+        "shift_and_schedule": ["Overtime", "Weekends as needed", "Monday to Friday"],
+        "shift": "Monday to Friday 6 AM to 2:30 PM, every second Saturday 4 hours",
+        "hours_per_week": "40-44 hours",
+        "work_conditions_and_physical_capabilities": [
+          "Combination of lifting, standing, walking",
+          "Manual dexterity",
+          "Overtime required",
+          "Handling heavy loads",
+          "Work under pressure"
+        ],
+        "equipment_and_machinery_experience": [
+          "Laser",
+          "Press Brake",
+          "SHEAR",
+          "Notcher",
+          "Forklift"
+        ],
+        "weight_handling": "Up to 23 kg (50 lbs)",
+        "company_overview": "Since 1991, ICE Western Sales has been at the forefront of manufacturing highly complex Custom HVAC units for the global commercial and industrial markets.",
+        "facilities_hiring": [
+          {
+            "division": "Data Center Manufacture",
+            "address": "7910-48 Street SE, Calgary, AB, T2C 5T8 Canada"
+          },
+          {
+            "division": "Custom HVAC",
+            "address": "9765 - 54 ST SE, Calgary, Alberta"
+          }
+        ],
+        "start_date": "As soon as possible",
+        "vacancies": 1
+      },
+      "benefits": [
+        "Company events",
+        "Dental care",
+        "Paid vacation",
+        "RRSP match",
+        "Vision care"
+      ],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Web Developer",
+      "company": "Infotech Consulting",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "40-50 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor's degree",
+        "experience": "1 year to less than 2 years or equivalent experience"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "32.5-40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Develop and maintain web applications",
+          "Write clean, efficient code",
+          "Collaborate with team members on projects",
+          "Ensure website functionality and performance"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Team Lead, Sales",
+      "company": "Crocs",
+      "location": "Rocky View, Alberta, Canada",
+      "pay": "17-21 CAD/hour",
+      "job_type": ["Permanent", "Full-time", "Part-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor's degree",
+        "experience": "1 year to less than 2 years or equivalent experience"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "32.5-40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Lead sales team to meet targets",
+          "Train and motivate team members",
+          "Monitor sales performance",
+          "Provide excellent customer service"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Support Specialist",
+      "company": "Walsh Ken Immigration",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "30 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma or equivalent experience",
+        "experience": "1 year or more in technical support"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Provide first-level technical support to users",
+          "Troubleshoot hardware and software issues",
+          "Install and configure computer systems",
+          "Respond to help desk tickets promptly",
+          "Document technical issues and resolutions",
+          "Assist with network connectivity problems",
+          "Train users on basic software usage",
+          "Escalate complex issues to senior staff"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Junior Web Developer",
+      "company": "Shabri Gardens Bistro",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "28 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "College, CEGEP, or equivalent experience",
+        "experience": "1 to less than 2 years"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Develop responsive websites using HTML, CSS, and JavaScript",
+          "Collaborate with designers on layout and functionality",
+          "Test websites for cross-browser compatibility",
+          "Update and maintain existing web content",
+          "Fix bugs and optimize page load times",
+          "Integrate APIs and third-party tools",
+          "Ensure website security best practices",
+          "Document development processes"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "System Administrator",
+      "company": "Cyberspace Inc.",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "35 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science or related field",
+        "experience": "2-3 years in system administration"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 3,
+        "responsibilities": [
+          "Install and configure servers and networks",
+          "Monitor system performance and uptime",
+          "Perform regular backups and disaster recovery",
+          "Troubleshoot hardware and software failures",
+          "Implement security patches and updates",
+          "Manage user accounts and permissions",
+          "Optimize server performance and storage",
+          "Document system configurations and changes"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Support Technician",
+      "company": "Tangy Twisters",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "29 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "High school diploma or equivalent",
+        "experience": "1 year in IT support"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Assist users with hardware and software issues",
+          "Set up workstations and peripherals",
+          "Diagnose and resolve technical problems",
+          "Maintain inventory of IT equipment",
+          "Provide remote and on-site support",
+          "Update software and drivers as needed",
+          "Train staff on basic troubleshooting",
+          "Log support tickets and resolutions"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Data Entry Specialist",
+      "company": "Easy Tax Bookkeeping",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "27 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "High school diploma or equivalent",
+        "experience": "Less than 1 year in data entry"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Enter financial data into systems accurately",
+          "Verify and correct data entry errors",
+          "Maintain organized digital records",
+          "Process invoices and payments",
+          "Assist with monthly reconciliations",
+          "Generate basic reports as needed",
+          "Scan and file physical documents",
+          "Collaborate with bookkeeping team"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Network Administrator",
+      "company": "AMR Enterprises",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "32 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Networking or related field",
+        "experience": "2 years in network administration"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 3,
+        "responsibilities": [
+          "Configure and maintain network routers and switches",
+          "Monitor network performance and traffic",
+          "Troubleshoot connectivity and latency issues",
+          "Implement firewall and security measures",
+          "Perform network upgrades and maintenance",
+          "Document network topology and changes",
+          "Manage IP addressing and subnets",
+          "Support remote access solutions"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Project Coordinator",
+      "company": "Source and Recruitment",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "33 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Business or IT",
+        "experience": "1-2 years in project coordination"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Plan and track IT project timelines",
+          "Coordinate tasks between team members",
+          "Communicate project updates to stakeholders",
+          "Manage project budgets and resources",
+          "Prepare status reports and presentations",
+          "Identify and mitigate project risks",
+          "Ensure deliverables meet quality standards",
+          "Document project processes and outcomes"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Technical Support Analyst",
+      "company": "YK Fit Solutions",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "31 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "College diploma in IT or equivalent",
+        "experience": "1 year in technical support"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Respond to user queries via phone and email",
+          "Diagnose software and hardware issues",
+          "Provide step-by-step troubleshooting guidance",
+          "Manage user account setups and permissions",
+          "Update support documentation and FAQs",
+          "Test system updates before deployment",
+          "Coordinate with vendors for repairs",
+          "Track and report recurring issues"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Software Developer",
+      "company": "Fusion Foodies",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "38 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "2-3 years in software development"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Write clean, efficient code for applications",
+          "Debug and resolve software defects",
+          "Collaborate with teams on feature development",
+          "Conduct unit and integration testing",
+          "Optimize software for speed and scalability",
+          "Maintain version control using Git",
+          "Document code and technical specifications",
+          "Participate in code reviews and feedback"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Cybersecurity Analyst",
+      "company": "YK Career College",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "36 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Cybersecurity",
+        "experience": "1-2 years in IT security"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 3,
+        "responsibilities": [
+          "Monitor networks for security threats",
+          "Analyze and respond to security incidents",
+          "Conduct penetration testing and audits",
+          "Implement encryption and firewalls",
+          "Update security policies and procedures",
+          "Train staff on security best practices",
+          "Investigate data breaches and vulnerabilities",
+          "Prepare detailed security reports"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Database Administrator",
+      "company": "The Future Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "34 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Computer Science",
+        "experience": "2 years in database management"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Design and maintain database structures",
+          "Ensure data backup and recovery processes",
+          "Optimize queries for performance",
+          "Troubleshoot database access issues",
+          "Manage user permissions and security",
+          "Monitor database storage and capacity",
+          "Perform regular database maintenance",
+          "Generate data reports as requested"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Cloud Engineer",
+      "company": "Softcore Technologies",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "40 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in IT",
+        "experience": "2-3 years in cloud computing"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Deploy and manage cloud infrastructure",
+          "Monitor cloud resource usage and costs",
+          "Ensure high availability and scalability",
+          "Migrate on-premises systems to cloud",
+          "Implement cloud security protocols",
+          "Automate cloud operations with scripts",
+          "Troubleshoot cloud connectivity issues",
+          "Document cloud architecture and processes"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Help Desk Technician",
+      "company": "Greekology",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "26 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "High school diploma or equivalent",
+        "experience": "Less than 1 year in support"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 3,
+        "responsibilities": [
+          "Answer user inquiries via phone and chat",
+          "Resolve basic hardware/software issues",
+          "Log and track support requests",
+          "Assist with password resets and logins",
+          "Install software updates as needed",
+          "Escalate issues to higher-level support",
+          "Provide basic user training",
+          "Maintain help desk documentation"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Mobile App Developer",
+      "company": "Info Master Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "37 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "2 years in app development"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Develop mobile apps for iOS and Android",
+          "Test apps for functionality and bugs",
+          "Integrate RESTful APIs and services",
+          "Optimize apps for performance and usability",
+          "Collaborate with UI/UX designers",
+          "Maintain app updates and version control",
+          "Ensure app security and data protection",
+          "Document development and testing processes"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Trainer",
+      "company": "Dorlabs Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "32 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Education or IT",
+        "experience": "1-2 years in training"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Deliver IT training to employees",
+          "Create training manuals and videos",
+          "Assess trainee skill levels and progress",
+          "Customize training for different roles",
+          "Teach software and hardware usage",
+          "Update training content regularly",
+          "Provide one-on-one coaching as needed",
+          "Evaluate training effectiveness"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Systems Analyst",
+      "company": "YK Freightways Inc.",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "35 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in IT",
+        "experience": "2 years in systems analysis"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Analyze current IT systems and processes",
+          "Gather and document user requirements",
+          "Recommend system upgrades and solutions",
+          "Test system changes before deployment",
+          "Collaborate with developers and stakeholders",
+          "Monitor system performance post-implementation",
+          "Prepare technical reports and diagrams",
+          "Ensure alignment with business goals"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Network Technician",
+      "company": "Traffic-ology",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "29 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "College diploma in Networking",
+        "experience": "1-2 years in network support"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 3,
+        "responsibilities": [
+          "Install network cables and hardware",
+          "Troubleshoot network outages and issues",
+          "Configure routers and switches",
+          "Monitor network traffic and performance",
+          "Assist with network security setups",
+          "Perform routine maintenance tasks",
+          "Document network configurations",
+          "Support VPN and remote access"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Web Designer",
+      "company": "Kilian Holdings Ltd.",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "31 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Web Design",
+        "experience": "1-2 years in web design"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Create visually appealing website layouts",
+          "Design responsive web interfaces",
+          "Collaborate with developers on coding",
+          "Test designs across devices and browsers",
+          "Update website graphics and content",
+          "Ensure brand consistency in designs",
+          "Gather feedback and iterate designs",
+          "Maintain design documentation"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Auditor",
+      "company": "Walsh Ken Immigration",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "36 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in IT or Accounting",
+        "experience": "2 years in auditing"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Audit IT systems and controls",
+          "Identify security and compliance risks",
+          "Review access logs and permissions",
+          "Prepare detailed audit reports",
+          "Recommend corrective actions",
+          "Ensure adherence to regulations",
+          "Test disaster recovery plans",
+          "Collaborate with management on findings"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "DevOps Engineer",
+      "company": "Office Based Jobs",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "39 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "College, CEGEP, or equivalent experience",
+        "experience": "1 to less than 2 years"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Automate software deployment processes",
+          "Manage CI/CD pipelines and tools",
+          "Monitor system performance and logs",
+          "Collaborate with developers on releases",
+          "Ensure infrastructure scalability",
+          "Troubleshoot deployment issues",
+          "Implement version control systems",
+          "Document DevOps workflows"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Sales Representative",
+      "company": "Shabri Gardens Bistro",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "28 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Business or IT",
+        "experience": "1 year in sales"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 3,
+        "responsibilities": [
+          "Sell IT products and services to clients",
+          "Identify and contact potential customers",
+          "Prepare and deliver sales pitches",
+          "Negotiate contracts and pricing",
+          "Maintain client relationship records",
+          "Meet monthly sales targets",
+          "Provide product demonstrations",
+          "Follow up on leads and inquiries"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Quality Assurance Tester",
+      "company": "Cyberspace Inc.",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "30 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Computer Science",
+        "experience": "1-2 years in QA testing"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Test software for defects and usability",
+          "Write and execute test plans and scripts",
+          "Report bugs to development teams",
+          "Verify fixes and retest applications",
+          "Ensure compliance with requirements",
+          "Perform regression and stress testing",
+          "Document test results and processes",
+          "Collaborate on quality improvement"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Hardware Technician",
+      "company": "Tangy Twisters",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "27 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "High school diploma or equivalent",
+        "experience": "1 year in hardware repair"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Repair and replace computer hardware",
+          "Diagnose hardware malfunctions",
+          "Install components like RAM and drives",
+          "Test hardware functionality post-repair",
+          "Maintain hardware inventory records",
+          "Assist with workstation setups",
+          "Troubleshoot peripheral device issues",
+          "Document repair procedures"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Consultant",
+      "company": "Easy Tax Bookkeeping",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "38 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in IT or Business",
+        "experience": "3 years in IT consulting"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Assess client IT needs and systems",
+          "Recommend technology solutions",
+          "Plan and oversee system implementations",
+          "Provide training on new systems",
+          "Analyze system performance metrics",
+          "Develop cost-benefit analyses",
+          "Ensure solutions meet business goals",
+          "Offer ongoing technical support"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Data Analyst",
+      "company": "AMR Enterprises",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "33 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Data Science",
+        "experience": "1-2 years in data analysis"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Collect and clean large data sets",
+          "Analyze data for trends and patterns",
+          "Create visualizations using tools like Tableau",
+          "Generate reports for management",
+          "Identify data quality issues",
+          "Support strategic decision-making",
+          "Collaborate with teams on data needs",
+          "Document analysis methodologies"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "UI/UX Designer",
+      "company": "Source and Recruitment",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "32 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Design or equivalent",
+        "experience": "1-2 years in UI/UX design"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 3,
+        "responsibilities": [
+          "Design intuitive user interfaces",
+          "Conduct user research and surveys",
+          "Create wireframes and prototypes",
+          "Test designs for usability",
+          "Collaborate with developers on implementation",
+          "Ensure consistent design standards",
+          "Update designs based on feedback",
+          "Document design processes and decisions"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Procurement Specialist",
+      "company": "YK Fit Solutions",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "31 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Diploma in Business or IT",
+        "experience": "1 year in procurement"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Source IT hardware and software vendors",
+          "Negotiate pricing and contract terms",
+          "Manage procurement budgets and timelines",
+          "Track and verify order deliveries",
+          "Maintain vendor relationship records",
+          "Ensure compliance with purchasing policies",
+          "Prepare procurement reports",
+          "Coordinate with IT team on needs"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "AI Developer",
+      "company": "Fusion Foodies",
+      "location": "Calgary, Alberta, Canada",
+      "pay": "41 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in AI or Computer Science",
+        "experience": "2-3 years in AI development"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Build and train AI models",
+          "Develop machine learning algorithms",
+          "Test AI systems for accuracy",
+          "Integrate AI into existing platforms",
+          "Optimize AI performance and efficiency",
+          "Collaborate with data scientists",
+          "Document AI development processes",
+          "Stay updated on AI trends"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "IT Operations Manager",
+      "company": "YK Career College",
+      "location": "Drayton Valley, Alberta, Canada",
+      "pay": "45 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in IT or Management",
+        "experience": "3-5 years in IT operations"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 2,
+        "responsibilities": [
+          "Oversee daily IT operations and staff",
+          "Ensure system reliability and uptime",
+          "Develop and enforce IT policies",
+          "Manage budgets and resource allocation",
+          "Plan system upgrades and maintenance",
+          "Monitor performance metrics and KPIs",
+          "Coordinate with vendors and teams",
+          "Lead incident response and recovery"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    },
+    {
+      "job_title": "Technical Writer",
+      "company": "The Future Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "pay": "29 CAD/hour",
+      "job_type": ["Permanent", "Full-time"],
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in English or IT",
+        "experience": "1-2 years in technical writing"
+      },
+      "job_details": {
+        "shift": "Day",
+        "hours_per_week": "40 hours",
+        "start_date": "As soon as possible",
+        "vacancies": 1,
+        "responsibilities": [
+          "Write clear user manuals and guides",
+          "Document IT systems and processes",
+          "Collaborate with developers on content",
+          "Edit and proofread technical documents",
+          "Create diagrams and screenshots",
+          "Ensure consistency in terminology",
+          "Update documentation as systems evolve",
+          "Gather feedback to improve clarity"
+        ]
+      },
+      "benefits": ["Dental plan", "Health care plan"],
+      "how_to_apply": {
+        "required_documents": ["Cover letter"],
+        "screening_questions": [
+          "Are you available for the advertised start date?",
+          "Are you currently legally able to work in Canada?"
+        ]
+      }
+    }
+  ]
+}
