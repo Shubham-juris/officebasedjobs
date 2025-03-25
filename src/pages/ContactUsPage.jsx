@@ -1,13 +1,5 @@
 import React from "react";
 import ContactPageImg from "../assets/Image/AboutUs.jpg";
-<<<<<<< Updated upstream
-import {
-  Box,
-  Grid,
-  Typography,
-  Button,
-  Card,
-=======
 import ContactPagebgImg from "../assets/Image/ContactUs.jpg";
 import { 
   Box, 
@@ -15,28 +7,18 @@ import {
   Typography, 
   Button, 
   Card, 
->>>>>>> Stashed changes
   CardContent,
   Container,
-  Paper, // Added Paper import
+  Paper
 } from "@mui/material";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore"; // Added import for ExpandMoreIcon
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 const ContactUsPage = () => {
   return (
-    <Box
-      sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}
-    >
+    <Box sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
+      
       {/* Contact Section */}
-      <Box
-        sx={{
-          width: "100%",
-
-          color: "white",
-          py: 2,
-          position: "relative",
-        }}
-      >
+      <Box sx={{ width: "100%", color: "white", py: 2, position: "relative" }}>
         <div className="w-full mx-auto">
           <div className="grid bg-blue-800 grid-cols-2 py-8 px-4 gap-4">
             <div className="flex items-center justify-center">
@@ -48,9 +30,8 @@ const ContactUsPage = () => {
             </div>
             <div className="p-4 gap-8 text-white flex flex-col justify-center items-center">
               <h1 className="text-4xl font-extrabold font-serif">CONTACT US</h1>
-              <p className="font-normal text-center ">
-                At Office Based Jobs, we're here to assist you every step of the
-                way.
+              <p className="font-normal text-center">
+                At Office Based Jobs, we're here to assist you every step of the way.
               </p>
             </div>
           </div>
@@ -60,10 +41,7 @@ const ContactUsPage = () => {
       {/* Services Section */}
       <Box sx={{ width: "100%", bgcolor: "white", py: 8 }}>
         <Container>
-          <Typography
-            variant="h3"
-            sx={{ fontWeight: "bold", textAlign: "center", mb: 6 }}
-          >
+          <Typography variant="h3" sx={{ fontWeight: "bold", textAlign: "center", mb: 6 }}>
             Services for Businesses
           </Typography>
           <Grid container spacing={6} justifyContent="center">
@@ -78,10 +56,7 @@ const ContactUsPage = () => {
                     <Typography variant="h6" sx={{ fontWeight: "bold", mb: 1 }}>
                       {title}
                     </Typography>
-                    <Typography
-                      variant="body2"
-                      sx={{ fontSize: "1.125rem", lineHeight: 1.6 }}
-                    >
+                    <Typography variant="body2" sx={{ fontSize: "1.125rem", lineHeight: 1.6 }}>
                       {title === "EMPLOYEE ONBOARDING"
                         ? "We offer comprehensive onboarding services that help your new hires feel welcome and prepared for their new roles. From paperwork to orientation, we've got you covered."
                         : title === "HR COMPLIANCE"
@@ -99,7 +74,7 @@ const ContactUsPage = () => {
       {/* Contact Modal Section */}
       <Box
         sx={{
-          backgroundImage: `url(${ContactPagebgImg})`, // Replaced placeholder with actual image
+          backgroundImage: `url(${ContactPagebgImg})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           minHeight: "100vh",
@@ -110,66 +85,21 @@ const ContactUsPage = () => {
           padding: 2,
         }}
       >
-        <Container
-          sx={{
-            display: "flex",
-            flexDirection: "column",
-            alignItems: "center",
-          }}
-        >
-          <Typography
-            variant="h3"
-            fontWeight="bold"
-            p="10px"
-            color="Blue"
-            gutterBottom
-          >
+        <Container sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
+          <Typography variant="h3" fontWeight="bold" p="10px" color="Blue" gutterBottom>
             Contact Us
           </Typography>
-          <Paper
-            elevation={3}
-            sx={{
-              p: 4,
-              maxWidth: "600px",
-              height: "430px",
-              textAlign: "center",
-            }}
-          >
-            <Typography
-              variant="subtitle1"
-              fontWeight="bold"
-              fontSize="1.2rem"
-              p="10px"
-              gutterBottom
-            >
+          <Paper elevation={3} sx={{ p: 4, maxWidth: "600px", height: "430px", textAlign: "center" }}>
+            <Typography variant="subtitle1" fontWeight="bold" fontSize="1.2rem" p="10px" gutterBottom>
               BETTER YET, SEE US IN PERSON!
             </Typography>
-            <Typography
-              variant="body2"
-              fontSize="1rem"
-              color="text.secondary"
-              p="10px"
-              gutterBottom
-            >
-              We love our customers, so feel free to visit during normal
-              business hours.
+            <Typography variant="body2" fontSize="1rem" color="text.secondary" p="10px" gutterBottom>
+              We love our customers, so feel free to visit during normal business hours.
             </Typography>
-            <Typography
-              variant="subtitle2"
-              fontSize="1rem"
-              fontWeight="bold"
-              p="10px"
-              mt={2}
-            >
+            <Typography variant="subtitle2" fontSize="1rem" fontWeight="bold" p="10px" mt={2}>
               OFFICE BASED JOBS
             </Typography>
-            <Typography
-              variant="subtitle2"
-              fontSize="1rem"
-              fontWeight="bold"
-              p="20px"
-              mt={1}
-            >
+            <Typography variant="subtitle2" fontSize="1rem" fontWeight="bold" p="20px" mt={1}>
               HOURS
             </Typography>
             <Typography
@@ -184,7 +114,7 @@ const ContactUsPage = () => {
               }}
             >
               Open today 09:00 a.m. – 05:00 p.m.
-              <ExpandMoreIcon fontSize="small" p="20px" sx={{ ml: 1 }} />
+              <ExpandMoreIcon fontSize="small" sx={{ ml: 1 }} />
             </Typography>
             <Button variant="contained" color="primary" sx={{ mt: 3 }}>
               DROP US A LINE!
