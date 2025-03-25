@@ -1,0 +1,181 @@
+{
+    "jobs": [
+      {
+        "job_title": "Accounting Clerk",
+        "company": "The Humberview Group",
+        "location": "Barrie, ON",
+        "pay": "$45,000–$50,000 a year",
+        "job_type": ["Full-time"],
+        "overview": {
+          "experience": "Experience in a dealership accounting role is preferred, but not required",
+          "skills": [
+            "Entry-level accounting abilities",
+            "Experience using CDK and One-Eighty is an asset",
+            "Willing to learn",
+            "Mathematical aptitude",
+            "Strong time management skills",
+            "Basic computer skills and familiarity with Microsoft Office",
+            "A keen eye for detail",
+            "Friendly and a trustworthy individual",
+            "A desire to achieve the very best in customer service and teamwork"
+          ]
+        },
+        "job_details": {
+          "shift_and_schedule": ["Weekends as needed", "Monday to Friday"],
+          "company_overview": "At The Humberview Group, finding great people who are enthusiastic and driven is most important. Our team leaders take great pride in mentoring which ensures we are investing in great people for the long term. Having a great corporate culture with team members who share our values is what makes us stand out.",
+          "tasks": [
+            "Process accounting files for various departments",
+            "Responsible for cash balancing and bank reconciliation",
+            "Prepare and post daily deposits",
+            "Process accounts receivables and collections",
+            "Initiate credit and reference checks with credit institutions when necessary",
+            "Process and reconcile receivables from manufacturer",
+            "Assist in preparation of monthly statements through reconciliation of various accounts",
+            "Perform any other duties as required"
+          ],
+          "additional_info": [
+            "Whether you’re new to the automotive industry or you’re looking for more growth opportunities, we would love to meet you!",
+            "We are an equal opportunity employer and welcome applications from all candidates, including persons with disabilities. Accommodations are available upon request for candidates taking part in any stage of the selection process. We thank all candidates, but only those selected for an interview will be contacted."
+          ]
+        }
+      },
+      {
+        "job_title": "Manager Administration & Operations",
+        "company": "Stevenson Memorial Hospital Foundation",
+        "location": "Alliston, ON",
+        "pay": "$69,000–$82,000 a year",
+        "job_type": ["Full-time"],
+        "overview": {
+          "education": "Bachelor’s degree or Community College diploma in a related field",
+          "experience": "Minimum seven years’ experience in an operations management role",
+          "skills": [
+            "Strong organizational and leadership skills",
+            "Experience with fundraising/CRM database applications",
+            "Excellent team management and communication skills",
+            "Proficiency in MS Office and data analysis",
+            "Ability to manage confidential information professionally",
+            "Ability to proactively resolve issues and multitask"
+          ]
+        },
+        "job_details": {
+          "additional_info": [
+            "Hybrid work"
+          ],
+          "posting_date": "March 17, 2025",
+          "reports_to": "Chief Executive Officer (CEO)",
+          "tasks": [
+            "Oversees daily administrative operations, making sure they align with SMHF objectives",
+            "Oversees annual budget process, including the development of the Foundation’s operational work plan",
+            "Manages and tracks all volunteer information",
+            "Develop and implement operational strategies and procedures",
+            "Coordinates annual general Board meeting",
+            "Works with SMHF Executive Assistant (EA) to support all Board activity",
+            "Ensures efficient support to all ad hoc and standing committees",
+            "Reviews and manages all Board policies",
+            "Monitors and manages operational costs",
+            "Manages resources and processes to ensure budget adherence",
+            "Coordinates team schedules to ensure office coverage",
+            "Other duties as assigned"
+          ]
+        },
+        "benefits": [
+          "Company pension",
+          "Dental care",
+          "Extended health care"
+        ],
+        "how_to_apply": {
+          "required_documents": ["Cover letter", "Resume"],
+          "application_method": "Submit a PDF cover letter and resume by email to foundation@smhosp.on.ca",
+          "notes": [
+            "No phone calls, please",
+            "We thank all applicants for their interest; however, only those selected for an interview will be contacted",
+            "This job posting will remain active until the position is filled"
+          ]
+        }
+      },
+      {
+        "job_title": "Bookkeeper",
+        "company": "Jonathan Audette Professional Corporation",
+        "location": "Barrie, ON L4M 5N6",
+        "pay": "$25 an hour",
+        "job_type": ["Permanent", "Full-time"],
+        "overview": {
+          "education": "College, CEGEP or other non-university certificate or diploma from a program of 3 months to less than 1 year",
+          "experience": "1 year to less than 2 years",
+          "skills": [
+            "Accurate",
+            "Client focus",
+            "Dependability",
+            "Organized",
+            "Reliability",
+            "Team player",
+            "Time management"
+          ]
+        },
+        "job_details": {
+          "hours_per_week": "35 hours",
+          "work_language": "English",
+          "tasks": [
+            "Calculate and prepare cheques for payroll",
+            "Calculate fixed assets and depreciation",
+            "Keep financial records and establish, maintain and balance various accounts using manual and computerized bookkeeping systems",
+            "Maintain general ledgers and financial statements",
+            "Post journal entries",
+            "Prepare other statistical, financial and accounting reports",
+            "Prepare tax returns",
+            "Prepare trial balance of books",
+            "Reconcile accounts"
+          ],
+          "computer_and_technology_knowledge": [
+            "Quick Books",
+            "Simply Accounting",
+            "TaxPrep",
+            "Sage Accounting Software"
+          ],
+          "work_conditions_and_physical_capabilities": [
+            "Ability to work independently",
+            "Attention to detail",
+            "Repetitive tasks",
+            "Tight deadlines",
+            "Work under pressure"
+          ]
+        }
+      },
+      {
+        "job_title": "Receptionist",
+        "company": "Mallory Insurance Brokers LTD.",
+        "location": "45 Collier Street, Barrie, ON L4M 1G5",
+        "pay": "Hourly wage according to experience",
+        "job_type": ["Part-time"],
+        "overview": {
+          "experience": "At least one year customer service experience in a similar environment",
+          "skills": [
+            "Knowledge of computers and relevant software applications",
+            "Keyboard skills",
+            "Knowledge of administrative roles",
+            "Strong communication skills"
+          ]
+        },
+        "job_details": {
+          "shift_and_schedule": ["No weekends", "Monday to Friday"],
+          "schedule_details": [
+            "Part Time - days and hours to be discussed",
+            "Must be willing to cover staff holidays",
+            "No weekends"
+          ],
+          "work_location": "In person",
+          "tasks": [
+            "Greet and welcome clients in a friendly and professional manner",
+            "Promptly answer and direct telephone calls in a friendly, professional manner",
+            "Assist with administrative tasks such as filing and copying",
+            "Ordering and maintaining supplies for the office",
+            "Schedule and prepare couriers and mail; both incoming and outgoing",
+            "Dictation"
+          ],
+          "additional_info": [
+            "We thank all candidates interested in this position, however, only those that meet the qualifications will be contacted"
+          ]
+        }
+      }
+    ]
+  }

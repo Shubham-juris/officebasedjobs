@@ -1,7 +1,7 @@
 import React from 'react';
-import data from './Dragton.json'; 
+import data from './Innisfill.json'; 
 
-const Structure = () => {
+const Structuretow = () => {
   if (!data || !data.jobs) {
     return <div>Error: Job data not found</div>;
   }
@@ -50,18 +50,80 @@ const Structure = () => {
               )}
 
               {/* Additional Details from job_details */}
-              {job.job_details && (
+              {job.job_details?.tasks && (
                 <>
-                  {job.job_details.responsibilities && (
-                    <>
-                      <h4 className="text-md font-medium mb-2">Responsibilities</h4>
-                      <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-                        {job.job_details.responsibilities.map((responsibility, i) => (
-                          <li key={i}>{responsibility}</li>
-                        ))}
-                      </ul>
-                    </>
-                  )}
+                  <h4 className="text-md font-medium mb-2">Responsibilities</h4>
+                  <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+                    {job.job_details.tasks.map((task, i) => (
+                      <li key={`task-${i}`}>{task}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+
+              {/* Computer and Technology Knowledge */}
+              {job.job_details?.computer_and_technology_knowledge && (
+                <>
+                  <h4 className="text-md font-medium mb-2">Technical Skills</h4>
+                  <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+                    {job.job_details.computer_and_technology_knowledge.map((tech, i) => (
+                      <li key={`tech-${i}`}>{tech}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+
+              {/* Work Conditions */}
+              {job.job_details?.work_conditions_and_physical_capabilities && (
+                <>
+                  <h4 className="text-md font-medium mb-2">Work Conditions</h4>
+                  <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+                    {job.job_details.work_conditions_and_physical_capabilities.map((condition, i) => (
+                      <li key={`condition-${i}`}>{condition}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+
+              {/* Benefits */}
+              {job.benefits && (
+                <>
+                  <h4 className="text-md font-medium mb-2">Benefits</h4>
+                  <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+                    {job.benefits.map((benefit, i) => (
+                      <li key={`benefit-${i}`}>{benefit}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+
+              {/* Additional Info */}
+              {job.job_details?.additional_info && (
+                <>
+                  <h4 className="text-md font-medium mb-2">Additional Information</h4>
+                  <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
+                    {job.job_details.additional_info.map((info, i) => (
+                      <li key={`info-${i}`}>{info}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+
+              {/* How to Apply */}
+              {job.how_to_apply && (
+                <>
+                  <h4 className="text-md font-medium mb-2">How to Apply</h4>
+                  <div className="text-sm text-gray-600 mb-4">
+                    {job.how_to_apply.application_method && (
+                      <p>Application Method: {job.how_to_apply.application_method}</p>
+                    )}
+                    {job.how_to_apply.required_documents && (
+                      <p>Required Documents: {job.how_to_apply.required_documents.join(', ')}</p>
+                    )}
+                    {job.how_to_apply.notes && job.how_to_apply.notes.map((note, i) => (
+                      <p key={`note-${i}`}>{note}</p>
+                    ))}
+                  </div>
                 </>
               )}
             </div>
@@ -126,4 +188,4 @@ const Structure = () => {
   );
 };
 
-export default Structure;
+export default Structuretow;
