@@ -126,23 +126,7 @@ const Post = () => {
                 ></textarea>
               </div>
               {/* Screening Questions */}
-              {job.how_to_apply.screening_questions && (
-                <div className="mb-4">
-                  <h4 className="text-md font-medium mb-2">Screening Questions</h4>
-                  {job.how_to_apply.screening_questions.map((question, i) => (
-                    <div key={i} className="mb-2">
-                      <label className="text-sm text-gray-600">{question}</label>
-                      <select
-                        className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-                      >
-                        <option value="">Select an option</option>
-                        <option value="Yes">Yes</option>
-                        <option value="No">No</option>
-                      </select>
-                    </div>
-                  ))}
-                </div>
-              )}
+            
               <button
                 type="submit"
                 className="w-full bg-blue-600 text-white p-3 rounded-full hover:bg-blue-700 transition"
