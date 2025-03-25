@@ -26,7 +26,7 @@ const DrAdministrativeAssistant = () => {
 
         <h3 className="font-semibold mt-4 mb-2">Tasks</h3>
         <ul className="list-disc ml-5 space-y-1">
-          <li>Arrange and co-ordinate seminars, conferences, etc.</li>
+          <li>Arrange and co-ordinate seminars, conferences,  etc.</li>
           <li>Record and prepare minutes of meetings, seminars and conferences</li>
           <li>Determine and establish office procedures and routines</li>
           <li>Schedule and confirm appointments</li>
