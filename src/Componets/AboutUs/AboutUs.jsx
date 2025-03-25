@@ -52,7 +52,7 @@ const AboutUs = () => {
               At Office Based Jobs, we're more than just a recruitment agency
               we're your strategic partner in talent acquisition. With years of
               industry expertise and a passion for connecting top talent with
-              leading companies.    
+              leading companies,    
             </p>
           </div>
         </div>
