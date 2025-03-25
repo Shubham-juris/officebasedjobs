@@ -1,11 +1,21 @@
 import React from "react";
 import ContactPageImg from "../assets/Image/AboutUs.jpg";
+<<<<<<< Updated upstream
 import {
   Box,
   Grid,
   Typography,
   Button,
   Card,
+=======
+import ContactPagebgImg from "../assets/Image/ContactUs.jpg";
+import { 
+  Box, 
+  Grid, 
+  Typography, 
+  Button, 
+  Card, 
+>>>>>>> Stashed changes
   CardContent,
   Container,
   Paper, // Added Paper import
@@ -89,7 +99,7 @@ const ContactUsPage = () => {
       {/* Contact Modal Section */}
       <Box
         sx={{
-          backgroundImage: `url(${ContactPageImg})`, // Replaced placeholder with actual image
+          backgroundImage: `url(${ContactPagebgImg})`, // Replaced placeholder with actual image
           backgroundSize: "cover",
           backgroundPosition: "center",
           minHeight: "100vh",

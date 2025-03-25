@@ -11,7 +11,7 @@
         "languages": "English",
         "education": "Minimum of a Grade 12 education",
         "experience": "Shop-HVAC experience",
-        "skills": [
+        "skills": [  
           "Ability to read Shop Drawings",
           "Flexibility to work overtime",
           "Forklift Experience",
@@ -1066,6 +1066,7 @@
         ]
       }
     },
+    
     {
       "job_title": "IT Procurement Specialist",
       "company": "YK Fit Solutions",
@@ -1210,5 +1211,7 @@
         ]
       }
     }
+    
   ]
 }
+

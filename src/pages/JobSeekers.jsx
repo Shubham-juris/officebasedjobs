@@ -12,6 +12,8 @@ import KsOfficeManager from "../Componets/JobSeekers/kreatesystems/KsOfficeManag
 import KsBranchManager from "../Componets/JobSeekers/kreatesystems/KsBranchManager";
 import KsHumanResourcesSupervisor from "../Componets/JobSeekers/kreatesystems/KsHumanResourcesSupervisor";
 import Structure from "../Componets/JobSeekers/Dragton/Structure";
+import Kreatesystems from '../Componets/JobSeekers/kreatesystems/Kreatesystems'
+import Post from "../Componets/JobSeekers/posts/Post";
 
 const JobSeekers = () => {
   return (
@@ -31,6 +33,8 @@ const JobSeekers = () => {
         <KsBranchManager />
         <KsHumanResourcesSupervisor />
         <Structure />
+        <Kreatesystems />
+        <Post/>
       </div>
     </>
   );
