@@ -1,0 +1,662 @@
+[
+    {
+      "title": "Cloud Solutions Architect",
+      "company": "Softcore Technologies",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$42.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "3-5 years in cloud architecture"
+      },
+      "responsibilities": [
+        "Architect cloud-based solutions for scalability",
+        "Integrate hybrid cloud environments",
+        "Ensure cloud cost efficiency",
+        "Collaborate with infrastructure teams",
+        "Automate cloud resource provisioning",
+        "Monitor cloud solution performance",
+        "Document architectural designs",
+        "Resolve cloud integration challenges"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Cybersecurity Specialist",
+      "company": "Info Master Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "salary": "$38.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Cybersecurity or IT",
+        "experience": "2-4 years in cybersecurity"
+      },
+      "responsibilities": [
+        "Detect and mitigate cyber threats",
+        "Deploy intrusion detection systems",
+        "Conduct penetration testing",
+        "Respond to security incidents",
+        "Ensure compliance with security standards",
+        "Train staff on cybersecurity protocols",
+        "Document incident responses",
+        "Analyze security vulnerabilities"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Network Operations Technician",
+      "company": "Dorlabs Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "salary": "$37.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Diploma or Bachelor’s degree in IT",
+        "experience": "2-3 years in network operations"
+      },
+      "responsibilities": [
+        "Monitor network uptime and performance",
+        "Configure routers and switches",
+        "Implement network redundancy plans",
+        "Troubleshoot connectivity issues",
+        "Update network firmware",
+        "Coordinate with system admins",
+        "Document network operations",
+        "Enhance network reliability"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Software Testing Coordinator",
+      "company": "YK Freightways Inc.",
+      "location": "Innisfil, Alberta, Canada",
+      "salary": "$39.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Software Engineering",
+        "experience": "2-4 years in software testing"
+      },
+      "responsibilities": [
+        "Coordinate testing schedules",
+        "Execute automated test scripts",
+        "Report software defects",
+        "Validate software functionality",
+        "Collaborate with QA teams",
+        "Ensure testing meets deadlines",
+        "Maintain test case libraries",
+        "Suggest testing process improvements"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Database Optimization Specialist",
+      "company": "Source and Recruitment",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$40.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Information Technology",
+        "experience": "3-5 years in database management"
+      },
+      "responsibilities": [
+        "Tune database performance",
+        "Implement indexing strategies",
+        "Secure database access",
+        "Perform data migrations",
+        "Backup critical datasets",
+        "Work with development teams",
+        "Document optimization techniques",
+        "Diagnose database bottlenecks"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "IT Systems Integrator",
+      "company": "Softcore Technologies",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$41.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "3-5 years in systems integration"
+      },
+      "responsibilities": [
+        "Integrate disparate IT systems",
+        "Ensure seamless data flow",
+        "Test system interoperability",
+        "Automate integration processes",
+        "Monitor integration health",
+        "Collaborate with vendors",
+        "Document integration workflows",
+        "Resolve compatibility issues"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Data Privacy Officer",
+      "company": "Info Master Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "salary": "$38.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Cybersecurity or IT",
+        "experience": "2-4 years in data privacy"
+      },
+      "responsibilities": [
+        "Enforce data protection policies",
+        "Audit data handling practices",
+        "Implement privacy controls",
+        "Respond to data breaches",
+        "Ensure regulatory compliance",
+        "Educate staff on privacy laws",
+        "Document privacy procedures",
+        "Assess data risk exposure"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Network Security Analyst",
+      "company": "Dorlabs Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "salary": "$37.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Diploma or Bachelor’s degree in IT",
+        "experience": "2-3 years in network security"
+      },
+      "responsibilities": [
+        "Monitor network traffic for threats",
+        "Configure firewalls and VPNs",
+        "Conduct security assessments",
+        "Mitigate network vulnerabilities",
+        "Update security protocols",
+        "Coordinate with IT teams",
+        "Document security incidents",
+        "Enhance network defenses"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Automation Test Engineer",
+      "company": "YK Freightways Inc.",
+      "location": "Innisfil, Alberta, Canada",
+      "salary": "$39.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Software Engineering",
+        "experience": "2-4 years in automation testing"
+      },
+      "responsibilities": [
+        "Develop automated test frameworks",
+        "Execute performance tests",
+        "Identify automation bottlenecks",
+        "Validate software releases",
+        "Collaborate with coders",
+        "Ensure test coverage",
+        "Maintain automation scripts",
+        "Recommend testing tools"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Data Warehouse Manager",
+      "company": "Source and Recruitment",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$41.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Information Technology",
+        "experience": "3-5 years in data warehousing"
+      },
+      "responsibilities": [
+        "Design data warehouse structures",
+        "Ensure data quality",
+        "Optimize ETL processes",
+        "Secure warehouse access",
+        "Backup warehouse data",
+        "Work with analysts",
+        "Document warehouse designs",
+        "Troubleshoot data issues"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Cloud Migration Specialist",
+      "company": "Softcore Technologies",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$42.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "3-5 years in cloud migration"
+      },
+      "responsibilities": [
+        "Plan cloud migration strategies",
+        "Transfer on-premise systems",
+        "Validate migrated workloads",
+        "Optimize cloud resources",
+        "Automate migration tasks",
+        "Monitor post-migration performance",
+        "Document migration plans",
+        "Fix migration errors"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Incident Response Coordinator",
+      "company": "Info Master Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "salary": "$38.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Cybersecurity or IT",
+        "experience": "2-4 years in incident response"
+      },
+      "responsibilities": [
+        "Lead incident response efforts",
+        "Analyze security breaches",
+        "Coordinate containment actions",
+        "Restore affected systems",
+        "Ensure compliance post-incident",
+        "Train teams on response plans",
+        "Document incident reports",
+        "Improve response protocols"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "IT Infrastructure Analyst",
+      "company": "Dorlabs Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "salary": "$37.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Diploma or Bachelor’s degree in IT",
+        "experience": "2-3 years in infrastructure analysis"
+      },
+      "responsibilities": [
+        "Assess infrastructure performance",
+        "Recommend hardware upgrades",
+        "Monitor system capacity",
+        "Troubleshoot infrastructure issues",
+        "Implement redundancy solutions",
+        "Collaborate with admins",
+        "Document infrastructure status",
+        "Optimize resource usage"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "YK Freightways Inc.",
+      "location": "Innisfil, Alberta, Canada",
+      "salary": "$39.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Software Engineering",
+        "experience": "2-4 years in DevOps"
+      },
+      "responsibilities": [
+        "Build CI/CD pipelines",
+        "Automate deployment processes",
+        "Monitor application performance",
+        "Resolve deployment failures",
+        "Collaborate with developers",
+        "Ensure system scalability",
+        "Document DevOps workflows",
+        "Enhance automation tools"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Database Security Analyst",
+      "company": "Source and Recruitment",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$40.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Information Technology",
+        "experience": "3-5 years in database security"
+      },
+      "responsibilities": [
+        "Secure database environments",
+        "Monitor access logs",
+        "Implement encryption standards",
+        "Respond to data threats",
+        "Backup sensitive data",
+        "Work with security teams",
+        "Document security measures",
+        "Audit database vulnerabilities"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Cloud Network Engineer",
+      "company": "Softcore Technologies",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$41.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "3-5 years in cloud networking"
+      },
+      "responsibilities": [
+        "Design cloud network layouts",
+        "Configure virtual networks",
+        "Ensure network scalability",
+        "Troubleshoot cloud connectivity",
+        "Automate network tasks",
+        "Monitor network health",
+        "Document network setups",
+        "Enhance cloud performance"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Security Compliance Auditor",
+      "company": "Info Master Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "salary": "$38.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Cybersecurity or IT",
+        "experience": "2-4 years in compliance auditing"
+      },
+      "responsibilities": [
+        "Audit IT systems for compliance",
+        "Review security policies",
+        "Assess regulatory adherence",
+        "Report compliance gaps",
+        "Recommend corrective actions",
+        "Train staff on standards",
+        "Document audit findings",
+        "Update compliance processes"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Systems Monitoring Technician",
+      "company": "Dorlabs Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "salary": "$37.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Diploma or Bachelor’s degree in IT",
+        "experience": "2-3 years in systems monitoring"
+      },
+      "responsibilities": [
+        "Monitor system performance",
+        "Detect operational anomalies",
+        "Alert teams to issues",
+        "Troubleshoot system alerts",
+        "Update monitoring tools",
+        "Coordinate with admins",
+        "Document system status",
+        "Optimize monitoring setups"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Software Deployment Specialist",
+      "company": "YK Freightways Inc.",
+      "location": "Innisfil, Alberta, Canada",
+      "salary": "$39.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Software Engineering",
+        "experience": "2-4 years in software deployment"
+      },
+      "responsibilities": [
+        "Plan software rollouts",
+        "Execute deployment scripts",
+        "Verify deployment success",
+        "Automate release processes",
+        "Collaborate with QA teams",
+        "Monitor deployed systems",
+        "Document deployment steps",
+        "Fix rollout issues"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Data Recovery Technician",
+      "company": "Source and Recruitment",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$40.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Information Technology",
+        "experience": "3-5 years in data recovery"
+      },
+      "responsibilities": [
+        "Recover lost data",
+        "Test recovery tools",
+        "Ensure data integrity",
+        "Backup recovered datasets",
+        "Respond to data loss incidents",
+        "Work with IT teams",
+        "Document recovery processes",
+        "Prevent data loss risks"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "IT Project Coordinator",
+      "company": "Softcore Technologies",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$41.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "3-5 years in project coordination"
+      },
+      "responsibilities": [
+        "Coordinate IT project timelines",
+        "Track project milestones",
+        "Facilitate team communication",
+        "Monitor project budgets",
+        "Automate status reporting",
+        "Resolve project delays",
+        "Document project progress",
+        "Ensure deliverables meet goals"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Threat Intelligence Analyst",
+      "company": "Info Master Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "salary": "$38.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Cybersecurity or IT",
+        "experience": "2-4 years in threat analysis"
+      },
+      "responsibilities": [
+        "Research emerging threats",
+        "Analyze threat patterns",
+        "Update security measures",
+        "Respond to threat alerts",
+        "Share intelligence with teams",
+        "Train staff on threats",
+        "Document threat findings",
+        "Enhance threat detection"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Network Configuration Specialist",
+      "company": "Dorlabs Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "salary": "$37.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Diploma or Bachelor’s degree in IT",
+        "experience": "2-3 years in network configuration"
+      },
+      "responsibilities": [
+        "Configure network devices",
+        "Test network setups",
+        "Ensure secure connections",
+        "Troubleshoot config errors",
+        "Update network software",
+        "Collaborate with engineers",
+        "Document configurations",
+        "Optimize network layouts"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Performance Testing Engineer",
+      "company": "YK Freightways Inc.",
+      "location": "Innisfil, Alberta, Canada",
+      "salary": "$39.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Software Engineering",
+        "experience": "2-4 years in performance testing"
+      },
+      "responsibilities": [
+        "Design performance test plans",
+        "Simulate system loads",
+        "Analyze test results",
+        "Optimize software performance",
+        "Collaborate with developers",
+        "Ensure scalability standards",
+        "Document test outcomes",
+        "Recommend performance fixes"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Database Migration Expert",
+      "company": "Source and Recruitment",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$40.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Information Technology",
+        "experience": "3-5 years in database migration"
+      },
+      "responsibilities": [
+        "Plan database migrations",
+        "Execute data transfers",
+        "Validate migrated data",
+        "Secure migration processes",
+        "Backup pre-migration data",
+        "Work with DBAs",
+        "Document migration steps",
+        "Resolve migration issues"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "company": "Softcore Technologies",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$42.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Computer Science",
+        "experience": "3-5 years in cloud security"
+      },
+      "responsibilities": [
+        "Secure cloud environments",
+        "Monitor cloud access",
+        "Implement security controls",
+        "Respond to cloud threats",
+        "Automate security checks",
+        "Collaborate with architects",
+        "Document security setups",
+        "Audit cloud vulnerabilities"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "IT Risk Assessor",
+      "company": "Info Master Tech",
+      "location": "Drayton Valley, Alberta, Canada",
+      "salary": "$38.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Cybersecurity or IT",
+        "experience": "2-4 years in risk assessment"
+      },
+      "responsibilities": [
+        "Evaluate IT risks",
+        "Assess system weaknesses",
+        "Recommend risk mitigation",
+        "Monitor risk levels",
+        "Ensure compliance standards",
+        "Train teams on risks",
+        "Document risk reports",
+        "Update risk strategies"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Systems Upgrade Coordinator",
+      "company": "Dorlabs Tech",
+      "location": "Edmonton, Alberta, Canada",
+      "salary": "$37.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Diploma or Bachelor’s degree in IT",
+        "experience": "2-3 years in system upgrades"
+      },
+      "responsibilities": [
+        "Plan system upgrades",
+        "Test upgrade compatibility",
+        "Execute upgrade rollouts",
+        "Troubleshoot upgrade issues",
+        "Update system software",
+        "Coordinate with admins",
+        "Document upgrade processes",
+        "Ensure minimal downtime"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Software Validation Analyst",
+      "company": "YK Freightways Inc.",
+      "location": "Innisfil, Alberta, Canada",
+      "salary": "$39.50 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Software Engineering",
+        "experience": "2-4 years in software validation"
+      },
+      "responsibilities": [
+        "Validate software functionality",
+        "Execute validation tests",
+        "Report validation failures",
+        "Ensure quality standards",
+        "Collaborate with testers",
+        "Monitor validation progress",
+        "Document validation results",
+        "Suggest validation improvements"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    },
+    {
+      "title": "Data Integrity Supervisor",
+      "company": "Source and Recruitment",
+      "location": "Calgary, Alberta, Canada",
+      "salary": "$41.00 per hour / 40 hours per week",
+      "overview": {
+        "languages": "English",
+        "education": "Bachelor’s degree in Information Technology",
+        "experience": "3-5 years in data management"
+      },
+      "responsibilities": [
+        "Oversee data integrity",
+        "Audit data accuracy",
+        "Implement integrity checks",
+        "Resolve data discrepancies",
+        "Backup critical data",
+        "Work with DBAs",
+        "Document integrity processes",
+        "Enhance data reliability"
+      ],
+      "health_benefits": ["Dental plan", "Health care plan"]
+    }
+  ]
