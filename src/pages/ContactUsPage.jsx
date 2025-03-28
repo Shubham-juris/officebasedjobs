@@ -6,14 +6,12 @@ import {
   Grid, 
   Typography, 
   Button, 
-  Card, 
-  CardContent,
   Container,
   Paper
 } from "@mui/material";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-
 const ContactUsPage = () => {
+  
   return (
     <Box sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
       
