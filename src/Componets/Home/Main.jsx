@@ -3,6 +3,7 @@ import { Box, Typography } from "@mui/material";
 import jobsImage from "../../assets/Image/jobs.png"; // Imported image
 import officeman from "../../assets/Image/officeman.png";
 import { FileSearch, Lightbulb, MessageSquareText } from "lucide-react";
+
 const Main = () => {
   return (
     <>
@@ -125,8 +126,8 @@ const Main = () => {
         </div>
       </div>
       {/* section 3 */}
-      <div className="bg-blue-600 w-full flex flex-col items-center justify-between py-36">
-        <h1 className="text-white font-bold text-2xl md:text-4xl font-serif py-10">
+      <div className="bg-blue-600 w-full flex flex-col items-center justify-between py-16">
+        <h1 className="text-white font-bold text-2xl md:text-4xl font-serif py-12">
           Job Seekers Services
         </h1>
 
