@@ -6,7 +6,7 @@ function Hero() {
   return (
     <Box
       sx={{
-        height: { xs: '500px', md: '700px' },
+        height: '100vh',
         backgroundImage: `linear-gradient(rgba(185, 185, 190, 0.5), rgba(23, 23, 252, 0.5)), url(${officejobs})`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
@@ -18,14 +18,14 @@ function Hero() {
         alignItems: 'center',
         textAlign: 'center',
         position: 'relative',
-        px: { xs: 2, md: 0 },
+        px: { xs: 2, md: 4 },
       }}
     >
-      <Box sx={{ width: { xs: '90%', sm: '700px' }, maxWidth: '100%' }}>
+      <Box sx={{ width: { xs: '90%', sm: '80%', md: '60%' }, maxWidth: '100%' }}>
         <Typography
           variant="h1"
           sx={{
-            fontSize: { xs: '2.5rem', sm: '3rem', md: '4rem' },
+            fontSize: { xs: '2rem', sm: '3rem', md: '4rem' },
             fontWeight: 'bold',
             marginBottom: '1rem',
             textShadow: '2px 2px 4px rgba(0,0,0,0.5)',

@@ -1,8 +1,7 @@
 import React from "react";
-
 const Bookkeeper = () => {
   return (
-    <div className="w-full mx-auto">
+    <div className="w-full mx-auto px-4 sm:px-6 lg:px-8">
       {/* form starts here */}
       <h1 className="text-2xl font-extrabold font-serif drop-shadow-md text-center mt-8 mb-4">
         WE ARE HIRING!

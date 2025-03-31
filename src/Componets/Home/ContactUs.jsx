@@ -11,7 +11,7 @@ const ContactUs = () => {
         flexDirection: { xs: "column", md: "row" },
         maxWidth: "1400px",
         margin: "0 auto",
-        padding: { xs: 2, md: 0 },
+        padding: { xs: 2, md: 4 },
         minHeight: "90vh",
         background: "linear-gradient(135deg, #f5f7fa 0%, #ffffff 100%)",
         boxShadow: "0 4px 20px rgba(0, 0, 0, 0.1)",
@@ -40,6 +40,7 @@ const ContactUs = () => {
             textTransform: "uppercase",
             letterSpacing: "1px",
             mb: 4,
+            fontSize: { xs: "1.5rem", md: "2.5rem" },
           }}
         >
           Contact Us
@@ -53,6 +54,7 @@ const ContactUs = () => {
             color: "#424242",
             textTransform: "uppercase",
             mb: 4,
+            fontSize: { xs: "1rem", md: "1.5rem" },
           }}
         >
           Drop Us A Line!
@@ -141,11 +143,15 @@ const ContactUs = () => {
             color: "#424242",
             textTransform: "uppercase",
             mb: 3,
+            fontSize: { xs: "1rem", md: "1.5rem" },
           }}
         >
           Better Yet, See Us In Person!
         </Typography>
-        <Typography variant="body1" sx={{ mb: 3, color: "#757575" }}>
+        <Typography
+          variant="body1"
+          sx={{ mb: 3, color: "#757575", fontSize: { xs: "0.9rem", md: "1rem" } }}
+        >
           We love our customers, so feel free to visit during normal business
           hours.
         </Typography>
@@ -153,14 +159,29 @@ const ContactUs = () => {
           variant="h6"
           component="h3"
           gutterBottom
-          sx={{ fontWeight: 700, color: "#424242", mb: 1 }}
+          sx={{
+            fontWeight: 700,
+            color: "#424242",
+            mb: 1,
+            fontSize: { xs: "1rem", md: "1.25rem" },
+          }}
         >
           Office Based Jobs
         </Typography>
-        <Typography variant="body2" sx={{ mb: 2, color: "#757575" }}>
+        <Typography
+          variant="body2"
+          sx={{ mb: 2, color: "#757575", fontSize: { xs: "0.8rem", md: "1rem" } }}
+        >
           Hours
         </Typography>
-        <Typography variant="body1" color="primary" sx={{ fontWeight: 500 }}>
+        <Typography
+          variant="body1"
+          color="primary"
+          sx={{
+            fontWeight: 500,
+            fontSize: { xs: "0.9rem", md: "1rem" },
+          }}
+        >
           Open today 09:00 a.m. - 05:00 p.m. ▼
         </Typography>
         <IconButton
