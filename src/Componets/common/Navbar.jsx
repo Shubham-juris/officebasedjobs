@@ -36,7 +36,11 @@ function Navbar() {
     <Box sx={{ flexGrow: 1, position: "sticky", top: 0, zIndex: 9 }}>
       <AppBar
         position="absolute"
-        sx={{ padding: 1, boxShadow: "none", backgroundColor: "white" }}
+        sx={{
+          padding: { xs: 0.5, sm: 1 },
+          boxShadow: "none",
+          backgroundColor: "white",
+        }}
       >
         <Container maxWidth="xl">
           <Toolbar disableGutters>
@@ -44,12 +48,20 @@ function Navbar() {
             <Box
               component={Link}
               to="/"
-              sx={{ display: "flex", alignItems: "center" }}
+              sx={{
+                display: "flex",
+                alignItems: "center",
+                flexGrow: { xs: 1, md: 0 },
+              }}
             >
               <img
                 src={officejob}
                 alt="Logo"
-                style={{ height: 40, marginRight: "1rem" }}
+                style={{
+                  height: 30,
+                  marginRight: "1rem",
+                  objectFit: "contain",
+                }}
               />
             </Box>
 
@@ -81,11 +93,12 @@ function Navbar() {
                 ))}
               </Menu>
             </Box>
+
             {/* Desktop Menu */}
             <Box
               sx={{
                 display: { xs: "none", md: "flex" },
-                gap: 2,
+                gap: { md: 2, lg: 3 },
                 flexGrow: 1,
                 justifyContent: "flex-end",
               }}
@@ -98,7 +111,7 @@ function Navbar() {
                   sx={{
                     color: location.pathname === path ? "blue" : "black",
                     fontWeight: location.pathname === path ? "bold" : "normal",
-                    fontSize: "1rem",
+                    fontSize: { md: "0.9rem", lg: "1rem" },
                     textTransform: "none",
                     position: "relative",
                     "&:hover": {
