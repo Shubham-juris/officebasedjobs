@@ -43,8 +43,7 @@ function Navbar() {
         }}
       >
         <Container maxWidth="xl">
-          <Toolbar disableGutters>
-            {/* Logo */}
+          <Toolbar disableGutters sx={{ justifyContent: "space-between" }}>
             <Box
               component={Link}
               to="/"
@@ -52,6 +51,7 @@ function Navbar() {
                 display: "flex",
                 alignItems: "center",
                 flexGrow: { xs: 1, md: 0 },
+                marginRight: { xs: 2, sm: 3 },
               }}
             >
               <img
@@ -66,8 +66,17 @@ function Navbar() {
             </Box>
 
             {/* Mobile Menu */}
-            <Box sx={{ display: { xs: "flex", md: "none" }, flexGrow: 1 }}>
-              <IconButton onClick={handleOpenNavMenu} sx={{ color: "black" }}>
+            <Box
+              sx={{
+                display: { xs: "flex", md: "none" },
+                flexGrow: 0,
+                marginLeft: "auto",
+              }}
+            >
+              <IconButton
+                onClick={handleOpenNavMenu}
+                sx={{ color: "black", marginLeft: 2 }}
+              >
                 <MenuIcon />
               </IconButton>
               <Menu

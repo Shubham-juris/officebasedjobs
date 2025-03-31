@@ -94,7 +94,6 @@ const Main = () => {
           />
         </Box>
       </Box>
-
       {/* section-2 */}
       <div className="flex flex-col md:flex-row items-center justify-between overflow-hidden bg-white">
         {/* Left Section - Image */}
@@ -120,15 +119,14 @@ const Main = () => {
           </p>
 
           {/* Button */}
-          <button className="mt-6 px-6 py-2 border border-blue-500 text-blue-500 rounded-full hover:bg-blue-500 hover:text-white transition-all">
+          <button className="mt-6 px-6 py-2 border border-blue-500 text-blue-500 rounded-full hover:bg-blue-500 hover:text-white transition-all my-4 mx-auto md:mx-0">
             CONTACT TALENTS
           </button>
         </div>
       </div>
-
       {/* section 3 */}
-      <div className="bg-blue-600 w-full flex flex-col items-center justify-between py-8">
-        <h1 className="text-white font-bold text-2xl md:text-4xl font-serif">
+      <div className="bg-blue-600 w-full flex flex-col items-center justify-between py-36">
+        <h1 className="text-white font-bold text-2xl md:text-4xl font-serif py-10">
           Job Seekers Services
         </h1>
 
