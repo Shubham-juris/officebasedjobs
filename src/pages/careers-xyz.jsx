@@ -29,17 +29,16 @@ import AiReceptionistMail from "../Componets/career-forms/Alpine/AiReceptionistM
 import AiBookkeeper from "../Componets/career-forms/Alpine/AiBookkeeper";
 import AiAdministrativeAssistant from "../Componets/career-forms/Alpine/AiAdministrativeAssistant";
 
-
 const Careers = () => {
   return (
     <>
       <Form />
-      <Jobmail />
-      < Inmail />
+      {/* <Jobma`il /> */}
+      <Inmail />
       <Next />
-      <OfficeManagerMail/>
-      <CustomerServiceMail/>
-      <ReceptionistMail/>
+      <OfficeManagerMail />
+      <CustomerServiceMail />
+      <ReceptionistMail />
       <OfficeClerkMail />
       <OfficeAssistantPartTime />
       <Bookkeeper />
@@ -62,7 +61,6 @@ const Careers = () => {
       <AiReceptionistMail />
       <AiBookkeeper />
       <AiAdministrativeAssistant />
-
     </>
   );
 };

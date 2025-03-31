@@ -3,9 +3,9 @@ import React from "react";
 
 const DrAdministrativeAssistant = () => {
   return (
-    <div className="flex flex-col md:flex-row min-h-screen bg-white text-black">
+    <div className="flex flex-col lg:flex-row min-h-screen bg-white text-black">
       {/* Left Section: Job Description */}
-      <div className="w-full md:w-1/2 p-6 overflow-y-auto">
+      <div className="w-full lg:w-1/2 p-6 overflow-y-auto">
         <h2 className="text-2xl font-semibold mb-1">Administrative Assistant</h2>
         <p className="text-sm text-gray-600 mb-4">Vital Safety Training Ltd. || Drayton Valley, AB T7A 1R7</p>
 
@@ -26,7 +26,7 @@ const DrAdministrativeAssistant = () => {
 
         <h3 className="font-semibold mt-4 mb-2">Tasks</h3>
         <ul className="list-disc ml-5 space-y-1">
-          <li>Arrange and co-ordinate seminars, conferences,  etc.</li>
+          <li>Arrange and co-ordinate seminars, conferences, etc.</li>
           <li>Record and prepare minutes of meetings, seminars and conferences</li>
           <li>Determine and establish office procedures and routines</li>
           <li>Schedule and confirm appointments</li>
@@ -76,7 +76,7 @@ const DrAdministrativeAssistant = () => {
       </div>
 
       {/* Right Section: Application Form */}
-      <div className="w-full md:w-1/2 p-6">
+      <div className="w-full lg:w-1/2 p-6">
         <div className="flex justify-start mb-4">
           <button className="text-black font-thin">APPLY NOW</button>
         </div>
