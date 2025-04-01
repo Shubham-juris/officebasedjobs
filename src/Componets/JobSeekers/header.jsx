@@ -4,13 +4,14 @@ import images from "../../assets/Image/jobseekers/elevateyourcareer.jpg";
 const Header = () => {
   return (
     <>
-      <div className="w-full">
+      <div className="w-full pb-9">
         <div className="grid bg-blue-800 grid-cols-1 md:grid-cols-2 py-8 px-4 gap-4">
           <div className="flex items-center justify-center order-2 md:order-1">
             <img
+              style={{ width: "500px", height: "320px" }}
               src={image}
               alt="image"
-              className="h-48 w-[80%] sm:w-[90vh] md:h-80 md:w-auto"
+              className="h-48 w-[100%] sm:w-[90vh] md:h-80 md:w-auto"
             />
           </div>
           <div className="p-4 gap-4 md:gap-8 text-white flex flex-col justify-center items-center order-1 md:order-2">
@@ -47,39 +48,6 @@ const Header = () => {
           </div>
           <div className="flex items-center justify-center">
             <img src={images} alt="image" className="h-48 md:h-80 w-auto" />
-          </div>
-        </div>
-
-        {/* Job Listings */}
-        {/* Each job listing card */}
-        <h1 className="text-2xl md:text-3xl font-extrabold font-serif text-center mt-8 mb-4">
-          WE ARE HIRING
-        </h1>
-
-        {/* Job Cards - Make each job card responsive */}
-        <div className="bg-white rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8">
-          <div className="w-full md:w-1/2 p-4 md:px-12">
-            {/* Job details content */}
-            {/* Maintain the same structure but adjust padding and margins */}
-          </div>
-
-          {/* Application Form */}
-          <div className="w-full md:w-1/2 p-4 md:p-6">
-            <div className="flex justify-start mb-4">
-              <button className="text-black font-thin">APPLY NOW</button>
-            </div>
-
-            <form className="space-y-4">
-              {/* Form fields with responsive padding and margins */}
-              <div className="mb-4">
-                <input
-                  type="text"
-                  placeholder="Name"
-                  className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-                />
-              </div>
-              {/* Other form fields... */}
-            </form>
           </div>
         </div>
 

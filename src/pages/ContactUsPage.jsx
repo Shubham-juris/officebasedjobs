@@ -27,6 +27,9 @@ const ContactUsPage = () => {
                 At Office Based Jobs, we're here to assist you every step of the
                 way.
               </p>
+              <button className="relative px-6 py-3 text-white text-sm md:text-base font-semibold rounded-full border-2 border-white bg-blue-700 hover:bg-blue-800 transition-all">
+                FIND OUT MORE
+              </button>
             </div>
           </div>
         </div>

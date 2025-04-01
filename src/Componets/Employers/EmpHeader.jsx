@@ -7,9 +7,10 @@ const EmpHeader = () => {
       <div className="grid bg-blue-800 grid-cols-1 md:grid-cols-2 py-8 px-4 gap-4">
         <div className="flex items-center justify-center">
           <img
+            style={{ width: "500px", height: "320px" }}
             src={image}
             alt="Office jobs illustration"
-            className="h-60 md:h-80 w-90 md:w-80" // Increased width for mobile and desktop devices
+            className="h-60 w-[50rem] md:h-80 w-90 md:w-80" // Increased width for mobile and desktop devices
           />
         </div>
         <div className="p-4 gap-4 md:gap-8 text-white flex flex-col justify-center items-center">
