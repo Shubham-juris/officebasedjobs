@@ -7,6 +7,7 @@ const ResourceHeader = () => {
       <div className="grid bg-blue-800 grid-cols-1 md:grid-cols-2 py-8 px-4 gap-4">
         <div className="flex items-center justify-center">
           <img
+            style={{ width: "500px", height: "320px" }}
             src={image}
             alt="Office jobs illustration"
             className="h-auto max-w-full md:h-[320px] md:w-[462px] object-cover"

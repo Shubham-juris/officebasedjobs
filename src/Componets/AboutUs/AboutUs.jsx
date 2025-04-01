@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   Container,
   Typography,
@@ -60,8 +60,9 @@ const AboutUs = () => {
       >
         <Box sx={{ flex: 1, px: { xs: 2, md: 8 } }}>
           <Typography
-            variant="h5"
-            md={{ variant: "h4" }}
+            variant="h4"
+            md={{ variant: "h3" }}
+           
             fontWeight="bold"
             gutterBottom
           >
@@ -91,6 +92,20 @@ const AboutUs = () => {
             recruitment solutions, recognized for our commitment to excellence,
             innovation, and integrity.
           </Typography>
+          <Typography variant="h6" fontWeight="bold" sx={{ mt: 3 }}>
+            OUR SERVICES
+          </Typography>
+          <Typography
+            variant="body2"
+            md={{ variant: "body1" }}
+            sx={{ mt: 1, lineHeight: 1.6 }}
+          >
+            We provide personalized guidance and strategic advice to help
+            businesses navigate the recruitment process effectively. Our team
+            works closely with clients to understand their unique needs and
+            develop customized solutions that align with their goals and
+            objectives.
+          </Typography>
         </Box>
         <Box sx={{ flex: 1, display: "flex", justifyContent: "center" }}>
           <img
@@ -100,6 +115,63 @@ const AboutUs = () => {
             loading="lazy"
           />
         </Box>
+      </Box>
+      {/* why choose us section */}
+      <Box sx={{ py: 10, fontFamily: "cursive" }}>
+        <Container>
+          {/* Heading */}
+          <Typography
+            variant="h4"
+            fontWeight="bold"
+            fontFamily="cursive"
+            textAlign="center"
+            gutterBottom
+          >
+            WHY CHOOSE US?
+          </Typography>
+
+          <Grid container spacing={4}>
+            {/* Left Section */}
+            <Grid item xs={12} md={7}>
+              <Typography
+                padding={4}
+                variant="h6"
+                fontFamily="cursive"
+                fontWeight="bold"
+                textAlign="left"
+              >
+                WELCOME TO OFFICE BASED JOBS!
+              </Typography>
+              <Typography px={4} variant="body1" sx={{ mt: 1 }}>
+                Choose us for our unmatched expertise in office-based
+                recruitment, where personalized service meets innovative
+                solutions. With a wealth of industry experience, we offer
+                tailored strategies to meet your unique hiring needs, backed by
+                an extensive network of top-tier talent. Our commitment to
+                transparent communication ensures you're always in the loop,
+                while our results-driven approach ensures tangible outcomes that
+                drive growth and success for your organization.
+              </Typography>
+            </Grid>
+
+            {/* Right Section */}
+            <Grid item xs={12} md={5}>
+              <Typography
+                padding={4}
+                variant="h6"
+                fontFamily="cursive"
+                fontWeight="bold"
+              >
+                OUR APPROACH
+              </Typography>
+              <Typography px={4} variant="body1" sx={{ mt: 1 }}>
+                We leverage the latest technologies and recruitment strategies
+                to stay ahead of the curve. From advanced candidate screening
+                techniques to cutting-edge sourcing methods.
+              </Typography>
+            </Grid>
+          </Grid>
+        </Container>
       </Box>
 
       {/* Our Services Section */}
