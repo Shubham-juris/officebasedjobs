@@ -152,7 +152,7 @@ export default function ContactUs() {
               gutterBottom
               sx={{ fontSize: { xs: "0.875rem", md: "1rem" } }}
             >
-              We love our customers, so feel free to visit during normal
+              We love our customers. so feel free to visit during normal
               business hours.
             </Typography>
             <Typography
