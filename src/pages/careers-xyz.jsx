@@ -37,7 +37,7 @@ const Careers = () => {
       <Inmail />
       <Next />
       <OfficeManagerMail />
-      <CustomerServiceMail />
+      {/* <CustomerServiceMail /> */}
       <ReceptionistMail />
       <OfficeClerkMail />
       <OfficeAssistantPartTime />

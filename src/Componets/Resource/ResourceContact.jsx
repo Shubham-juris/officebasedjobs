@@ -2,21 +2,21 @@ import React, { useState } from "react";
 import { ChevronDown, ChevronUp } from "lucide-react";
 
 const ResourceContact = () => {
-  const [formData, setFormData] = useState({
-    name: "",
-    email: "",
-    message: "",
-  });
+  // const [formData, setFormData] = useState({
+  //   name: "",
+  //   email: "",
+  //   message: "",
+  // });
 
-  const handleChange = (e) => {
-    setFormData((prev) => ({ ...prev, [e.target.name]: e.target.value }));
-  };
+  // const handleChange = (e) => {
+  //   setFormData((prev) => ({ ...prev, [e.target.name]: e.target.value }));
+  // };
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // TODO: Submit to your backend or email API
-    console.log("Form submitted:", formData);
-  };
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  //   // TODO: Submit to your backend or email API
+  //   console.log("Form submitted:", formData);
+  // };
 
   const [showHours, setShowHours] = useState(false);
 

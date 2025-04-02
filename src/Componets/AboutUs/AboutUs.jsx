@@ -62,7 +62,6 @@ const AboutUs = () => {
           <Typography
             variant="h4"
             md={{ variant: "h3" }}
-           
             fontWeight="bold"
             gutterBottom
           >

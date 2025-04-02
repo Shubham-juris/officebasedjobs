@@ -15,17 +15,22 @@ const CustomerServiceMail = () => {
           <h2 className="text-xl sm:text-2xl text-blue-600 drop-shadow-md font-serif font-extrabold mb-1">
             Customer Service Clerks Supervisor
           </h2>
-          <p className="text-gray-600 mb-2 text-sm sm:text-base">Triple Three Trading Ltd.</p>
-          <p className="text-gray-600 mb-2 text-sm sm:text-base">Calgary, AB T2G 1V3</p>
+          <p className="text-gray-600 mb-2 text-sm sm:text-base">
+            Triple Three Trading Ltd.
+          </p>
+          <p className="text-gray-600 mb-2 text-sm sm:text-base">
+            Calgary, AB T2G 1V3
+          </p>
 
           {/* Rest of the left section content remains the same, just add text-sm sm:text-base to paragraph elements */}
-
         </div>
 
         {/* Right Section: Application Form */}
         <div className="w-full md:w-1/2 p-4 sm:p-6">
           <div className="flex justify-start mb-4">
-            <button className="text-black font-thin text-sm sm:text-base">APPLY NOW</button>
+            <button className="text-black font-thin text-sm sm:text-base">
+              APPLY NOW
+            </button>
           </div>
 
           <form className="space-y-4">
@@ -79,7 +84,9 @@ const CustomerServiceMail = () => {
                 </svg>
                 <span>Attach Resume</span>
               </button>
-              <p className="text-xs sm:text-sm text-gray-500">Attachments (0)</p>
+              <p className="text-xs sm:text-sm text-gray-500">
+                Attachments (0)
+              </p>
             </div>
             <button
               type="submit"
