@@ -34,7 +34,11 @@ const ResourceSection = () => {
           </span>
         </div>
         <div className="w-full md:w-[60%] mt-8 md:mt-0 flex justify-center md:justify-end">
-          <img className="max-w-full h-auto" src={img} alt="" />
+          <img
+            className="max-w-[80%] h-auto p-4"
+            src={img}
+            alt=""
+          />
         </div>
       </div>
     </div>

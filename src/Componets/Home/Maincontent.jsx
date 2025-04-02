@@ -31,7 +31,7 @@ function Maincontent() {
           flexDirection: { xs: "column", md: "row" },
           height: { xs: "auto", md: "auto" },
           px: { xs: 2, md: 5 },
-          py: { xs: 5, md: 10 },
+          py: { xs: 2, md: 0 },
         }}
       >
         <Box
@@ -42,7 +42,7 @@ function Maincontent() {
             width: { xs: "100%", md: "50%" },
             height: "auto",
             objectFit: "cover",
-            mb: { xs: 3, md: 0 },
+            mb: { xs: 0, md: 0 },
           }}
         />
 
