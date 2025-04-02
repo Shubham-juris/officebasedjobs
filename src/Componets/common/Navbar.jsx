@@ -16,11 +16,11 @@ import officejob from "../../assets/Image/logo.png";
 
 const pages = [
   { name: "Home", path: "/" },
-  { name: "About", path: "/about-us" },
+  { name: "About", path: "/about" },
   { name: "Job Seekers", path: "/job-seekers" },
   { name: "Employers", path: "/employers" },
   { name: "Resources", path: "/resource" },
-  { name: "Contact", path: "/contact-us" },
+  { name: "Contact", path: "/contact" },
   // { name: "Location", path: "/location" },
   { name: "Careers", path: "/careers" },
 ];
