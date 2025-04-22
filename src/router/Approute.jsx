@@ -4,16 +4,18 @@ import Home from "../pages/Home";
 import JobSeekers from "../pages/JobSeekers";
 
 import ContactUsPage from "../pages/ContactUsPage";
-import AboutUs from "../Componets/AboutUs/AboutUs";
 import Employers from "../pages/Employers";
 import Resource from "../pages/Resource";
 import Careers from "../pages/careers-xyz";
+import AboutPage from "../pages/AboutPage";
+
+
 
 const AppRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="about" element={<AboutUs />} />
+      <Route path="about" element={<AboutPage />} />
       <Route path="job-seekers" element={<JobSeekers />} />
       <Route path="contact" element={<ContactUsPage />} />
       <Route path="employers" element={<Employers />} />

@@ -4,7 +4,7 @@ import images from "../../assets/Image/jobseekers/elevateyourcareer.jpg";
 const Header = () => {
   return (
     <>
-      <div className="w-full pb-9">
+      {/* <div className="w-full pb-9">
         <div className="grid bg-blue-800 grid-cols-1 md:grid-cols-2 py-8 px-4 gap-4">
           <div className="flex items-center justify-center order-2 md:order-1">
             <img
@@ -23,15 +23,12 @@ const Header = () => {
             </p>
           </div>
         </div>
-
-        {/* Discover Section */}
         <div className="w-full flex justify-center items-center py-6 md:py-8 mt-4 md:mt-6 p-4">
           <p className="font-serif font-extrabold text-xl md:text-3xl text-center">
             Discover Office jobs Tailored just for you with us.
           </p>
         </div>
 
-        {/* About Section */}
         <div className="grid grid-cols-1 md:grid-cols-2 py-6 md:py-8 px-4 gap-6 md:gap-4">
           <div className="p-4 gap-6 md:gap-12 text-black flex flex-col justify-between items-start">
             <h1 className="text-base tracking-widest font-extrabold font-serif">
@@ -50,10 +47,7 @@ const Header = () => {
             <img src={images} alt="image" className="h-48 md:h-80 w-auto" />
           </div>
         </div>
-
-        {/* Repeat the same responsive structure for other job listings */}
-        {/* ... */}
-      </div>
+      </div> */}
     </>
   );
 };
