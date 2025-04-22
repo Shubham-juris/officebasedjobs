@@ -6,7 +6,7 @@ function Hero() {
   return (
     <Box
       sx={{
-        height: '100vh',
+        height: '700px',
         backgroundImage: `linear-gradient(rgba(185, 185, 190, 0.5), rgba(23, 23, 252, 0.5)), url(${officejobs})`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
