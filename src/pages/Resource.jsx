@@ -7,7 +7,7 @@ import ResourceContact from "../Componets/Resource/ResourceContact";
 
 const Resource = () => {
   return (
-    <div style={{ width: "1240px", margin: "auto" }}>
+    <div >
       <ResourceHeader />
       <ResourceTraning />
       <ResourceSection />
