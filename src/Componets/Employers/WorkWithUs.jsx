@@ -6,7 +6,7 @@ import imge from '../../assets/Image/employers/books.jpg'
 
 const WorkWithUs = () => {
   return (
-    <section className="w-full px-4 py-12 bg-white text-center">
+    <section className="w-full px-4 py-12 flex flex-col justify-center mx-auto max-w-7xl  bg-white text-center">
       <h2 className="text-2xl md:text-3xl font-extrabold font-serif mb-12">WORK WITH US</h2>
       <div className="grid md:grid-cols-2 gap-8 items-center mb-16">
         <img

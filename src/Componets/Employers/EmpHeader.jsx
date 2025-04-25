@@ -3,9 +3,10 @@ import image from "../../assets/Image/employers/empimg.jpg";
 
 const EmpHeader = () => {
   return (
-    <div className="w-full mx-auto">
-      <div className="grid bg-blue-800 grid-cols-1 md:grid-cols-2 py-8 px-4 gap-4">
-        <div className="flex items-center justify-center">
+    <div className="w-full bg-blue-800 mx-auto">
+      <div className="flex max-w-7xl justify-center mx-auto">
+      <div className="grid  grid-cols-1 justify-center mx-auto md:grid-cols-2 py-8 px-4 gap-4">
+        <div className="flex items-center   justify-center">
           <img
             style={{ width: "500px", height: "320px" }}
             src={image}
@@ -23,6 +24,7 @@ const EmpHeader = () => {
           </p>
         </div>
       </div>
+    </div>
     </div>
   );
 };

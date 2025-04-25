@@ -3,7 +3,7 @@ import img from "../../assets/Image/jobs.png";
 
 const ResourceSection = () => {
   return (
-    <div className="relative top-[3.5em] px-4 md:px-16">
+    <div className="relative flex flex-col justify-center mx-auto max-w-7xl top-[3.5em] px-4 md:px-16">
       <h1 className="text-[2em] md:text-[2.5em] text-center md:text-left">
         OUR RESOURCES
       </h1>
@@ -35,7 +35,7 @@ const ResourceSection = () => {
         </div>
         <div className="w-full md:w-[60%] mt-8 md:mt-0 flex justify-center md:justify-end">
           <img
-            className="max-w-[80%] h-auto p-4"
+            className="max-w-[80%] h-auto p-4 object-cover"
             src={img}
             alt=""
           />
