@@ -87,7 +87,7 @@ const Footer = () => {
             Contact Us
           </Typography>
           <Typography variant="body2" sx={{ mb: 1, color: "#757575" }}>
-            Email: info@officebasedjobs.com<br></br>Address-Calgary,Alberta.
+            website : www.officebased.com<br></br>Address-Calgary,Alberta.
           </Typography>
           <Typography variant="body2" sx={{ mb: 1, color: "#757575" }}>
             Phone: +1-800-123-4567
