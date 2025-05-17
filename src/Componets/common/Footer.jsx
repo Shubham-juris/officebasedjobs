@@ -42,9 +42,7 @@ const Footer = () => {
             Connecting job seekers with the best office-based opportunities
             across industries. Your career starts here!
           </Typography>
-          <Typography variant="body2" sx={{ color: "#757575" }}>
-            © {new Date().getFullYear()} Office Based Jobs. All rights reserved.
-          </Typography>
+          
         </Box>
 
         {/* Links Section */}
@@ -89,9 +87,9 @@ const Footer = () => {
           <Typography variant="body2" sx={{ mb: 1, color: "#757575" }}>
             website : www.officebased.com<br></br>Address-Calgary,Alberta.
           </Typography>
-          <Typography variant="body2" sx={{ mb: 1, color: "#757575" }}>
+          {/* <Typography variant="body2" sx={{ mb: 1, color: "#757575" }}>
             Phone: +1-800-123-4567
-          </Typography>
+          </Typography> */}
           <Typography variant="body2" sx={{ color: "#757575" }}>
             Hours: Mon-Fri, 9:00 AM - 5:00 PM
           </Typography>

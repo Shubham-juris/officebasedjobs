@@ -28,6 +28,7 @@ import AiOfficeManagerMail from "../Componets/career-forms/Alpine/AiOfficeManage
 import AiReceptionistMail from "../Componets/career-forms/Alpine/AiReceptionistMail";
 import AiBookkeeper from "../Componets/career-forms/Alpine/AiBookkeeper";
 import AiAdministrativeAssistant from "../Componets/career-forms/Alpine/AiAdministrativeAssistant";
+import JobListings from "../Componets/JobSeekers/easytax/StuctureEasy";
 
 const Careers = () => {
   return (
@@ -61,6 +62,7 @@ const Careers = () => {
       <AiReceptionistMail />
       <AiBookkeeper />
       <AiAdministrativeAssistant />
+      <JobListings />
     </>
   );
 };

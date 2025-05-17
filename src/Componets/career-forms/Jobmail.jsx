@@ -132,7 +132,7 @@ const Jobmail = () => {
               <div className="mb-4">
                 <input
                   type="email"
-                  placeholder="Email*"
+                  placeholder="Email"
                   className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
                   required
                 />
@@ -282,7 +282,7 @@ const Jobmail = () => {
               <div className="mb-4">
                 <input
                   type="email"
-                  placeholder="Email*"
+                  placeholder="Email"
                   className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
                   required
                 />
@@ -432,7 +432,7 @@ const Jobmail = () => {
               <div className="mb-4">
                 <input
                   type="email"
-                  placeholder="Email*"
+                  placeholder="Email"
                   className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
                   required
                 />
@@ -582,7 +582,7 @@ const Jobmail = () => {
               <div className="mb-4">
                 <input
                   type="email"
-                  placeholder="Email*"
+                  placeholder="Email"
                   className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
                   required
                 />
@@ -731,7 +731,7 @@ const Jobmail = () => {
               <div className="mb-4">
                 <input
                   type="email"
-                  placeholder="Email*"
+                  placeholder="Email"
                   className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
                   required
                 />
@@ -895,7 +895,7 @@ const Jobmail = () => {
               <div className="mb-4">
                 <input
                   type="email"
-                  placeholder="Email*"
+                  placeholder="Email"
                   className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
                   required
                 />
