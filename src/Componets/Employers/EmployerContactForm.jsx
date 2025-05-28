@@ -15,17 +15,17 @@ const EmployerContactForm = () => {
     };
 
 
-    // Inside your component
+    
     const [showHours, setShowHours] = useState(false);
 
     const hours = {
-        Monday: "09:00 a.m. – 05:00 p.m.",
-        Tuesday: "09:00 a.m. – 05:00 p.m.",
-        Wednesday: "09:00 a.m. – 05:00 p.m.",
-        Thursday: "09:00 a.m. – 05:00 p.m.",
-        Friday: "09:00 a.m. – 05:00 p.m.",
-        Saturday: "Closed",
-        Sunday: "Closed",
+        // Monday: "09:00 a.m. – 05:00 p.m.",
+        // Tuesday: "09:00 a.m. – 05:00 p.m.",
+        // Wednesday: "09:00 a.m. – 05:00 p.m.",
+        // Thursday: "09:00 a.m. – 05:00 p.m.",
+        // Friday: "09:00 a.m. – 05:00 p.m.",
+        // Saturday: "Closed",
+        // Sunday: "Closed",
     };
 
     const today = new Date().toLocaleDateString("en-US", { weekday: "long" });
@@ -95,19 +95,19 @@ const EmployerContactForm = () => {
                 </p>
 
                 <div className="py-3">
-                    <p className="uppercase font-semibold text-sm text-gray-800 py-3">Office Based Jobs</p>
+                    <p className="uppercase font-semibold text-sm text-gray-800 py-3">\</p>
                     <a
                         href="mailto:monashah44271@gmail.com"
                         className="text-blue-600 underline"
                     >
-                        monashah44271@gmail.com
+                       
                     </a>
                 </div>
 
-                <div className="mt-8">
-                    <p className="uppercase text-sm text-gray-800 font-semibold py-3">Hours</p>
+                {/* <div className="mt-8">
+                    <p className="uppercase text-sm text-gray-800 font-semibold py-3">Hours</p> */}
 
-                    <div
+                    {/* <div
                         className="flex items-center justify-center text-gray-600 cursor-pointer"
                         onClick={() => setShowHours(!showHours)}
                     >
@@ -120,9 +120,9 @@ const EmployerContactForm = () => {
                         ) : (
                             <ChevronDown className="w-4 h-4 text-gray-600" />
                         )}
-                    </div>
+                    </div> */}
 
-                    {showHours && (
+                    {/* {showHours && (
                         <ul className="text-sm text-gray-700 mt-3 space-y-1 text-center">
                             {Object.entries(hours).map(([day, time]) => (
                                 <li key={day}>
@@ -137,7 +137,7 @@ const EmployerContactForm = () => {
                             ))}
                         </ul>
                     )}
-                </div>
+                </div> */}
 
 
 

@@ -23,7 +23,7 @@ const WorkWithUs = () => {
           </p>
         </div>
       </div>
-      <div className="grid md:grid-cols-2 gap-8 items-center">
+      {/* <div className="grid md:grid-cols-2 gap-8 items-center">
         <div className="text-center px-4 md:px-0">
           <h3 className="uppercase text-lg font-semibold tracking-widest mb-4">
             Additional Resources
@@ -52,7 +52,7 @@ const WorkWithUs = () => {
             Access additional resources such as blog articles, whitepapers, and webinars on recruitment best practices. Have questions? Check out our FAQs section for answers to common inquiries.
           </p>
         </div>
-      </div>
+      </div> */}
       <div className="grid md:grid-cols-2 gap-8 items-center">
         <div className="text-center px-4 md:px-0">
           <h3 className="uppercase text-lg font-semibold tracking-widest mb-4">

@@ -31,7 +31,7 @@ function Hero() {
             textShadow: '2px 2px 4px rgba(0,0,0,0.5)',
           }}
         >
-          Professional Tech For Your Business
+         Join a team that values growth, innovation, and opportunity.
         </Typography>
         <Typography
           variant="h6"
@@ -40,7 +40,9 @@ function Hero() {
             textShadow: '1px 1px 3px rgba(0,0,0,0.5)',
           }}
         >
-          Technology is the most effective way to change the world.
+          Your future starts here—discover the right job for you.
+
+
         </Typography>
       </Box>
     </Box>

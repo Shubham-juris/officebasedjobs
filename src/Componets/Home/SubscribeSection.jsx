@@ -47,13 +47,13 @@ const SubscribeSection = () => {
   return (
     <Box
       sx={{
-        backgroundColor: theme.palette.primary.main,
+        // backgroundColor: theme.palette.primary.main,
         color: "white",
         py: 10,
         px: 2,
       }}
     >
-      <Container maxWidth="md">
+      {/* <Container maxWidth="md">
         <Box sx={{ textAlign: "center", mb: 6 }}>
           <Typography
             variant="h2"
@@ -130,7 +130,7 @@ const SubscribeSection = () => {
             </Button>
           </Box>
         </Box>
-      </Container>
+      </Container> */}
     </Box>
   );
 };

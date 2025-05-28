@@ -47,7 +47,7 @@ const ResourceContact = () => {
           hours.
         </p>
 
-        <div className="py-3">
+        {/* <div className="py-3">
           <p className="uppercase font-semibold text-sm text-gray-800 py-3 sm:text-base md:text-lg">
             Office Based Jobs
           </p>
@@ -57,9 +57,9 @@ const ResourceContact = () => {
           >
             monashah44271@gmail.com
           </a>
-        </div>
+        </div> */}
 
-        <div className="mt-8">
+        {/* <div className="mt-8">
           <p className="uppercase text-sm text-gray-800 font-semibold py-3 sm:text-base md:text-lg">
             Hours
           </p>
@@ -95,7 +95,7 @@ const ResourceContact = () => {
               ))}
             </ul>
           )}
-        </div>
+        </div> */}
       </div>
     </section>
   );
