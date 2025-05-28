@@ -45,7 +45,7 @@ export default function TalentSection() {
           <Typography variant="h5" color="text.secondary">
             At Office Based Jobs, we understand that the success of any business relies on its people. That’s why we’re dedicated to helping companies like yours find the perfect candidates to drive growth and innovation. With our extensive network and personalized approach to recruitment, we connect you with professionals
           </Typography>
-          <Button
+          {/* <Button
             variant="outlined"
             sx={{
               borderRadius: 9999,
@@ -54,7 +54,7 @@ export default function TalentSection() {
             }}
           >
             CONTACT TALENTS
-          </Button>
+          </Button> */}
         </Box>
       </Container>
     </Box>

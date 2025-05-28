@@ -58,7 +58,7 @@ export default function CareerEmpowerSection() {
           specialist, we have connections with top employers seeking your unique
           skills and talents.
         </Typography>
-        <Button
+        {/* <Button
           variant="outlined"
           sx={{
             borderRadius: "50px",
@@ -67,8 +67,8 @@ export default function CareerEmpowerSection() {
             fontSize: { xs: "0.8rem", md: "1rem" },
           }}
         >
-          Find a Job
-        </Button>
+         
+        </Button> */}
       </Box>
     </Box>
   );

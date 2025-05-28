@@ -28,9 +28,9 @@ export default function ContactUs() {
                 At Office Based Jobs, we're here to assist you every step of the
                 way.
               </p>
-              <button className="relative mt-12 px-6 py-3 text-white text-sm md:text-base font-semibold rounded-full border-2 border-white bg-blue-700 hover:bg-blue-800 transition-all">
+              {/* <button className="relative mt-12 px-6 py-3 text-white text-sm md:text-base font-semibold rounded-full border-2 border-white bg-blue-700 hover:bg-blue-800 transition-all">
                 FIND OUT MORE
-              </button>
+              </button> */}
             </div>
           </div>
         </div>
@@ -122,7 +122,7 @@ export default function ContactUs() {
             gutterBottom
             sx={{ fontSize: { xs: "1.5rem", md: "2rem" } }}
           >
-            Contact Us
+            
           </Typography>
           <Paper
             elevation={3}
@@ -155,7 +155,7 @@ export default function ContactUs() {
               We love our customers. so feel free to visit during normal
               business hours.
             </Typography>
-            <Typography
+            {/* <Typography
               variant="subtitle2"
               fontSize="1rem"
               fontWeight="bold"
@@ -163,8 +163,8 @@ export default function ContactUs() {
               mt={2}
             >
               OFFICE BASED JOBS
-            </Typography>
-            <Typography
+            </Typography> */}
+            {/* <Typography
               variant="subtitle2"
               fontSize="1rem"
               fontWeight="bold"
@@ -193,7 +193,7 @@ export default function ContactUs() {
               sx={{ mt: 3, fontSize: { xs: "0.75rem", md: "1rem" } }}
             >
               DROP US A LINE!
-            </Button>
+            </Button> */}
           </Paper>
         </Container>
       </Box>

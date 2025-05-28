@@ -45,7 +45,7 @@ const Footer = () => {
           
         </Box>
 
-        {/* Links Section */}
+        {/* Links Section
         <Box sx={{ flex: { xs: "1 1 100%", md: "1 1 20%" } }}>
           <Typography
             variant="h6"
@@ -73,7 +73,7 @@ const Footer = () => {
               </Typography>
             ))}
           </Box>
-        </Box>
+        </Box> */}
 
         {/* Contact Section */}
         <Box sx={{ flex: { xs: "1 1 100%", md: "1 1 20%" } }}>
@@ -85,13 +85,13 @@ const Footer = () => {
             Contact Us
           </Typography>
           <Typography variant="body2" sx={{ mb: 1, color: "#757575" }}>
-            website : www.officebased.com<br></br>Address-Calgary,Alberta.
+            website : www.officebasedjobs.com<br></br>Address-Calgary,Alberta.
           </Typography>
           {/* <Typography variant="body2" sx={{ mb: 1, color: "#757575" }}>
             Phone: +1-800-123-4567
           </Typography> */}
           <Typography variant="body2" sx={{ color: "#757575" }}>
-            Hours: Mon-Fri, 9:00 AM - 5:00 PM
+            
           </Typography>
         </Box>
 

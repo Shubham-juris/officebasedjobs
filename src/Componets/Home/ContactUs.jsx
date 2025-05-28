@@ -123,7 +123,7 @@ const ContactUs = () => {
       </div>
 
       {/* Visit In Person Section */}
-      <div className="flex flex-col justify-between md:w-96 bg-gradient-to-br from-indigo-700 to-purple-700 text-white rounded-xl p-6 md:p-8 shadow-lg">
+      {/* <div className="flex flex-col justify-between md:w-96 bg-gradient-to-br from-indigo-700 to-purple-700 text-white rounded-xl p-6 md:p-8 shadow-lg">
         <div>
           <h3 className="text-xl font-bold mb-4">Visit Our Office</h3>
           
@@ -163,7 +163,7 @@ const ContactUs = () => {
             </svg>
           </button>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
