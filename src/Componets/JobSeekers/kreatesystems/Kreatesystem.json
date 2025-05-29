@@ -1,283 +1,255 @@
 [
-    {
-      "title": "Office Administration Manager",
-      "company": "Kreate Systems",
-      "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "jobDetails": {
-        "jobType": "Full-time",
-        "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
-        "workType": "Hybrid work"
-      },
-      "fullJobDescription": {
-        "overview": "The incumbent will be responsible for overseeing the administrative function for a designated business line / office and will provide additional administrative support as required.",
-        "responsibilities": [
-          "Manage day-to-day administrative functions",
-          "Oversee office security system",
-          "Coordinate local onboarding of new hires",
-          "Provide senior-level administrative support",
-          "Prepare client report submissions",
-          "Manage and coordinate schedules",
-          "Prepare management reports",
-          "Schedule and attend planning meetings",
-          "Engage in business line communications",
-          "Coordinate team social functions"
-        ],
-        "requirements": [
-          "Diploma/Certificate + 4 years or more in a similar role",
-          "Proficiency with Microsoft Office Suite",
-          "Excellent communication skills",
-          "Strong organizational and time management skills",
-          "Ability to work independently with minimal direction",
-          "Proactive team player"
-        ]
-      },
-      "howToApply": {
-        "email": "kreatesystems8@gmail.com",
-        "instructions": "Here is what you must include in your application",
-        "requiredDocuments": ["Cover letter"],
-        "screeningQuestions": [
-          "Are you available for the advertised start date?",
-          "Are you currently legally able to work in Canada?"
-        ]
-      }
+  {
+    "title": "Office Administration Manager",
+    "company": "Kreate Systems",
+    "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
+    "jobDetails": {
+      "jobType": "Full-time",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
+      "workType": "Hybrid work"
     },
-    {
-      "title": "Bookkeeper",
-      "company": "Kreate Systems",
-      "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "jobDetails": {
-        "pay": "$36 an hour",
-        "jobType": "Permanent, Full-time",
-        "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
-      },
-      "fullJobDescription": {
-        "education": "Secondary (high) school graduation certificate",
-        "experience": "1 year to less than 2 years",
-        "responsibilities": [
-          "Calculate and prepare cheques for payroll",
-          "Calculate fixed assets and depreciation",
-          "Keep financial records and establish, maintain and balance various accounts using manual and computerized bookkeeping systems",
-          "Maintain general ledgers and financial statements",
-          "Post journal entries",
-          "Prepare other statistical, financial and accounting reports",
-          "Prepare trial balance of books",
-          "Reconcile accounts"
-        ],
-        "additionalDetails": {
-          "workTerm": "Permanent",
-          "workLanguage": "English",
-          "hours": "30 to 40 hours per week"
-        }
-      },
-      "howToApply": {
-        "email": "kreatesystems8@gmail.com",
-        "instructions": "Here is what you must include in your application",
-        "requiredDocuments": ["Cover letter"],
-        "screeningQuestions": [
-          "Are you available for the advertised start date?",
-          "Are you currently legally able to work in Canada?"
-        ]
-      }
+    "fullJobDescription": {
+      "overview": "The incumbent will be responsible for overseeing the administrative function for a designated business line / office and will provide additional administrative support as required.",
+      "responsibilities": [
+        "Manage day-to-day administrative functions",
+        "Oversee office security system",
+        "Coordinate local onboarding of new hires",
+        "Provide senior-level administrative support",
+        "Prepare client report submissions",
+        "Manage and coordinate schedules",
+        "Prepare management reports",
+        "Schedule and attend planning meetings",
+        "Engage in business line communications",
+        "Coordinate team social functions"
+      ],
+      "requirements": [
+        "Diploma/Certificate + 4 years or more in a similar role",
+        "Proficiency with Microsoft Office Suite",
+        "Excellent communication skills",
+        "Strong organizational and time management skills",
+        "Ability to work independently with minimal direction",
+        "Proactive team player"
+      ]
     },
-    {
-      "title": "Human Resources Supervisor",
-      "company": "Kreate Systems",
-      "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "jobDetails": {
-        "pay": "$44 an hour",
-        "jobType": "Permanent, Part-time, Full-time",
-        "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
-      },
-      "fullJobDescription": {
-        "education": "Bachelor's degree",
-        "experience": "3 years to less than 5 years or equivalent experience",
-        "responsibilities": [
-          "Assign projects to subordinates and staff relating to employment, compensation, labour relations and employee relations",
-          "Coordinate the activities of the HR department in order to ensure they meet the organization's goals",
-          "Evaluate daily operations",
-          "Plan, develop, implement and evaluate human resources policies and programs",
-          "Review HR projects to assure compliance with laws and regulations",
-          "Plan, develop and implement recruitment strategies",
-          "Research and prepare occupational classifications, job descriptions and salary scales",
-          "Manage contracts",
-          "Oversee the analysis of employee data and information",
-          "Oversee the preparation of reports",
-          "Hire, train and supervise staff",
-          "Recruit and hire staff",
-          "Evaluate work environments, programs and procedures to control, eliminate, and prevent disease or injury"
-        ],
-        "computerAndTechnologyKnowledge": [
-          "MS Excel",
-          "MS Outlook",
-          "MS Windows",
-          "MS Word",
-          "Electronic mail",
-          "Internet"
-        ],
-        "workConditionsAndPhysicalCapabilities": [
-          "Ability to work independently",
-          "Fast-paced environment",
-          "Work under pressure",
-          "Tight deadlines",
-          "Attention to detail"
-        ],
-        "personalSuitability": [
-          "Excellent oral communication",
-          "Excellent written communication",
-          "Flexibility",
-          "Judgement",
-          "Organized",
-          "Team player",
-          "Client focus",
-          "Efficient interpersonal skills",
-          "Reliability",
-          "Values and ethics",
-          "Ability to multitask",
-          "Accountability"
-        ],
-        "additionalDetails": {
-          "workTerm": "Permanent",
-          "workLanguage": "English",
-          "hours": "30 hours per week"
-        }
-      },
-      "howToApply": {
-        "email": "kreatesystems8@gmail.com",
-        "instructions": "Here is what you must include in your application",
-        "requiredDocuments": ["Cover letter"]
-      }
-    },
-    {
-      "title": "Receptionist",
-      "company": "Kreate Systems",
-      "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "jobDetails": {
-        "pay": "$35.50 an hour",
-        "jobType": "Permanent, Full-time",
-        "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
-      },
-      "fullJobDescription": {
-        "education": "Secondary (high) school graduation certificate",
-        "experience": "1 year to less than 2 years",
-        "responsibilities": [
-          "Greet people and direct them to contacts or service areas",
-          "Provide basic information to clients and the public",
-          "Obtain and process information required to provide customer service",
-          "Order office supplies",
-          "Schedule and confirm appointments",
-          "Send invoices",
-          "Perform clerical duties, such as filing and sorting and distributing mail",
-          "Answer telephone and relay telephone calls and messages"
-        ],
-        "supportPrograms": [
-          "Support for persons with disabilities: Offers mentorship, coaching and/or networking opportunities",
-          "Support for newcomers and refugees: Offers mentorship programs that pair newcomers and/or refugees with experienced employees",
-          "Support for youths: Offers mentorship, coaching and/or networking opportunities for youth",
-          "Support for Veterans: Offers mentorship, coaching and/or networking opportunities for Veterans",
-          "Support for Indigenous people: Offers mentorship, coaching and/or networking opportunities for Indigenous workers",
-          "Support for mature workers: Offers mentorship, coaching and/or networking opportunities for mature workers",
-          "Support for visible minorities: Offers mentorship programs that pair members of visible minorities with experienced employees"
-        ],
-        "additionalDetails": {
-          "workTerm": "Permanent",
-          "workLanguage": "English",
-          "hours": "35 to 40 hours per week"
-        }
-      },
-      "howToApply": {
-        "email": "kreatesystems8@gmail.com",
-        "instructions": "Here is what you must include in your application",
-        "requiredDocuments": ["Cover letter"],
-        "screeningQuestions": [
-          "Are you available for the advertised start date?",
-          "Are you currently legally able to work in Canada?"
-        ]
-      }
-    },
-    {
-      "title": "Office Manager",
-      "company": "Kreate Systems",
-      "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "jobDetails": {
-        "pay": "$26.54 an hour",
-        "jobType": "Permanent, Full-time",
-        "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
-      },
-      "fullJobDescription": {
-        "education": "College, CEGEP or other non-university certificate or diploma from a program of 1 year to 2 years",
-        "experience": "1 year to less than 2 years or equivalent experience",
-        "responsibilities": [
-          "Review and evaluate new administrative procedures",
-          "Establish work priorities and ensure procedures are followed and deadlines are met",
-          "Carry out administrative activities of establishment",
-          "Assist in the preparation of operating budget and maintain inventory and budgetary controls",
-          "Assemble data and prepare periodic and special reports, manuals and correspondence",
-          "Oversee and co-ordinate office administrative procedures"
-        ],
-        "workConditionsAndPhysicalCapabilities": [
-          "Ability to work independently",
-          "Attention to detail"
-        ],
-        "personalSuitability": [
-          "Organized",
-          "Reliability",
-          "Ability to multitask",
-          "Adaptability",
-          "Team player"
-        ],
-        "additionalDetails": {
-          "workTerm": "Permanent",
-          "workLanguage": "English",
-          "hours": "30 to 40 hours per week"
-        }
-      },
-      "howToApply": {
-        "email": "kreatesystems8@gmail.com",
-        "instructions": "Here is what you must include in your application",
-        "requiredDocuments": ["Cover letter"],
-        "screeningQuestions": [
-          "Are you currently a student?",
-          "Are you currently legally able to work in Canada?",
-          "Do you currently reside in proximity to the advertised location?",
-          "Do you have previous experience in this field of employment?",
-          "What is the highest level of study you have completed?"
-        ]
-      }
-    },
-    {
-      "title": "Operations Supervisor",
-      "company": "Kreate Systems",
-      "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "jobDetails": {
-        "jobType": "Full-time",
-        "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
-      },
-      "fullJobDescription": {
-        "overview": "Ride the next mile with us! Why choose Intelcom and become one of our Operations Supervisor?",
-        "responsibilities": [
-          "Ensure the seamless running of our delivery business day-to-day",
-          "Utilize communication and leadership skills with employees and Independent Delivery Contractors",
-          "Ensure on-time deliveries and outstanding customer experience",
-          "Manage undelivered packages and complete daily reports",
-          "Adapt quickly to business needs by making quick decisions and problem-solving situations",
-          "Participate in the development and monitoring of procedures and working methods",
-          "Promote and follow safe work methods and behaviors"
-        ],
-        "requirements": [
-          "Resourceful and autonomous",
-          "Curious about the transport industry",
-          "Strong leadership skills"
-        ],
-        "closingNote": "If this job interests you, send us your application and we’ll get in touch with you as soon as possible."
-      },
-      "howToApply": {
-        "email": "kreatesystems8@gmail.com",
-        "instructions": "Here is what you must include in your application",
-        "requiredDocuments": ["Cover letter"],
-        "screeningQuestions": [
-          "Are you available for the advertised start date?",
-          "Are you currently legally able to work in Canada?"
-        ]
-      }
+    "howToApply": {
+      "email": "kreatesystems8@gmail.com",
+      "instructions": "Here is what you must include in your application",
+      "requiredDocuments": ["Cover letter"],
+      "screeningQuestions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ]
     }
-  ]
+  },
+  {
+    "title": "Bookkeeper",
+    "company": "Kreate Systems",
+    "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
+    "jobDetails": {
+      "pay": "$36 an hour",
+      "jobType": "Permanent, Full-time",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
+    },
+    "fullJobDescription": {
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1 year to less than 2 years",
+      "responsibilities": [
+        "Calculate and prepare cheques for payroll",
+        "Calculate fixed assets and depreciation",
+        "Keep financial records and establish, maintain and balance various accounts using manual and computerized bookkeeping systems",
+        "Maintain general ledgers and financial statements",
+        "Post journal entries",
+        "Prepare other statistical, financial and accounting reports",
+        "Prepare trial balance of books",
+        "Reconcile accounts"
+      ],
+      "additionalDetails": {
+        "workTerm": "Permanent",
+        "workLanguage": "English",
+        "hours": "30 to 40 hours per week"
+      }
+    },
+    "howToApply": {
+      "email": "kreatesystems8@gmail.com",
+      "instructions": "Here is what you must include in your application",
+      "requiredDocuments": ["Cover letter"],
+      "screeningQuestions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ]
+    }
+  },
+  {
+    "title": "Human Resources Supervisor",
+    "company": "Kreate Systems",
+    "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
+    "jobDetails": {
+      "pay": "$44 an hour",
+      "jobType": "Permanent, Part-time, Full-time",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
+    },
+    "fullJobDescription": {
+      "education": "Bachelor's degree",
+      "experience": "3 years to less than 5 years or equivalent experience",
+      "responsibilities": [
+        "Assign projects to subordinates and staff relating to employment, compensation, labour relations and employee relations",
+        "Coordinate the activities of the HR department in order to ensure they meet the organization's goals",
+        "Evaluate daily operations",
+        "Plan, develop, implement and evaluate human resources policies and programs",
+        "Review HR projects to assure compliance with laws and regulations",
+        "Plan, develop and implement recruitment strategies",
+        "Research and prepare occupational classifications, job descriptions and salary scales",
+        "Manage contracts",
+        "Oversee the analysis of employee data and information",
+        "Oversee the preparation of reports",
+        "Hire, train and supervise staff",
+        "Recruit and hire staff",
+        "Evaluate work environments, programs and procedures to control, eliminate, and prevent disease or injury"
+      ],
+      "computerAndTechnologyKnowledge": [
+        "MS Excel", "MS Outlook", "MS Windows", "MS Word", "Electronic mail", "Internet"
+      ],
+      "workConditionsAndPhysicalCapabilities": [
+        "Ability to work independently", "Fast-paced environment", "Work under pressure", "Tight deadlines", "Attention to detail"
+      ],
+      "personalSuitability": [
+        "Excellent oral communication", "Excellent written communication", "Flexibility", "Judgement", "Organized", "Team player",
+        "Client focus", "Efficient interpersonal skills", "Reliability", "Values and ethics", "Ability to multitask", "Accountability"
+      ],
+      "additionalDetails": {
+        "workTerm": "Permanent",
+        "workLanguage": "English",
+        "hours": "30 hours per week"
+      }
+    },
+    "howToApply": {
+      "email": "kreatesystems8@gmail.com",
+      "instructions": "Here is what you must include in your application",
+      "requiredDocuments": ["Cover letter"]
+    }
+  },
+  {
+    "title": "Receptionist",
+    "company": "Kreate Systems",
+    "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
+    "jobDetails": {
+      "pay": "$35.50 an hour",
+      "jobType": "Permanent, Full-time",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
+    },
+    "fullJobDescription": {
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1 year to less than 2 years",
+      "responsibilities": [
+        "Greet people and direct them to contacts or service areas",
+        "Provide basic information to clients and the public",
+        "Obtain and process information required to provide customer service",
+        "Order office supplies",
+        "Schedule and confirm appointments",
+        "Send invoices",
+        "Perform clerical duties, such as filing and sorting and distributing mail",
+        "Answer telephone and relay telephone calls and messages"
+      ],
+      "supportPrograms": [
+        "Support for persons with disabilities",
+        "Support for newcomers and refugees",
+        "Support for youths",
+        "Support for Veterans",
+        "Support for Indigenous people",
+        "Support for mature workers",
+        "Support for visible minorities"
+      ],
+      "additionalDetails": {
+        "workTerm": "Permanent",
+        "workLanguage": "English",
+        "hours": "35 to 40 hours per week"
+      }
+    },
+    "howToApply": {
+      "email": "kreatesystems8@gmail.com",
+      "instructions": "Here is what you must include in your application",
+      "requiredDocuments": ["Cover letter"],
+      "screeningQuestions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ]
+    }
+  },
+  {
+    "title": "Office Manager",
+    "company": "Kreate Systems",
+    "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
+    "jobDetails": {
+      "pay": "$26.54 an hour",
+      "jobType": "Permanent, Full-time",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
+    },
+    "fullJobDescription": {
+      "education": "College, CEGEP or other non-university certificate or diploma from a program of 1 year to 2 years",
+      "experience": "1 year to less than 2 years or equivalent experience",
+      "responsibilities": [
+        "Review and evaluate new administrative procedures",
+        "Establish work priorities and ensure procedures are followed and deadlines are met",
+        "Carry out administrative activities of establishment",
+        "Assist in the preparation of operating budget and maintain inventory and budgetary controls",
+        "Assemble data and prepare periodic and special reports, manuals and correspondence",
+        "Oversee and co-ordinate office administrative procedures"
+      ],
+      "workConditionsAndPhysicalCapabilities": ["Ability to work independently", "Attention to detail"],
+      "personalSuitability": ["Organized", "Reliability", "Ability to multitask", "Adaptability", "Team player"],
+      "additionalDetails": {
+        "workTerm": "Permanent",
+        "workLanguage": "English",
+        "hours": "30 to 40 hours per week"
+      }
+    },
+    "howToApply": {
+      "email": "kreatesystems8@gmail.com",
+      "instructions": "Here is what you must include in your application",
+      "requiredDocuments": ["Cover letter"],
+      "screeningQuestions": [
+        "Are you currently a student?",
+        "Are you currently legally able to work in Canada?",
+        "Do you currently reside in proximity to the advertised location?",
+        "Do you have previous experience in this field of employment?",
+        "What is the highest level of study you have completed?"
+      ]
+    }
+  },
+  {
+    "title": "Operations Supervisor",
+    "company": "Kreate Systems",
+    "address": "4804 42 Ave, Innisfail, AB T4G 1N4",
+    "jobDetails": {
+      "jobType": "Full-time",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4"
+    },
+    "fullJobDescription": {
+      "overview": "Ride the next mile with us! Why choose Intelcom and become one of our Operations Supervisor?",
+      "responsibilities": [
+        "Ensure the seamless running of our delivery business day-to-day",
+        "Utilize communication and leadership skills with employees and Independent Delivery Contractors",
+        "Ensure on-time deliveries and outstanding customer experience",
+        "Manage undelivered packages and complete daily reports",
+        "Adapt quickly to business needs by making quick decisions and problem-solving situations",
+        "Participate in the development and monitoring of procedures and working methods",
+        "Promote and follow safe work methods and behaviors"
+      ],
+      "requirements": [
+        "Resourceful and autonomous",
+        "Curious about the transport industry",
+        "Strong leadership skills"
+      ],
+      "closingNote": "If this job interests you, send us your application and we’ll get in touch with you as soon as possible."
+    },
+    "howToApply": {
+      "email": "kreatesystems8@gmail.com",
+      "instructions": "Here is what you must include in your application",
+      "requiredDocuments": ["Cover letter"],
+      "screeningQuestions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ]
+    }
+  }
+]
