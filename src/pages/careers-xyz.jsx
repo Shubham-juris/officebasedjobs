@@ -34,11 +34,11 @@ const Careers = () => {
   return (
     <>
       <Form />
-      {/* <Jobma`il /> */}
+      <Jobmail />
       <Inmail />
-      <Next />
+      <Next/>
       <OfficeManagerMail />
-      {/* <CustomerServiceMail /> */}
+      <CustomerServiceMail />
       <ReceptionistMail />
       <OfficeClerkMail />
       <OfficeAssistantPartTime />
