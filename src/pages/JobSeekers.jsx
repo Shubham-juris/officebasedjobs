@@ -10,13 +10,13 @@ import Discoversession from "../Componets/JobSeekers/DiscoverSession";
 const JobSeekers = () => {
   return (
     <>
-      <JobHeader />
-      <Discoversession />
+      {/* <JobHeader />
+      <Discoversession /> */}
       <Header />
-      <Structure />
-      <Kreatesystems />
       <Post />
-      <NewPosts />
+      {/* <Structure />
+      <Kreatesystems />
+      <NewPosts /> */}
     </>
   );
 };
