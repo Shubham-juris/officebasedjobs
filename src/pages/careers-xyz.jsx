@@ -1,7 +1,6 @@
 import React from "react";
-
-
 import Jobs from "../Componets/career-forms/careerjobs/jobs";
+
 
 const Careers = () => {
   return (
@@ -37,7 +36,7 @@ const Careers = () => {
       <AiAdministrativeAssistant />
       <JobListings /> */}
       <Jobs/>
-      {/* <Post/> */}
+     
     </>
   );
 };
