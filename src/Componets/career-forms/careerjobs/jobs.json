@@ -1,173 +1,16 @@
-[  {
-    "job_title": "Assistant Manager",
-    "company": "NextLevel Management",
-    "overview": {
-      "languages": "English",
-      "education": "Bachelor’s degree in Business Administration",
-      "experience": "3-5 years in supervisory roles"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$37.00 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "As soon as possible",
-      "vacancies": 1,
-      "responsibilities": [
-        "Supervise office staff",
-        "Oversee daily operations",
-        "Implement company policies",
-        "Manage budgets",
-        "Coordinate with departments",
-        "Prepare performance reports",
-        "Resolve operational issues",
-        "Handle escalated inquiries"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Do you have supervisory experience?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "nextlevelmanagement@gmail.com"
-    }
-  },
+[  
+    
+    
   {
     "job_title": "Office Clerk",
-    "company": "BlueSky Admin",
-    "overview": {
-      "languages": "English",
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "No experience required, training provided"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$18.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "Within 1 month",
-      "vacancies": 2,
-      "responsibilities": [
-        "Sort and file documents",
-        "Handle basic clerical tasks",
-        "Assist with email responses",
-        "Greet clients and visitors",
-        "Support office operations",
-        "Update contact databases",
-        "Process mail and packages",
-        "Assist with meeting setups"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Are you available for full-time work?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "blueskyadmin@gmail.com"
-    }
-  },
-  {
-    "job_title": "Bookkeeper",
-    "company": "TrueBalance Accounting",
-    "overview": {
-      "languages": "English",
-      "education": "College diploma in Accounting",
-      "experience": "1-2 years in bookkeeping"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$27.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "As soon as possible",
-      "vacancies": 1,
-      "responsibilities": [
-        "Track financial transactions",
-        "Manage accounts receivable",
-        "Prepare monthly reconciliations",
-        "Process payroll",
-        "Generate invoices",
-        "Assist with budget planning",
-        "Maintain ledgers",
-        "Support audit preparations"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Do you have experience with QuickBooks?",
-        "Are you legally eligible to work in Canada?"
-      ],
-      "email": "truebalanceaccounting@gmail.com"
-    }
-  },
-  {
-    "job_title": "Data Entry Officer",
-    "company": "Streamline Data",
-    "overview": {
-      "languages": "English",
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "No experience required, training provided"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$17.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "Within 2 weeks",
-      "vacancies": 1,
-      "responsibilities": [
-        "Enter data into databases",
-        "Check data for accuracy",
-        "Update client records",
-        "Generate data summaries",
-        "Scan and organize documents",
-        "Maintain data security",
-        "Assist with clerical tasks",
-        "Support office operations"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Are you available for full-time work?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "streamlinedata@gmail.com"
-    }
-  },
-  {
-    "job_title": "Office Clerk",
-    "company": "WestWind Business",
+    "company": "PeakPulse Solutions",
     "overview": {
       "languages": "English",
       "education": "Secondary (high) school graduation certificate",
       "experience": "1-2 years in clerical work"
     },
     "job_details": {
-      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
       "salary": "$18.00 per hour",
       "hours_per_week": 40,
       "job_type": "Permanent, Full-time",
@@ -195,19 +38,19 @@
         "Are you available for the advertised start date?",
         "Are you currently legally able to work in Canada?"
       ],
-      "email": "westwindbusiness@gmail.com"
+      "email": "peakpulsesolutions@gmail.com"
     }
   },
   {
     "job_title": "Bookkeeper",
-    "company": "GoldenBooks Accounting",
+    "company": "SilverLedge Accounting",
     "overview": {
       "languages": "English",
       "education": "College diploma in Accounting or Bookkeeping",
       "experience": "2-3 years in bookkeeping"
     },
     "job_details": {
-      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
       "salary": "$26.50 per hour",
       "hours_per_week": 40,
       "job_type": "Permanent, Full-time",
@@ -235,19 +78,19 @@
         "Do you have bookkeeping experience?",
         "Are you legally eligible to work in Canada?"
       ],
-      "email": "goldenbooksaccounting@gmail.com"
+      "email": "silverledgeaccounting@gmail.com"
     }
   },
   {
     "job_title": "Receptionist",
-    "company": "SunGate Services",
+    "company": "BrightPath Services",
     "overview": {
       "languages": "English",
       "education": "Secondary (high) school graduation certificate",
       "experience": "1-2 years in customer service"
     },
     "job_details": {
-      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
       "salary": "$17.50 per hour",
       "hours_per_week": 40,
       "job_type": "Permanent, Full-time",
@@ -268,9 +111,137 @@
     "health_benefits": [
       "Dental plan",
       "Health care plan"
-    ]
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have customer service experience?",
+        "Are you available to start immediately?"
+      ],
+      "email": "brightpathservices@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Manager",
+    "company": "Nexus Operations",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business Administration",
+      "experience": "3-5 years in office management"
     },
-    {
+    "job_details": {
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
+      "salary": "$34.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Oversee office operations",
+        "Manage administrative staff",
+        "Develop office policies",
+        "Monitor budgets",
+        "Train new employees",
+        "Maintain office equipment",
+        "Resolve operational issues",
+        "Prepare performance reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have office management experience?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "nexusoperations@gmail.com"
+    }
+  },
+  {
+    "job_title": "Data Entry Officer",
+    "company": "SwiftData Systems",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in data entry"
+    },
+    "job_details": {
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
+      "salary": "$17.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Input data into company systems",
+        "Verify data accuracy",
+        "Maintain database records",
+        "Prepare data reports",
+        "Assist with document scanning",
+        "Update client information",
+        "Ensure data confidentiality",
+        "Support administrative tasks"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have data entry experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "swiftdatasystems@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant",
+    "company": "CoreAdmin Solutions",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in administrative roles"
+    },
+    "job_details": {
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
+      "salary": "$20.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Assist with office correspondence",
+        "Manage filing systems",
+        "Coordinate meetings",
+        "Handle data entry tasks",
+        "Support office staff",
+        "Prepare reports",
+        "Maintain office supplies",
+        "Respond to inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in MS Office?",
+        "Are you available to start soon?"
+      ],
+      "email": "coreadminsolutions@gmail.com"
+    }
+  },
+  {
     "job_title": "Assistant Manager",
     "company": "Vantage Operations",
     "overview": {
@@ -710,6 +681,1960 @@
       "email": "nextlevelmanagement@gmail.com"
     }
   },
+  {
+    "job_title": "Office Clerk",
+    "company": "BlueSky Admin",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
+      "salary": "$18.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 2,
+      "responsibilities": [
+        "Sort and file documents",
+        "Handle basic clerical tasks",
+        "Assist with email responses",
+        "Greet clients and visitors",
+        "Support office operations",
+        "Update contact databases",
+        "Process mail and packages",
+        "Assist with meeting setups"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "blueskyadmin@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "TrueBalance Accounting",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting",
+      "experience": "1-2 years in bookkeeping"
+    },
+    "job_details": {
+      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
+      "salary": "$27.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Track financial transactions",
+        "Manage accounts receivable",
+        "Prepare monthly reconciliations",
+        "Process payroll",
+        "Generate invoices",
+        "Assist with budget planning",
+        "Maintain ledgers",
+        "Support audit preparations"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience with QuickBooks?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "truebalanceaccounting@gmail.com"
+    }
+  },
+  {
+    "job_title": "Data Entry Officer",
+    "company": "Streamline Data",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
+      "salary": "$17.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Enter data into databases",
+        "Check data for accuracy",
+        "Update client records",
+        "Generate data summaries",
+        "Scan and organize documents",
+        "Maintain data security",
+        "Assist with clerical tasks",
+        "Support office operations"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "streamlinedata@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "WestWind Business",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in clerical work"
+    },
+    "job_details": {
+      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "salary": "$18.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Handle incoming and outgoing mail",
+        "Perform data entry tasks",
+        "Answer phone inquiries",
+        "Schedule appointments",
+        "Organize office documents",
+        "Assist with inventory tracking",
+        "Prepare basic reports",
+        "Support administrative team"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ],
+      "email": "westwindbusiness@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "GoldenBooks Accounting",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting or Bookkeeping",
+      "experience": "2-3 years in bookkeeping"
+    },
+    "job_details": {
+      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "salary": "$26.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Maintain financial records",
+        "Process accounts payable/receivable",
+        "Prepare financial statements",
+        "Reconcile bank accounts",
+        "Calculate payroll",
+        "Ensure tax compliance",
+        "Assist with audits",
+        "Generate financial reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have bookkeeping experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "goldenbooksaccounting@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "SunGate Services",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in customer service"
+    },
+    "job_details": {
+      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "salary": "$17.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Greet clients and visitors",
+        "Answer and direct phone calls",
+        "Schedule appointments",
+        "Handle incoming mail",
+        "Maintain reception area",
+        "Process payments",
+        "Provide administrative support",
+        "Respond to inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ]
+    },
+    {
+        "job_title": "Office Manager",
+        "company": "CrestCore Management",
+        "overview": {
+          "languages": "English",
+          "education": "Bachelor’s degree in Business Administration",
+          "experience": "3-5 years in office management"
+        },
+        "job_details": {
+          "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+          "salary": "$34.00 per hour",
+          "hours_per_week": 40,
+          "job_type": "Permanent, Full-time",
+          "shift": "Day",
+          "start_date": "Within 1 month",
+          "vacancies": 1,
+          "responsibilities": [
+            "Oversee office operations",
+            "Manage administrative staff",
+            "Develop office policies",
+            "Monitor budgets",
+            "Train new employees",
+            "Maintain office equipment",
+            "Resolve operational issues",
+            "Prepare performance reports"
+          ]
+        },
+        "health_benefits": [
+          "Dental plan",
+          "Health care plan"
+        ],
+        "how_to_apply": {
+          "required_documents": ["Cover letter"],
+          "screening_questions": [
+            "Do you have office management experience?",
+            "Are you legally eligible to work in Canada?"
+          ],
+          "email": "crestcoremanagement@gmail.com"
+        }
+      },
+      {
+        "job_title": "Data Entry Officer",
+        "company": "RapidData Systems",
+        "overview": {
+          "languages": "English",
+          "education": "Secondary (high) school graduation certificate",
+          "experience": "1-2 years in data entry"
+    },
+        "job_details": {
+          "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+          "salary": "$17.00 per hour",
+          "hours_per_week": 40,
+          "job_type": "Permanent, Full-time",
+          "shift": "Day",
+          "start_date": "As soon as possible",
+          "vacancies": 1,
+          "responsibilities": [
+            "Input data into company systems",
+            "Verify data accuracy",
+            "Maintain database records",
+            "Prepare data reports",
+            "Assist with document scanning",
+            "Update client information",
+            "Ensure data confidentiality",
+            "Support administrative tasks"
+          ]
+        },
+        "health_benefits": [
+          "Dental plan",
+          "Health care plan"
+        ],
+        "how_to_apply": {
+          "required_documents": ["Cover letter"],
+          "screening_questions": [
+            "Do you have data entry experience?",
+            "Are you legally eligible to work in Canada?"
+          ],
+          "email": "rapiddatasystems@gmail.com"
+        }
+      },
+      {
+        "job_title": "Administration Assistant",
+        "company": "SmartAdmin Solutions",
+        "overview": {
+          "languages": "English",
+          "education": "Secondary (high) school graduation certificate",
+          "experience": "1-2 years in administrative roles"
+    },
+        "job_details": {
+          "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+          "salary": "$20.50 per hour",
+          "hours_per_week": 40,
+          "job_type": "Permanent, Full-time",
+          "shift": "Day",
+          "start_date": "Within 2 weeks",
+          "vacancies": 1,
+          "responsibilities": [
+            "Assist with office correspondence",
+            "Manage filing systems",
+            "Coordinate meetings",
+            "Handle data entry tasks",
+            "Support office staff",
+            "Prepare reports",
+            "Maintain office supplies",
+            "Respond to inquiries"
+          ]
+        },
+        "health_benefits": [
+          "Dental plan",
+          "Health care plan"
+        ],
+        "how_to_apply": {
+          "required_documents": [
+"Cover letter"],
+          "screening_questions": [
+            "Are you proficient in MS Office?",
+            "Are you available to start soon?"
+          ],
+          "email": "smartadminsolutions@gmail.com"
+        }
+      },    
+      {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in clerical work"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$18.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Handle incoming and outgoing mail",
+        "Perform data entry tasks",
+        "Answer phone inquiries",
+        "Schedule appointments",
+        "Organize office documents",
+        "Assist with inventory management",
+        "Prepare basic reports",
+        "Support administrative team"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "6 months to 1 year in office administration"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$18.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 2,
+      "responsibilities": [
+        "Sort and file documents",
+        "Respond to email inquiries",
+        "Assist with meeting coordination",
+        "Update office databases",
+        "Greet clients and visitors",
+        "Process invoices",
+        "Maintain office supplies",
+        "Provide clerical support"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience with office software?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in administrative support"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$19.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage office correspondence",
+        "Enter data into systems",
+        "Coordinate travel arrangements",
+        "Maintain filing systems",
+        "Answer and redirect calls",
+        "Assist with event planning",
+        "Prepare office memos",
+        "Track office supplies"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available to start immediately?",
+        "Do you have experience in data entry?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$17.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Sort and distribute mail",
+        "Perform basic clerical tasks",
+        "Assist with document scanning",
+        "Answer phone inquiries",
+        "Maintain office organization",
+        "Support team with administrative tasks",
+        "Update contact lists",
+        "Handle basic customer inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in office support"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$19.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Organize office records",
+        "Handle data entry tasks",
+        "Assist with scheduling",
+        "Respond to emails",
+        "Greet and assist visitors",
+        "Prepare meeting materials",
+        "Track office expenses",
+        "Support administrative projects"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have clerical experience?",
+        "Are you available to start soon?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in administrative roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$20.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage office correspondence",
+        "Update and maintain databases",
+        "Assist with document preparation",
+        "Handle phone inquiries",
+        "Organize office supplies",
+        "Support team with clerical tasks",
+        "Coordinate meeting logistics",
+        "Process incoming mail"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in MS Office?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "6 months to 1 year in clerical work"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$18.75 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "File documents and records",
+        "Answer and redirect calls",
+        "Assist with data entry",
+        "Manage office mail",
+        "Support administrative staff",
+        "Maintain office organization",
+        "Prepare basic correspondence",
+        "Monitor office supplies"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Do you have experience in office support?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$17.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 2,
+      "responsibilities": [
+        "Sort and file documents",
+        "Handle basic clerical tasks",
+        "Assist with email responses",
+        "Greet clients and visitors",
+        "Support office operations",
+        "Update contact databases",
+        "Process mail and packages",
+        "Assist with meeting setups"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting or Bookkeeping",
+      "experience": "2-3 years in bookkeeping"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$26.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Maintain financial records",
+        "Process accounts payable/receivable",
+        "Prepare financial statements",
+        "Reconcile bank accounts",
+        "Calculate payroll",
+        "Ensure tax compliance",
+        "Assist with audits",
+        "Generate financial reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting or related field",
+      "experience": "1-2 years in financial administration"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$25.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Record financial transactions",
+        "Manage accounts payable",
+        "Prepare monthly reconciliations",
+        "Process payroll and benefits",
+        "Generate invoices",
+        "Assist with budget planning",
+        "Maintain ledgers",
+        "Support audit preparations"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have bookkeeping experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting",
+      "experience": "2-3 years in bookkeeping or accounting"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$27.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Track financial transactions",
+        "Prepare tax filings",
+        "Manage accounts receivable",
+        "Reconcile financial statements",
+        "Process payroll",
+        "Assist with financial reporting",
+        "Maintain accurate ledgers",
+        "Collaborate with accountants"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in accounting software?",
+        "Are you available to start immediately?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Bookkeeping",
+      "experience": "1-2 years in financial record-keeping"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$26.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Maintain financial records",
+        "Process payments and invoices",
+        "Reconcile bank statements",
+        "Prepare payroll reports",
+        "Assist with tax preparations",
+        "Update financial databases",
+        "Support budget tracking",
+        "Liaise with external auditors"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience with payroll?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting or equivalent",
+      "experience": "2-3 years in bookkeeping"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$27.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage financial transactions",
+        "Prepare balance sheets",
+        "Process accounts payable",
+        "Reconcile accounts",
+        "Calculate employee payroll",
+        "Ensure regulatory compliance",
+        "Generate financial summaries",
+        "Assist with audits"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Do you have experience with QuickBooks?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Bookkeeping",
+      "experience": "1-2 years in financial administration"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$25.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 2,
+      "responsibilities": [
+        "Record daily transactions",
+        "Manage accounts receivable",
+        "Prepare financial reports",
+        "Reconcile bank statements",
+        "Process payroll",
+        "Assist with tax filings",
+        "Maintain financial records",
+        "Support budget preparation"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience in bookkeeping?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting",
+      "experience": "2-3 years in financial management"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$28.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Maintain accurate ledgers",
+        "Process invoices and payments",
+        "Prepare financial statements",
+        "Reconcile accounts",
+        "Manage payroll processing",
+        "Ensure tax compliance",
+        "Assist with financial audits",
+        "Generate budget reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in accounting software?",
+        "Are you available to start immediately?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Bookkeeping or Accounting",
+      "experience": "1-2 years in bookkeeping"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$26.75 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Track financial transactions",
+        "Process accounts payable",
+        "Prepare payroll reports",
+        "Reconcile bank accounts",
+        "Assist with tax preparations",
+        "Maintain financial databases",
+        "Support audit processes",
+        "Generate financial summaries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience with financial software?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business Administration",
+      "experience": "3-5 years in administrative roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$33.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Oversee office operations",
+        "Supervise administrative staff",
+        "Develop office policies",
+        "Manage budgets",
+        "Coordinate with departments",
+        "Prepare management reports",
+        "Ensure procedural compliance",
+        "Handle escalated inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business or related field",
+      "experience": "2-4 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$32.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage office staff",
+        "Oversee daily operations",
+        "Implement office procedures",
+        "Monitor budgets",
+        "Coordinate projects",
+        "Prepare performance reports",
+        "Resolve administrative issues",
+        "Liaise with management"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have supervisory experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Administration",
+      "experience": "3-5 years in office management"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$34.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Supervise administrative team",
+        "Manage office budgets",
+        "Ensure efficient operations",
+        "Develop staff schedules",
+        "Coordinate with vendors",
+        "Prepare operational reports",
+        "Implement company policies",
+        "Handle customer complaints"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in office management?",
+        "Are you available to start immediately?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business Administration",
+      "experience": "2-3 years in administrative supervision"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$33.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Oversee office staff",
+        "Manage administrative tasks",
+        "Develop operational policies",
+        "Monitor expenses",
+        "Coordinate team projects",
+        "Prepare management reports",
+        "Ensure compliance",
+        "Resolve operational issues"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience in team management?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Administration or equivalent",
+      "experience": "3-5 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$35.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage office operations",
+        "Supervise administrative team",
+        "Implement office policies",
+        "Track budgets and expenses",
+        "Coordinate with departments",
+        "Generate performance reports",
+        "Ensure regulatory compliance",
+        "Handle escalated issues"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Do you have experience in office management?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business or related field",
+      "experience": "2-4 years in administrative roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$32.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Oversee daily operations",
+        "Manage administrative staff",
+        "Develop office procedures",
+        "Monitor budgets",
+        "Coordinate team activities",
+        "Prepare operational reports",
+        "Ensure policy adherence",
+        "Resolve staff issues"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have supervisory experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Administration",
+      "experience": "3-5 years in office supervision"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$34.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Supervise office staff",
+        "Manage daily operations",
+        "Implement office policies",
+        "Track expenses",
+        "Coordinate with management",
+        "Prepare performance reports",
+        "Ensure compliance",
+        "Handle customer inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in office management?",
+        "Are you available to start immediately?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Administration Assistant Manager",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business Administration",
+      "experience": "2-3 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$33.25 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage office staff",
+        "Oversee administrative tasks",
+        "Develop operational policies",
+        "Monitor budgets",
+        "Coordinate projects",
+        "Prepare management reports",
+        "Ensure compliance",
+        "Resolve operational issues"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience in team management?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in customer service"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$17.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Greet clients and visitors",
+        "Answer and direct phone calls",
+        "Schedule appointments",
+        "Handle incoming mail",
+        "Maintain reception area",
+        "Process payments",
+        "Provide administrative support",
+        "Respond to inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "6 months to 1 year in receptionist roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$17.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 2,
+      "responsibilities": [
+        "Welcome visitors",
+        "Manage phone inquiries",
+        "Book appointments",
+        "Process outgoing mail",
+        "Keep reception tidy",
+        "Assist with clerical tasks",
+        "Handle client payments",
+        "Answer customer questions"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have customer service experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in front desk roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$18.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Greet and assist clients",
+        "Manage phone calls",
+        "Schedule meetings",
+        "Handle mail and packages",
+        "Maintain reception area",
+        "Process invoices",
+        "Provide clerical support",
+        "Respond to client inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in MS Office?",
+        "Are you available to start immediately?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$16.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Answer phone calls",
+        "Greet visitors",
+        "Manage appointments",
+        "Sort incoming mail",
+        "Keep front desk organized",
+        "Assist with basic tasks",
+        "Process client payments",
+        "Handle inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in customer service"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$18.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Welcome clients",
+        "Manage phone system",
+        "Schedule appointments",
+        "Handle mail processing",
+        "Maintain front desk",
+        "Assist with payments",
+        "Support administrative tasks",
+        "Answer client questions"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have receptionist experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "6 months to 1 year in front desk roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$17.75 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Greet and direct visitors",
+        "Answer phone inquiries",
+        "Manage appointment calendar",
+        "Process incoming mail",
+        "Keep reception area tidy",
+        "Handle client payments",
+        "Provide basic support",
+        "Respond to inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have customer service experience?",
+        "Are you available to start soon?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in receptionist roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$19.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage front desk",
+        "Answer and redirect calls",
+        "Schedule client meetings",
+        "Handle mail and packages",
+        "Maintain reception area",
+        "Process invoices",
+        "Assist with clerical duties",
+        "Handle client inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in phone systems?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$16.75 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Greet clients",
+        "Answer phone calls",
+        "Manage appointments",
+        "Sort mail",
+        "Keep front desk organized",
+        "Assist with basic tasks",
+        "Process payments",
+        "Handle inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Business Administration",
+      "experience": "3-5 years in office supervision"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$31.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage office staff",
+        "Oversee daily operations",
+        "Implement office policies",
+        "Monitor budgets",
+        "Train new employees",
+        "Maintain office equipment",
+        "Resolve administrative issues",
+        "Prepare performance reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Administration",
+      "experience": "2-4 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$31.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Supervise office team",
+        "Manage daily tasks",
+        "Develop office procedures",
+        "Track expenses",
+        "Coordinate staff schedules",
+        "Prepare operational reports",
+        "Ensure compliance",
+        "Handle staff issues"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have supervisory experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Business or equivalent",
+      "experience": "3-5 years in office management"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$32.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Oversee office operations",
+        "Manage administrative staff",
+        "Implement policies",
+        "Monitor budgets",
+        "Train office personnel",
+        "Maintain equipment",
+        "Resolve operational issues",
+        "Generate performance reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in office management?",
+        "Are you available to start immediately?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Administration",
+      "experience": "2-3 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$32.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Supervise office staff",
+        "Manage daily operations",
+        "Develop office policies",
+        "Track budgets",
+        "Coordinate team tasks",
+        "Prepare management reports",
+        "Ensure compliance",
+        "Resolve staff issues"
+      ]
+    },
+    "health_benefits": [
+      "Denta plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience in team management?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Business Administration",
+      "experience": "3-5 years in office supervision"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$33.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Manage office team",
+        "Oversee operations",
+        "Implement procedures",
+        "Monitor expenses",
+        "Train new staff",
+        "Maintain office systems",
+        "Resolve administrative issues",
+        "Prepare performance reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the start date?",
+        "Do you have office management experience?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Administration",
+      "experience": "2-4 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$30.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Supervise office staff",
+        "Manage daily tasks",
+        "Develop office policies",
+        "Track budgets",
+        "Coordinate staff schedules",
+        "Prepare operational reports",
+        "Ensure compliance",
+        "Handle administrative issues"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have supervisory experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Business or equivalent",
+      "experience": "3-5 years in office management"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$33.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Oversee office operations",
+        "Manage administrative staff",
+        "Implement policies",
+        "Monitor budgets",
+        "Train office personnel",
+        "Maintain equipment",
+        "Resolve operational issues",
+        "Generate performance reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you proficient in office management?",
+        "Are you available to start immediately?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Supervisor",
+    "company": "Alpine Infotech",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Administration",
+      "experience": "2-3 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "10030 106 St, Westlock, Alberta T7P 2K4",
+      "salary": "$31.75 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 1,
+      "responsibilities": [
+        "Supervise office staff",
+        "Manage daily operations",
+        "Develop office policies",
+        "Track budgets",
+        "Coordinate team tasks",
+        "Prepare management reports",
+        "Ensure compliance",
+        "Resolve staff issues"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience in team management?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "alpineinfotech4@gmail.com"
+    }
+  },
+
     {
       "job_title": "IT Infrastructure Specialist",
       "company": "Softcore Technologies",
@@ -3587,7 +5512,7 @@
       "vacancies": 1
     },
     "how_to_apply": {
-      "email": "[email protected]",
+      "email": "[]",
       "mail": "10180 - 101 Street NW, Suite 3400, Edmonton, AB T5J 3S4, Canada"
     }
   },
@@ -3597,7 +5522,7 @@
 
   {
     "job_title": "Administrative Assistant",
-    "company": "Company Name Not Provided",
+    "company": "greekology",
     
     "pay": "$35.50 an hour",
     "job_type": ["Permanent", "Full-time"],
@@ -3647,7 +5572,7 @@
 
   {
     "job_title": "Administrative Assistant",
-    "company": "Company Name Not Provided",
+    "company": "Greekology",
     
     "pay": "$35 an hour",
     "job_type": ["Permanent", "Full-time"],
@@ -3695,7 +5620,7 @@
   },
   {
     "job_title": "Office Administrator",
-    "company": "Company Name Not Provided",
+    "company": "Greekology",
     "pay": "$36 an hour",
     "job_type": ["Part-time", "Permanent", "Full-time"],
     "overview": {
@@ -3736,7 +5661,7 @@
 
   {
     "job_title": "Administrative Assistant",
-    "company": "Company Name Not Provided",
+    "company": "Greekology",
     
     "pay": "$25.64 an hour",
     "job_type": ["Permanent", "Full-time"],
@@ -3778,7 +5703,7 @@
   },
   {
     "job_title": "Administrative Assistant",
-    "company": "Company Name Not Provided",
+    "company": "Greekology",
     
     "pay": "$28.40 an hour",
     "job_type": ["Permanent", "Full-time"],
