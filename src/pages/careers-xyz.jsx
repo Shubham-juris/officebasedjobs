@@ -37,7 +37,6 @@ const Careers = () => {
       <AiAdministrativeAssistant />
       <JobListings /> */}
       <Jobs/>
-       <Post />
     </>
   );
 };
