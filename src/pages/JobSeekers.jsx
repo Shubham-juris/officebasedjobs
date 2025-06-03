@@ -6,6 +6,7 @@ import Post from "../Componets/JobSeekers/posts/Post";
 import NewPosts from "../Componets/JobSeekers/newPosts/NewPosts";
 import JobHeader from "../Componets/JobSeekers/JobHeader";
 import Discoversession from "../Componets/JobSeekers/DiscoverSession";
+import Jobs from "../Componets/career-forms/careerjobs/jobs";
 
 const JobSeekers = () => {
   return (
@@ -14,6 +15,7 @@ const JobSeekers = () => {
       <Discoversession /> */}
       <Header />
       <Post />
+      {/* <Jobs/> */}
       {/* <Structure />
       <Kreatesystems />
       <NewPosts /> */}
