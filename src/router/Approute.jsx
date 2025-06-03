@@ -6,8 +6,8 @@ import JobSeekers from "../pages/JobSeekers";
 import ContactUsPage from "../pages/ContactUsPage";
 import Employers from "../pages/Employers";
 import Resource from "../pages/Resource";
-import Careers from "../pages/careers-xyz";
 import AboutPage from "../pages/AboutPage";
+import Careers from "../pages/careers-xyz";
 
 
 

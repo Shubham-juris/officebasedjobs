@@ -1,8 +1,9 @@
-import React from 'react';
-import data from '../careerjobs/Jobs.json'; 
-import { useState } from 'react';
-export default function Jobs ()  {
-  const [searchQuery, setSearchQuery] = useState('');
+import React from "react";
+import data from "../careerjobs/Jobs.json";
+import { useState } from "react";
+
+export default function Job() {
+  const [searchQuery, setSearchQuery] = useState("");
 
   if (!data || !Array.isArray(data)) {
     return <div>Error: Job data not found</div>;
@@ -10,8 +11,8 @@ export default function Jobs ()  {
 
   // Filter logic: match city or title
   const filteredJobs = data.filter((job) => {
-    const title = job.job_title?.toLowerCase() || '';
-    const location = job.job_details?.location?.toLowerCase() || '';
+    const title = job.job_title?.toLowerCase() || "";
+    const location = job.job_details?.location?.toLowerCase() || "";
     const query = searchQuery.toLowerCase();
     return title.includes(query) || location.includes(query);
   });
@@ -34,7 +35,10 @@ export default function Jobs ()  {
         <p className="text-center text-gray-500">No matching jobs found.</p>
       ) : (
         filteredJobs.map((job, index) => (
-          <div key={index} className="bg-white container rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8 relative mt-16">
+          <div
+            key={index}
+            className="bg-white container rounded-lg flex flex-col md:flex-row w-full mx-auto mb-8 relative mt-16"
+          >
             <h1 className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-2xl font-extrabold font-serif text-center bg-white px-4 py-2 rounded-lg">
               WE ARE HIRING!
             </h1>
@@ -48,13 +52,15 @@ export default function Jobs ()  {
 
               <h3 className="text-lg font-semibold mb-2">Job Details</h3>
               <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-                <li>Job type: {job.job_details.job_type || 'N/A'}</li>
+                <li>Job type: {job.job_details.job_type || "N/A"}</li>
                 <li>Location: {job.job_details.location}</li>
-                <li>Pay: {job.job_details.salary || 'Not specified'}</li>
+                <li>Pay: {job.job_details.salary || "Not specified"}</li>
                 <li>Hours: {job.job_details.hours_per_week} hours per week</li>
               </ul>
 
-              <h3 className="text-lg font-semibold mb-2">Full Job Description</h3>
+              <h3 className="text-lg font-semibold mb-2">
+                Full Job Description
+              </h3>
               <div>
                 {job.overview?.languages && (
                   <p className="text-sm text-gray-600 mb-2">
@@ -66,15 +72,21 @@ export default function Jobs ()  {
                   <>
                     <h4 className="text-md font-medium mb-2">Qualifications</h4>
                     <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-                      {job.overview.education && <li>Education: {job.overview.education}</li>}
-                      {job.overview.experience && <li>Experience: {job.overview.experience}</li>}
+                      {job.overview.education && (
+                        <li>Education: {job.overview.education}</li>
+                      )}
+                      {job.overview.experience && (
+                        <li>Experience: {job.overview.experience}</li>
+                      )}
                     </ul>
                   </>
                 )}
 
                 {job.job_details.responsibilities && (
                   <>
-                    <h4 className="text-md font-medium mb-2">Responsibilities</h4>
+                    <h4 className="text-md font-medium mb-2">
+                      Responsibilities
+                    </h4>
                     <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
                       {job.job_details.responsibilities.map((r, i) => (
                         <li key={i}>{r}</li>
@@ -83,20 +95,32 @@ export default function Jobs ()  {
                   </>
                 )}
 
-                {(job.job_details.shift || job.job_details.start_date || job.job_details.vacancies) && (
+                {(job.job_details.shift ||
+                  job.job_details.start_date ||
+                  job.job_details.vacancies) && (
                   <>
-                    <h4 className="text-md font-medium mb-2">Additional Details</h4>
+                    <h4 className="text-md font-medium mb-2">
+                      Additional Details
+                    </h4>
                     <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
-                      {job.job_details.shift && <li>Shift: {job.job_details.shift}</li>}
-                      {job.job_details.start_date && <li>Start Date: {job.job_details.start_date}</li>}
-                      {job.job_details.vacancies && <li>Vacancies: {job.job_details.vacancies}</li>}
+                      {job.job_details.shift && (
+                        <li>Shift: {job.job_details.shift}</li>
+                      )}
+                      {job.job_details.start_date && (
+                        <li>Start Date: {job.job_details.start_date}</li>
+                      )}
+                      {job.job_details.vacancies && (
+                        <li>Vacancies: {job.job_details.vacancies}</li>
+                      )}
                     </ul>
                   </>
                 )}
 
                 {job.health_benefits && (
                   <>
-                    <h4 className="text-md font-medium mb-2">Health Benefits</h4>
+                    <h4 className="text-md font-medium mb-2">
+                      Health Benefits
+                    </h4>
                     <ul className="list-disc list-inside text-sm text-gray-600 mb-4">
                       {job.health_benefits.map((benefit, i) => (
                         <li key={i}>{benefit}</li>
@@ -115,18 +139,38 @@ export default function Jobs ()  {
 
               <form>
                 <div className="mb-4">
-                  <input type="text" placeholder="Name" className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500" />
+                  <input
+                    type="text"
+                    placeholder="Name"
+                    className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  />
                 </div>
                 <div className="mb-4">
-                  <input type="tel" placeholder="Phone" className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500" />
+                  <input
+                    type="tel"
+                    placeholder="Phone"
+                    className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  />
                 </div>
                 <div className="mb-4">
-                  <input type="email" placeholder="Email*" required className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500" />
+                  <input
+                    type="email"
+                    placeholder="Email*"
+                    required
+                    className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  />
                 </div>
                 <div className="mb-4">
-                  <textarea placeholder="Cover letter" rows="5" className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"></textarea>
+                  <textarea
+                    placeholder="Cover letter"
+                    rows="5"
+                    className="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  ></textarea>
                 </div>
-                <button type="submit" className="w-full bg-blue-600 text-white p-3 rounded-full hover:bg-blue-700 transition">
+                <button
+                  type="submit"
+                  className="w-full bg-blue-600 text-white p-3 rounded-full hover:bg-blue-700 transition"
+                >
                   SUBMIT APPLICATION
                 </button>
               </form>
@@ -135,6 +179,5 @@ export default function Jobs ()  {
         ))
       )}
     </div>
-  );
-};
-
+  )
+}
