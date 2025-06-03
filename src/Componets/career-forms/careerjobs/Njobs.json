@@ -1,355 +1,4 @@
-[  {
-    "job_title": "Assistant Manager",
-    "company": "NextLevel Management",
-    "overview": {
-      "languages": "English",
-      "education": "Bachelor’s degree in Business Administration",
-      "experience": "3-5 years in supervisory roles"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$37.00 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "As soon as possible",
-      "vacancies": 1,
-      "responsibilities": [
-        "Supervise office staff",
-        "Oversee daily operations",
-        "Implement company policies",
-        "Manage budgets",
-        "Coordinate with departments",
-        "Prepare performance reports",
-        "Resolve operational issues",
-        "Handle escalated inquiries"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Do you have supervisory experience?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "nextlevelmanagement@gmail.com"
-    }
-  },
-  {
-    "job_title": "Office Clerk",
-    "company": "BlueSky Admin",
-    "overview": {
-      "languages": "English",
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "No experience required, training provided"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$18.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "Within 1 month",
-      "vacancies": 2,
-      "responsibilities": [
-        "Sort and file documents",
-        "Handle basic clerical tasks",
-        "Assist with email responses",
-        "Greet clients and visitors",
-        "Support office operations",
-        "Update contact databases",
-        "Process mail and packages",
-        "Assist with meeting setups"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Are you available for full-time work?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "blueskyadmin@gmail.com"
-    }
-  },
-  {
-    "job_title": "Bookkeeper",
-    "company": "TrueBalance Accounting",
-    "overview": {
-      "languages": "English",
-      "education": "College diploma in Accounting",
-      "experience": "1-2 years in bookkeeping"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$27.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "As soon as possible",
-      "vacancies": 1,
-      "responsibilities": [
-        "Track financial transactions",
-        "Manage accounts receivable",
-        "Prepare monthly reconciliations",
-        "Process payroll",
-        "Generate invoices",
-        "Assist with budget planning",
-        "Maintain ledgers",
-        "Support audit preparations"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Do you have experience with QuickBooks?",
-        "Are you legally eligible to work in Canada?"
-      ],
-      "email": "truebalanceaccounting@gmail.com"
-    }
-  },
-  {
-    "job_title": "Data Entry Officer",
-    "company": "Streamline Data",
-    "overview": {
-      "languages": "English",
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "No experience required, training provided"
-    },
-    "job_details": {
-      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
-      "salary": "$17.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "Within 2 weeks",
-      "vacancies": 1,
-      "responsibilities": [
-        "Enter data into databases",
-        "Check data for accuracy",
-        "Update client records",
-        "Generate data summaries",
-        "Scan and organize documents",
-        "Maintain data security",
-        "Assist with clerical tasks",
-        "Support office operations"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Are you available for full-time work?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "streamlinedata@gmail.com"
-    }
-  },
-  {
-    "job_title": "Office Clerk",
-    "company": "WestWind Business",
-    "overview": {
-      "languages": "English",
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "1-2 years in clerical work"
-    },
-    "job_details": {
-      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
-      "salary": "$18.00 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "As soon as possible",
-      "vacancies": 1,
-      "responsibilities": [
-        "Handle incoming and outgoing mail",
-        "Perform data entry tasks",
-        "Answer phone inquiries",
-        "Schedule appointments",
-        "Organize office documents",
-        "Assist with inventory tracking",
-        "Prepare basic reports",
-        "Support administrative team"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Are you available for the advertised start date?",
-        "Are you currently legally able to work in Canada?"
-      ],
-      "email": "westwindbusiness@gmail.com"
-    }
-  },
-  {
-    "job_title": "Bookkeeper",
-    "company": "GoldenBooks Accounting",
-    "overview": {
-      "languages": "English",
-      "education": "College diploma in Accounting or Bookkeeping",
-      "experience": "2-3 years in bookkeeping"
-    },
-    "job_details": {
-      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
-      "salary": "$26.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "Within 2 weeks",
-      "vacancies": 1,
-      "responsibilities": [
-        "Maintain financial records",
-        "Process accounts payable/receivable",
-        "Prepare financial statements",
-        "Reconcile bank accounts",
-        "Calculate payroll",
-        "Ensure tax compliance",
-        "Assist with audits",
-        "Generate financial reports"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Do you have bookkeeping experience?",
-        "Are you legally eligible to work in Canada?"
-      ],
-      "email": "goldenbooksaccounting@gmail.com"
-    }
-  },
-  {
-    "job_title": "Receptionist",
-    "company": "SunGate Services",
-    "overview": {
-      "languages": "English",
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "1-2 years in customer service"
-    },
-    "job_details": {
-      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
-      "salary": "$17.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "As soon as possible",
-      "vacancies": 2,
-      "responsibilities": [
-        "Greet clients and visitors",
-        "Answer and direct phone calls",
-        "Schedule appointments",
-        "Handle incoming mail",
-        "Maintain reception area",
-        "Process payments",
-        "Provide administrative support",
-        "Respond to inquiries"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ]
-    },
-    {
-    "job_title": "Assistant Manager",
-    "company": "Vantage Operations",
-    "overview": {
-      "languages": "English",
-      "education": "Bachelor’s degree in Business Administration",
-      "experience": "3-5 years in supervisory roles"
-    },
-    "job_details": {
-      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "salary": "$33.00 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "As soon as possible",
-      "vacancies": 1,
-      "responsibilities": [
-        "Supervise office staff",
-        "Oversee daily operations",
-        "Implement company policies",
-        "Manage budgets",
-        "Coordinate with departments",
-        "Prepare performance reports",
-        "Resolve operational issues",
-        "Handle escalated inquiries"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Do you have supervisory experience?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "vantageoperations@gmail.com"
-    }
-  },
-  {
-    "job_title": "Office Clerk",
-    "company": "TrueNorth Admin",
-    "overview": {
-      "languages": "English",
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "No experience required, training provided"
-    },
-    "job_details": {
-      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
-      "salary": "$17.50 per hour",
-      "hours_per_week": 40,
-      "job_type": "Permanent, Full-time",
-      "shift": "Day",
-      "start_date": "Within 1 month",
-      "vacancies": 2,
-      "responsibilities": [
-        "Sort and file documents",
-        "Handle basic clerical tasks",
-        "Assist with email responses",
-        "Greet clients and visitors",
-        "Support office operations",
-        "Update contact databases",
-        "Process mail and packages",
-        "Assist with meeting setups"
-      ]
-    },
-    "health_benefits": [
-      "Dental plan",
-      "Health care plan"
-    ],
-    "how_to_apply": {
-      "required_documents": ["Cover letter"],
-      "screening_questions": [
-        "Are you available for full-time work?",
-        "Are you legally able to work in Canada?"
-      ],
-      "email": "truenorthadmin@gmail.com"
-    }
-  },
+[  
   {
     "job_title": "Bookkeeper",
     "company": "ClearLedger Services",
@@ -3505,8 +3154,360 @@
         "screening_questions": []
       }
     },
+    {
+    "job_title": "Assistant Manager",
+    "company": "NextLevel Management",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business Administration",
+      "experience": "3-5 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
+      "salary": "$37.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Supervise office staff",
+        "Oversee daily operations",
+        "Implement company policies",
+        "Manage budgets",
+        "Coordinate with departments",
+        "Prepare performance reports",
+        "Resolve operational issues",
+        "Handle escalated inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have supervisory experience?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "nextlevelmanagement@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "BlueSky Admin",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
+      "salary": "$18.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 2,
+      "responsibilities": [
+        "Sort and file documents",
+        "Handle basic clerical tasks",
+        "Assist with email responses",
+        "Greet clients and visitors",
+        "Support office operations",
+        "Update contact databases",
+        "Process mail and packages",
+        "Assist with meeting setups"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "blueskyadmin@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "TrueBalance Accounting",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting",
+      "experience": "1-2 years in bookkeeping"
+    },
+    "job_details": {
+      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
+      "salary": "$27.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Track financial transactions",
+        "Manage accounts receivable",
+        "Prepare monthly reconciliations",
+        "Process payroll",
+        "Generate invoices",
+        "Assist with budget planning",
+        "Maintain ledgers",
+        "Support audit preparations"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have experience with QuickBooks?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "truebalanceaccounting@gmail.com"
+    }
+  },
+  {
+    "job_title": "Data Entry Officer",
+    "company": "Streamline Data",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "123 5th Ave SW, Calgary, AB T2P 2H6",
+      "salary": "$17.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Enter data into databases",
+        "Check data for accuracy",
+        "Update client records",
+        "Generate data summaries",
+        "Scan and organize documents",
+        "Maintain data security",
+        "Assist with clerical tasks",
+        "Support office operations"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "streamlinedata@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "WestWind Business",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in clerical work"
+    },
+    "job_details": {
+      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "salary": "$18.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Handle incoming and outgoing mail",
+        "Perform data entry tasks",
+        "Answer phone inquiries",
+        "Schedule appointments",
+        "Organize office documents",
+        "Assist with inventory tracking",
+        "Prepare basic reports",
+        "Support administrative team"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ],
+      "email": "westwindbusiness@gmail.com"
+    }
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "GoldenBooks Accounting",
+    "overview": {
+      "languages": "English",
+      "education": "College diploma in Accounting or Bookkeeping",
+      "experience": "2-3 years in bookkeeping"
+    },
+    "job_details": {
+      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "salary": "$26.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 2 weeks",
+      "vacancies": 1,
+      "responsibilities": [
+        "Maintain financial records",
+        "Process accounts payable/receivable",
+        "Prepare financial statements",
+        "Reconcile bank accounts",
+        "Calculate payroll",
+        "Ensure tax compliance",
+        "Assist with audits",
+        "Generate financial reports"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have bookkeeping experience?",
+        "Are you legally eligible to work in Canada?"
+      ],
+      "email": "goldenbooksaccounting@gmail.com"
+    }
+  },
+  {
+    "job_title": "Receptionist",
+    "company": "SunGate Services",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1-2 years in customer service"
+    },
+    "job_details": {
+      "location": "5105 50 St, Drayton Valley, AB T7A 1R3",
+      "salary": "$17.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 2,
+      "responsibilities": [
+        "Greet clients and visitors",
+        "Answer and direct phone calls",
+        "Schedule appointments",
+        "Handle incoming mail",
+        "Maintain reception area",
+        "Process payments",
+        "Provide administrative support",
+        "Respond to inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ]
+    },
+    {
+    "job_title": "Assistant Manager",
+    "company": "Vantage Operations",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Business Administration",
+      "experience": "3-5 years in supervisory roles"
+    },
+    "job_details": {
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
+      "salary": "$33.00 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Supervise office staff",
+        "Oversee daily operations",
+        "Implement company policies",
+        "Manage budgets",
+        "Coordinate with departments",
+        "Prepare performance reports",
+        "Resolve operational issues",
+        "Handle escalated inquiries"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Do you have supervisory experience?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "vantageoperations@gmail.com"
+    }
+  },
+  {
+    "job_title": "Office Clerk",
+    "company": "TrueNorth Admin",
+    "overview": {
+      "languages": "English",
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "No experience required, training provided"
+    },
+    "job_details": {
+      "location": "4804 42 Ave, Innisfail, AB T4G 1N4",
+      "salary": "$17.50 per hour",
+      "hours_per_week": 40,
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "Within 1 month",
+      "vacancies": 2,
+      "responsibilities": [
+        "Sort and file documents",
+        "Handle basic clerical tasks",
+        "Assist with email responses",
+        "Greet clients and visitors",
+        "Support office operations",
+        "Update contact databases",
+        "Process mail and packages",
+        "Assist with meeting setups"
+      ]
+    },
+    "health_benefits": [
+      "Dental plan",
+      "Health care plan"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter"],
+      "screening_questions": [
+        "Are you available for full-time work?",
+        "Are you legally able to work in Canada?"
+      ],
+      "email": "truenorthadmin@gmail.com"
+    }
+  },
 
-{
+    {
     "job_title": "Receptionist",
     "company": "BITTS Testing Services Inc.",
     
