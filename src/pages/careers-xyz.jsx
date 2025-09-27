@@ -2,9 +2,6 @@ import React from "react";
 import Job from "../Componets/career-forms/careerjobs/jobs";
 import Njob from "../Componets/career-forms/careerjobs/Njobs";
 
-
-
-
 const Careers = () => {
   return (
     <>
@@ -38,9 +35,8 @@ const Careers = () => {
       <AiBookkeeper />
       <AiAdministrativeAssistant />
       <JobListings /> */}
-      
-      <Njob/>
-     
+
+      <Njob />
     </>
   );
 };
