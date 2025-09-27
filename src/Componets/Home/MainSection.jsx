@@ -31,7 +31,7 @@ export default function MainSection() {
             gutterBottom
             sx={{ fontWeight: "bold", fontSize: { xs: "1.5rem", md: "3rem" } }}
           >
-            Unlock Your Office Potential
+            Unlock Your Offices Potential
           </Typography>
           <Typography
             variant="h5"
@@ -46,7 +46,11 @@ export default function MainSection() {
           </Typography>
           <Typography
             variant="body1"
-            sx={{ mb: 2, fontSize: { xs: "0.9rem", md: "1.1rem" }, lineHeight: 1.6 }}
+            sx={{
+              mb: 2,
+              fontSize: { xs: "0.9rem", md: "1.1rem" },
+              lineHeight: 1.6,
+            }}
           >
             At Office Based Jobs, we specialize in connecting job seekers with a
             wide range of office-based positions across various industries...
