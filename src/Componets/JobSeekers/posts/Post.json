@@ -6394,5 +6394,168 @@
       ],
       "email": "kreatesystems8@gmail.com"
     }
+  },
+  {
+    "job_title": "Software Developer",
+    "company": "Heritage Computer Services",
+    "pay": "Not disclosed (Competitive salary + benefits)",
+    "job_type": ["Permanent", "Full-time"],
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Computer Science or related field",
+      "experience": "At least 5 years of experience as a Software Developer in a team environment"
+    },
+    "job_details": {
+      "shift": "Day",
+      "hours_per_week": "40 hours",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "location": "Calgary, AB T2P 0L4•Hybrid work",
+      "responsibilities": [
+        "Design, develop, and maintain highly scalable back-end services and microservices using Python",
+        "Be an active participant in Scrum ceremonies such as sprint planning, daily stand-ups, sprint reviews, and retrospectives",
+        "Perform code reviews and provide feedback to developers",
+        "Contribute to the development of new ideas and improvements in system architecture",
+        "Mentor junior developers through pair programming, code reviews, and demos",
+        "Conduct technical investigations (POCs, analyses) to determine technology feasibility and direction",
+        "Write unit, system, and integration tests to ensure reliability"
+      ]
+    },
+    "skills_and_experience": [
+      "Extensive experience in Python frameworks such as Django, Flask, or FastAPI",
+      "Proven experience with CI/CD pipelines (Azure DevOps, GitHub Actions)",
+      "Hands-on experience with Infrastructure as Code (Terraform)",
+      "Solid knowledge of cloud platforms (Azure, AWS, GCP)",
+      "Strong understanding of Agile methodologies (Scrum)",
+      "Experience with front-end development (Angular is an asset)",
+      "Knowledge of or interest in Large Language Models (LLMs) and AI"
+    ],
+    "benefits": [
+      "Generous base pay",
+      "Vacation time",
+      "4 paid personal days",
+      "Pension plan with 4% matching",
+      "Voluntary savings products",
+      "Bonus programs",
+      "Flexible benefits and mental health resources",
+      "Professional development assistance via MNP University",
+      "Flexible 'Dress For Your Day' environment",
+      "Firm-sponsored social events"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Cover letter", "Resume"],
+      "screening_questions": [
+        "Are you available for the advertised start date?",
+        "Are you currently legally able to work in Canada?"
+      ]
+    }
+  },
+    {
+  "job_title": "Administrative Assistant/Data Integrity Specialist – Foster Care Program",
+  "company": "Enviros",
+  "pay": "25,000 CAD (Part-Time, 20 hours per week, 0.5 FTE)",
+  "job_type": ["Part-Time"],
+  "overview": {
+    "languages": "English",
+    "education": "Not specifically listed (administrative/IT background preferred)",
+    "experience": "5+ years in Administrative/IT role"
+  },
+  "job_details": {
+    "department": "Foster Care - Children's Services - 2100",
+    "location": "Alberta, Canada",
+    "date_posted": "2025-09-26",
+    "vacancies": "Not specified",
+    "responsibilities": [
+      "Support Foster Care team with all electronic file needs, including internal file audits and data entry",
+      "Process and review documents requiring signatures with care and attention",
+      "Communicate with foster care team around electronic files and provide support/information required to maintain 100% compliance",
+      "Provide support and training for foster families regarding timely and accurate sharing and uploading of required reporting and information",
+      "Attend regular meetings and stay updated on changing needs of the team, families, organization, and funders"
+    ]
+  },
+  "skills_and_experience": [
+    "Nimble, adaptable, and knowledgeable across IT functions",
+    "Strong understanding of non-profit/social sector",
+    "Strong interpersonal skills",
+    "Strong verbal and written communication skills",
+    "Ability to work independently and collaboratively",
+    "5+ years’ experience in Administrative/IT role",
+    "Working knowledge of SharePoint and ShareVision (preferred)"
+  ],
+  "requirements_prior_to_hiring": [
+    "Current criminal record check including vulnerable sector (within last 6 months)",
+    "Current Alberta Intervention Record check (within last 12 months)"
+  ],
+  "organization_overview": {
+    "about": "Enviros is a social services agency providing individualized programs to children, youth, adults, and families in vulnerable situations. Founded in 1976, it has been an adopter of evidence-based best practices.",
+    "vision": "The Power of Human Relationships Invites Belonging and Inspires Growth",
+    "program_focus": "Enviros Foster Care program provides care to children under 18 during times of upheaval, matching foster homes to children’s needs with a focus on returning them to family or permanent placements."
+  },
+  "how_to_apply": {
+    "required_documents": ["Resume", "Cover Letter"],
+    "screening_questions": [
+      "Do you have a valid criminal record check within the last 6 months?",
+      "Do you have an Alberta Intervention Record check within the last 12 months?",
+      "Do you have 5+ years of administrative/IT experience?"
+    ]
   }
+},
+{
+  "job_title": "Bookkeeper",
+  "company": "Calgreen Homes Ltd.",
+  "overview": {
+    "languages": "English",
+    "education": "College, CEGEP or non-university certificate or diploma (1–2 years) or equivalent experience",
+    "experience": "2 years to less than 3 years"
+  },
+  "job_details": {
+    "location": "Calgary, AB T2M 3N4",
+    "salary": "$18–$25 per hour",
+    "hours_per_week": "30 to 40 hours",
+    "job_type": "Permanent, Full-time",
+    "shift": "Day",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Keep financial records and establish, maintain and balance various accounts using manual and computerized bookkeeping systems",
+      "Prepare statistical, financial and accounting reports",
+      "Maintain and oversee payroll administration",
+      "Carry out administrative activities of the establishment",
+      "Review and evaluate new administrative procedures",
+      "Oversee and coordinate office administrative procedures",
+      "Establish work priorities and ensure deadlines are met",
+      "Coordinate and plan office services such as accommodation, relocation, equipment, supplies, forms, asset disposal, parking, maintenance and security",
+      "Assemble data and prepare periodic/special reports, manuals and correspondence",
+      "Implement new administrative procedures"
+    ]
+  },
+  "skills_and_technology": [
+    "MS Excel",
+    "MS Outlook",
+    "MS PowerPoint",
+    "MS Windows",
+    "MS Word",
+    "MS Office",
+    "MS Project"
+  ],
+  "personal_suitability": [
+    "Efficient interpersonal skills",
+    "Excellent oral communication",
+    "Excellent written communication",
+    "Flexibility",
+    "Organized",
+    "Adaptability",
+    "Ability to multitask"
+  ],
+  "how_to_apply": {
+    "required_documents": ["Cover letter", "Resume"],
+    "screening_questions": [
+      "Do you have experience with Windows and Microsoft Office applications?",
+      "Do you have a College diploma or equivalent experience?",
+      "Do you have at least 2 years of bookkeeping/administrative experience?",
+      "Are you legally eligible to work in Canada?"
+    ]
+  }
+}
+
 ]
