@@ -6624,5 +6624,661 @@
         "Are you legally eligible to work in Canada?"
       ]
     }
+  },
+  {
+    "job_title": "Administrative Assistant",
+    "company": "Value Truck Sales",
+    "overview": {
+      "languages": "English",
+      "education": "College/CEGEP diploma",
+      "experience": "7 months to less than 1 year"
+    },
+    "job_details": {
+      "location": "Calgary, AB T2C 4Y1",
+      "salary": "$35.40 an hour",
+      "hours_per_week": "37.5 hours",
+      "job_type": "Permanent, Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Arrange and co-ordinate seminars, conferences, etc.",
+        "Assist with staff consultation and grievance procedures",
+        "Coordinate the flow of information within the team",
+        "Direct and control daily operations",
+        "Evaluate daily operations",
+        "Plan and control budget and expenditures",
+        "Plan and organize daily operations",
+        "Train staff and other workers",
+        "Record and prepare minutes of meetings, seminars and conferences",
+        "Plan, develop and implement recruitment strategies",
+        "Schedule and confirm appointments",
+        "Manage contracts",
+        "Manage training and development strategies",
+        "Answer telephone and relay telephone calls and messages",
+        "Oversee development of communication strategies",
+        "Compile data, statistics and other information",
+        "Oversee the preparation of reports",
+        "Order office supplies and maintain inventory",
+        "Arrange travel, related itineraries and make reservations",
+        "Set up and maintain manual and computerized information filing systems",
+        "Recruit and hire workers and carry out related staffing actions"
+      ]
+    },
+    "skills_and_technology": [
+      "Filing",
+      "MS Office Suite",
+      "Data entry",
+      "Information management"
+    ],
+    "personal_suitability": [
+      "Organized",
+      "Flexibility",
+      "Ability to multitask",
+      "Efficient interpersonal skills",
+      "Excellent written and oral communication"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Resume", "Cover letter"],
+      "screening_questions": [
+        "Do you have a College/CEGEP diploma?",
+        "Do you have at least 7 months of administrative experience?",
+        "Do you have experience with filing and information management systems?",
+        "Are you legally eligible to work in Canada?"
+      ]
+    }
+  },
+
+  {
+    "job_title": "Software Developer",
+    "company": "Heritage Computer Services",
+    "overview": {
+      "languages": "English",
+      "education": "Not specified (Bachelor’s degree in Computer Science or related field preferred)",
+      "experience": "5+ years as a Software Developer in a team environment"
+    },
+    "job_details": {
+      "location": "Calgary, AB T2P 0L4 (Hybrid work)",
+      "salary": "Not specified (includes competitive base pay, bonus, pension, and benefits)",
+      "hours_per_week": "40 hours",
+      "job_type": "Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Design, develop, and maintain scalable back-end services and microservices using Python",
+        "Participate in Scrum ceremonies including sprint planning, daily stand-ups, reviews, and retrospectives",
+        "Perform code reviews to ensure adherence to architecture, security, and best practices",
+        "Contribute innovative ideas to improve processes and system architecture",
+        "Mentor junior developers through pair programming, reviews, and knowledge sharing",
+        "Conduct technical investigations (POCs, analyses) to assess risks and feasibility",
+        "Write unit, system, and integration tests with high code coverage"
+      ]
+    },
+    "skills_and_technology": [
+      "Python (Django, Flask, FastAPI)",
+      "CI/CD (Azure DevOps, GitHub Actions)",
+      "Terraform",
+      "Azure, AWS, or GCP",
+      "Agile/Scrum",
+      "API development",
+      "Front-end (Angular, optional)",
+      "Artificial Intelligence (AI) and Large Language Models (LLMs, asset)"
+    ],
+    "personal_suitability": [
+      "Strong sense of ownership",
+      "Problem-solving mindset",
+      "Team player",
+      "Excellent communication skills",
+      "Ability to mentor others",
+      "Adaptable and innovative"
+    ],
+    "benefits": [
+      "Generous base pay and bonus programs",
+      "Vacation and 4 paid personal days",
+      "Group pension plan with 4% matching",
+      "Flexible benefits and voluntary savings products",
+      "Mental health resources",
+      "Professional development assistance (MNP University)",
+      "Firm-sponsored social events",
+      "Dress For Your Day environment",
+      "Exclusive perks and discounts"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Encourages diversity and applications from people with disabilities",
+      "application_link": "Not specified (apply via MNP/Heritage recruitment portal)"
+    }
+  },
+  {
+    "job_title": "Software Developer II",
+    "company": "H&R Block Canada",
+    "overview": {
+      "languages": "English",
+      "education": "Post-secondary education in Computer Science, Computer Engineering, Programming, or related field (or equivalent experience)",
+      "experience": "3+ years progressive experience as a Full-Stack Developer"
+    },
+    "job_details": {
+      "location": "Calgary, AB (Hybrid work)",
+      "salary": "Not specified",
+      "hours_per_week": "40 hours",
+      "job_type": "Full-time, Fixed term contract (6 months, Maternity Backfill)",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Design, code, test, and debug software applications using Java and C#",
+        "Collaborate with cross-functional teams to develop software solutions meeting business requirements",
+        "Participate in the full software development lifecycle (requirements, design, development, deployment)",
+        "Write and maintain technical documentation",
+        "Troubleshoot and resolve software defects and issues",
+        "Conduct code reviews and provide feedback to peers",
+        "Integrate software components into fully functional systems",
+        "Apply best practices and design patterns",
+        "Explore new technologies, methodologies, and tools",
+        "Contribute to knowledge sharing through blog posts, presentations, or open-source contributions"
+      ]
+    },
+    "skills_and_technology": [
+      "Java",
+      "C#",
+      "Front-end and Back-end development",
+      "RESTful web services",
+      "Kubernetes",
+      "Cloud platforms (Microsoft Azure preferred)",
+      "Agile/Scrum methodology",
+      "Git/GitHub",
+      "CI/CD pipelines (Azure DevOps)",
+      "Relational databases (PostgreSQL, MSSQL Server)"
+    ],
+    "personal_suitability": [
+      "Product-oriented mindset",
+      "Analytical and collaborative problem-solving skills",
+      "Comfortable working autonomously",
+      "Decision-making ability",
+      "Adaptable to ambiguity",
+      "Passionate about programming and data"
+    ],
+    "how_to_apply": {
+      "application_email": "employment.opportunities@hrblock.ca",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Include the position title in the subject line. Legal authorization to work in Canada required."
+    },
+    "benefits": [
+      "Workplace embraces individual differences and inclusion",
+      "Accommodations available during recruitment and selection process"
+    ]
+  },
+  {
+    "job_title": "Software Reliability Engineer",
+    "company": "LodgeLink",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s in Computer Science or related field",
+      "experience": "4+ years in technical support or engineering roles, specializing in web-based applications and business systems"
+    },
+    "job_details": {
+      "location": "Calgary, AB (4 days in office, 1 flex day)",
+      "salary": "Not specified (Competitive base salary, Share Appreciation Rights, and benefits included)",
+      "hours_per_week": "40 hours",
+      "job_type": "Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Provide first, second, and third-level technical support for LodgeLink platforms, integrations, and business applications",
+        "Troubleshoot, diagnose, and resolve complex technical issues",
+        "Collaborate with engineering teams to escalate and resolve high-impact incidents",
+        "Develop and deploy automation tools and scripts to improve system performance",
+        "Define, measure, and monitor SLAs/SLOs for critical services",
+        "Implement observability practices including metrics, logging, and tracing",
+        "Collaborate with product and engineering teams to ensure reliability and resilience",
+        "Analyze support data to uncover patterns and propose systemic solutions",
+        "Document processes, issues, and resolutions to strengthen internal knowledge base",
+        "Participate in cross-functional projects as needed"
+      ]
+    },
+    "skills_and_technology": [
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "React",
+      "Node.js",
+      "GraphQL",
+      "SQL",
+      "Microsoft Azure (preferred)",
+      "CI/CD pipelines",
+      "RESTful APIs",
+      "NetSuite API (asset)",
+      "JIRA",
+      "Monitoring tools (Azure Monitor, App Insights, Prometheus, Grafana)"
+    ],
+    "personal_suitability": [
+      "Proactive problem solver",
+      "Strong communication skills",
+      "Ability to explain technical concepts to non-technical users",
+      "Relationship-building skills",
+      "Collaborative and adaptable",
+      "Able to manage multiple priorities in a dynamic environment"
+    ],
+    "benefits": [
+      "Competitive base salary",
+      "Share Appreciation Rights program",
+      "Extended health, dental, vision, life, disability, and critical illness insurance",
+      "Health Spending Account and TeleDoc services",
+      "Employee Assistance Program",
+      "Paid vacation and sick days",
+      "Employee charitable donation program",
+      "Hotel and travel discounts",
+      "Company events, game room, and Social Club activities",
+      "Free access to Aspen Properties Fitness Centers",
+      "Located in downtown Calgary near Prince’s Island Park"
+    ],
+    "how_to_apply": {
+      "application_link": "https://www.lodgelink.com/careers",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Accommodations available upon request. Equal Opportunity Employer."
+    },
+    "company_profile": {
+      "description": "LodgeLink, a Black Diamond Group company, is a digital marketplace and ecosystem for crew travel, offering seamless booking, management, and reporting for workforce travel and accommodation needs.",
+      "values": [
+        "Collaboration",
+        "Agility",
+        "Dependability",
+        "Inventiveness",
+        "Audacity"
+      ],
+      "parent_company": "Black Diamond Group (publicly traded, operations in Canada, US, and Australia)"
+    }
+  },
+  {
+    "job_title": "Senior Enterprise Software Developer",
+    "company": "FLYHT",
+    "overview": {
+      "languages": "English",
+      "education": "Diploma or degree in Computer Science, Software Engineering, or related discipline",
+      "experience": "3+ years professional software development experience (7+ years preferred)"
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "salary": "Not specified",
+      "hours_per_week": "40+ hours (9/80 work week, flexible schedule)",
+      "job_type": "Full-time",
+      "shift": "Weekends as needed",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Design and develop enterprise-grade software supporting aerospace data solutions",
+        "Lead creation of applications integrating with aircraft communication and measurement systems",
+        "Participate in full development lifecycle: planning, implementation, testing, and deployment",
+        "Deliver reliable, scalable, and efficient software solutions",
+        "Develop internal tools and support cross-functional teams",
+        "Continuously improve processes and code quality",
+        "Interpret complex system specifications",
+        "Mentor peers and drive improvements across the team",
+        "Collaborate in Agile/Scrum environment",
+        "Apply test automation and automated code coverage analysis where applicable"
+      ]
+    },
+    "skills_and_technology": [
+      "Node.js",
+      "JavaScript",
+      "Angular",
+      "TypeScript",
+      "Python",
+      "Go",
+      "Java",
+      "AWS Serverless (Lambda, DynamoDB, API Gateway, CloudWatch, S3, RDS)",
+      "CI/CD tools (Jenkins, AWS CodePipeline, Git)",
+      "Test automation and testing frameworks (Playwright, Pytest, Jest, Artillery)",
+      "IaC tools (SAM, CloudFormation, Terraform)",
+      "Enterprise software integration",
+      "Linux and RTOS BSPs (asset)",
+      "Aircraft data buses (ARINC 717, ARINC 429, asset)",
+      "Satellite-based communication products (asset)"
+    ],
+    "personal_suitability": [
+      "Strong communication and organizational skills",
+      "Analytical and problem-solving mindset",
+      "Ability to work independently and collaboratively",
+      "Agile/Scrum team player",
+      "Customer-driven and stakeholder-focused",
+      "Continuous learner and innovative thinker"
+    ],
+    "benefits": [
+      "9/80 work week with every other Friday off",
+      "Flexible schedule with core hours",
+      "Paid vacation (120 hours) and Personal Time Off",
+      "Health, dental, life, short-term and long-term disability insurance",
+      "Retirement savings matching program",
+      "Career Development Program and Social Committee activities",
+      "Semi-hybrid work environment",
+      "Newly renovated office with modern amenities"
+    ],
+    "how_to_apply": {
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Resumes retained for recruitment only and handled confidentially. Passport required (travel may be required). Apply via FLYHT careers portal."
+    },
+    "company_profile": {
+      "description": "FLYHT is a pioneer in Satellite Communications and Aviation Data Transfer & Delivery, providing innovative aerospace data solutions to airlines for over 20 years.",
+      "values": [
+        "We Are Tenacious",
+        "We Are Inclusive",
+        "We Grow Together",
+        "We Are Innovative",
+        "We Are Always Learning & Experimenting"
+      ],
+      "work_culture": [
+        "Positive work environment",
+        "Teamwork and collaboration",
+        "Clear objectives and fair compensation",
+        "Empowered employees and leadership roles"
+      ]
+    }
+  },
+
+  {
+    "job_title": "Coordinator Community Development",
+    "company": "Hopewell Residential",
+    "overview": {
+      "languages": "English",
+      "education": "Diploma or Degree in Civil Engineering, Planning, Architecture, Business or related field",
+      "experience": "2–5 years in civil engineering or residential development (Calgary market preferred)"
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "salary": "Not specified",
+      "hours_per_week": "40 hours",
+      "job_type": "Full-time",
+      "shift": "Monday to Friday, 8:00 am to 5:00 pm",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Communicate deliverables to consultants to ensure timely and budget-compliant lot delivery",
+        "Track City drawing review times and coordinate circulations",
+        "Collaborate with City and consultants for design goals and approvals",
+        "Review engineering and landscape design drawings",
+        "Provide input on Development Agreements",
+        "Monitor delivery of lot information to builders",
+        "Prepare and monitor project budgets and loan draw requests",
+        "Provide budget coding breakdowns to accounting",
+        "Prepare cost to complete reports",
+        "Review yearly tax assessments and maintain farm leases",
+        "Lead landscape requirements to maximize lot revenues",
+        "Ensure timely receipt of CCCs and FACs, manage letters of credit",
+        "Turn over completed phases to the City efficiently",
+        "Coordinate project approval timelines",
+        "Recommend contractor/consultant selections",
+        "Participate in contract procurement",
+        "Communicate with neighboring landowners, developers, utility providers, and agencies",
+        "Prepare construction scheduling programs",
+        "Conduct community tours to maintain appearance for sales and marketing",
+        "Stay current on emerging industry trends",
+        "Volunteer on BILD committees"
+      ]
+    },
+    "skills_and_technology": [
+      "Microsoft Office",
+      "Microsoft Excel",
+      "Civil Engineering knowledge",
+      "Planning and Development knowledge",
+      "Project budgeting and cost control",
+      "Communication and collaboration skills",
+      "Contractor and consultant coordination"
+    ],
+    "personal_suitability": [
+      "Strong problem-solving skills",
+      "Ability to evaluate problems and recommend solutions",
+      "Strong communicator and team player",
+      "Ability to provide clear direction to consultants and contractors",
+      "Interdepartmental collaboration",
+      "Adaptable and proactive"
+    ],
+    "benefits": [
+      "Standard full-time office benefits (not specified)",
+      "Professional growth opportunities",
+      "Exposure to residential development projects",
+      "Engagement in community and industry committees"
+    ],
+    "how_to_apply": {
+      "application_link": "https://hopewell.ca/careers/",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Occasional attendance at off-site or work-related events required. Personal vehicle access needed for site visits."
+    },
+    "company_profile": {
+      "description": "Hopewell Residential Management LP is a leading Alberta home builder and community developer with over 30 years of experience, focusing on operational excellence, thoughtful design, and customer service.",
+      "values": [
+        "Collaboration",
+        "Accountability",
+        "Operational Excellence",
+        "Customer Focus",
+        "ESG Practices"
+      ],
+      "work_culture": [
+        "Traditional office hours with occasional site visits",
+        "Team-oriented and collaborative",
+        "Commitment to community and industry involvement",
+        "Focus on professional development and industry trends"
+      ]
+    }
+  },
+  {
+    "job_title": "Embedded Software Developer",
+    "company": "FLYHT",
+    "overview": {
+      "languages": "English",
+      "education": "Diploma or Degree in Computer Science, Software Engineering, or related field",
+      "experience": "3+ years professional software development experience; 7+ years preferred"
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "salary": "Not specified",
+      "hours_per_week": "Flexible, 9/80 work week",
+      "job_type": "Full-time",
+      "shift": "Weekends as needed",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Design and develop embedded software for aerospace systems",
+        "Collaborate in Agile environment across multidisciplinary teams",
+        "Contribute to architecture, coding, testing, and deployment",
+        "Mentor peers and break down work into achievable sprint goals",
+        "Work with Linux and RTOS platforms",
+        "Develop unit tests and system testing software tools",
+        "Continuously improve software performance and reliability",
+        "Explore emerging technologies and advocate for best practices",
+        "Contribute to system evolution with focus on innovation, efficiency, and scalability"
+      ]
+    },
+    "skills_and_technology": [
+      "C and Python (required), C++, Java, JavaScript, Bash Scripting, Visual Basic (assets)",
+      "Linux distributions: Ubuntu, Yocto, OpenWRT",
+      "RTOS BSP support",
+      "GIT for source control",
+      "CI/CD pipelines",
+      "Code repositories, testing frameworks, release practices, automated build servers",
+      "Unit testing and system testing with real or simulated hardware"
+    ],
+    "assets": [
+      "Aeronautic industry knowledge",
+      "Avionic software guidelines (DO-178, DO-278)",
+      "Satellite-based communication protocols",
+      "Cellular/Bluetooth communication products",
+      "Test automation and automated code coverage",
+      "Aircraft data buses (ARINC 717, ARINC 429)",
+      "IoT sensor interfacing and AWS IoT Greengrass",
+      "AWS Cloud Practitioner Certification",
+      "Remote system/firmware management",
+      "IaC technologies such as Terraform or CloudFormation"
+    ],
+    "personal_suitability": [
+      "Curiosity and drive",
+      "Fast-paced collaborative mindset",
+      "Problem-solving with practical focus",
+      "Passion for learning, mentoring, and innovation",
+      "Strong communication and teamwork skills"
+    ],
+    "benefits": [
+      "9/80 work week with every other Friday off",
+      "Flexible schedule with core hours",
+      "Semi-hybrid work environment",
+      "Health, dental, short/long-term disability, life insurance",
+      "Retirement savings matching",
+      "Personal Time Off and 120 paid vacation hours",
+      "Career Development Program and Social Committee",
+      "Recently renovated office with panoramic city/mountain views, free parking, and height-adjustable workstations"
+    ],
+    "how_to_apply": {
+      "application_link": "https://flyht.com/careers/",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Flexibility in schedule required; enthusiasm for aviation systems is a plus"
+    },
+    "company_profile": {
+      "description": "FLYHT is a pioneer in Satellite Communications and Aviation Data Transfer & Delivery, providing innovative aerospace solutions to airlines for over 20 years.",
+      "values": [
+        "Tenacious",
+        "Inclusive",
+        "Collaborative",
+        "Innovative",
+        "Continuous Learning"
+      ],
+      "work_culture": [
+        "Agile, self-managed environment",
+        "Focus on innovation and problem solving",
+        "Team-oriented with mentorship opportunities",
+        "Customer-driven and stakeholder-focused"
+      ]
+    }
+  },
+  {
+    "job_title": "Administrative Professional, Financial Advisory Services",
+    "company": "BDO",
+    "overview": {
+      "languages": "English",
+      "education": "Office Administration diploma or relevant education (asset)",
+      "experience": "2+ years in administrative or similar role"
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "salary": "Not specified",
+      "hours_per_week": "40 hours",
+      "job_type": "Full-time, 8–12 month contract",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Perform general administrative duties: typing, document storage, sending invoices",
+        "Coordinate internal meetings, including set-up and catering",
+        "Assist with client invoices, data entry, and risk checks",
+        "Support workflow software/systems, tracking and reporting",
+        "Assist with partner expense reports",
+        "Provide ongoing administrative support: formatting documents, presentations, proofreading, meeting minutes",
+        "Support multiple Executive Assistants and staff",
+        "Interact with clients to support information requests and follow-ups",
+        "Gain knowledge of the public sector",
+        "Perform other duties as assigned"
+      ]
+    },
+    "skills_and_technology": [
+      "Microsoft Word",
+      "Microsoft Outlook",
+      "Microsoft Excel",
+      "Microsoft Office Suite",
+      "Workflow software/systems",
+      "Document management tools"
+    ],
+    "personal_suitability": [
+      "Integrity, Respect, and Collaboration",
+      "Ability to prioritize and manage multiple tasks",
+      "Work efficiently in deadline-driven environment",
+      "Handle confidential information",
+      "Strong problem solving and analytical skills",
+      "Excellent written and oral communication",
+      "Team-oriented and client-service focused",
+      "Adaptable to learning new digital tools"
+    ],
+    "benefits": [
+      "Competitive total cash compensation",
+      "Flexible benefits from day one",
+      "Market-leading personal time off policy",
+      "Opportunities for professional development and learning",
+      "Workplace flexibility (office, client site, virtual)",
+      "Support for wellness initiatives",
+      "Community involvement opportunities",
+      "Inclusive and diverse work environment"
+    ],
+    "how_to_apply": {
+      "application_link": "https://www.bdo.ca/en-ca/careers/",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Accommodations available for applicants with disabilities. AI (Microsoft Copilot) may be used for note-taking during preliminary conversations."
+    },
+    "company_profile": {
+      "description": "BDO Canada is a professional services firm providing financial advisory, accounting, and consulting services. Known for its people-first culture, BDO focuses on professional growth, client service, and community impact.",
+      "values": ["Integrity", "Respect", "Collaboration"],
+      "work_culture": [
+        "People-first approach",
+        "Professional growth and learning",
+        "Flexible work arrangements",
+        "Diversity, equity, and inclusion",
+        "Ethical conduct and trust"
+      ]
+    }
+  },
+  {
+    "job_title": "Administrative Assistant/Data Integrity Specialist",
+    "company": "Enviros",
+    "overview": {
+      "languages": "English",
+      "education": "Not specified (related post-secondary education preferred)",
+      "experience": "5+ years in Administrative/IT role"
+    },
+    "job_details": {
+      "location": "Calgary, AB T2E 7J2",
+      "salary": "$25,000 annually",
+      "hours_per_week": "20 hours",
+      "job_type": "Part-time (.5 FTE)",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Support Foster Care team with all electronic file needs, including internal file audits and data entry",
+        "Process and review documents requiring signatures with care and attention",
+        "Communicate with foster care team around electronic files to maintain 100% compliance with funders and policies",
+        "Provide support and training for foster families regarding timely and accurate information sharing",
+        "Receive and register documents for accurate data entry, organizing files per provincial standards",
+        "Store, update and maintain databases",
+        "Perform backup procedures",
+        "Perform general office duties",
+        "Attend regular team meetings and provide administrative support",
+        "Assist with special projects as directed"
+      ]
+    },
+    "skills_and_technology": [
+      "SharePoint",
+      "ShareVision",
+      "Data entry",
+      "Database management",
+      "File auditing",
+      "IT functions",
+      "Microsoft Office Suite"
+    ],
+    "personal_suitability": [
+      "Highly organized",
+      "Energetic and flexible",
+      "Attention to detail",
+      "Adaptability",
+      "Strong interpersonal skills",
+      "Excellent written and verbal communication",
+      "Ability to work independently and in a team"
+    ],
+    "requirements": [
+      "Current criminal record check including vulnerable sector (within last 6 months)",
+      "Current Alberta Intervention Record check (within last 12 months)"
+    ],
+    "how_to_apply": {
+      "application_link": "https://enviros.criterionhcm.com/jobs/332/1/#121/apply",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "No phone calls accepted"
+    }
   }
 ]
