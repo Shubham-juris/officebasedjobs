@@ -7280,5 +7280,218 @@
       "required_documents": ["Resume", "Cover letter"],
       "notes": "No phone calls accepted"
     }
+  },
+  {
+    "job_title": "Youth Development Coordinator",
+    "company": "McMan Youth, Family and Community Services Association",
+    "overview": {
+      "languages": "English",
+      "education": "Diploma or Degree in Human Services or related field",
+      "experience": "2–5 years working with youth with complex needs in a group care setting"
+    },
+    "job_details": {
+      "location": "1538 25th Avenue NE, Calgary, AB T2E 8Y3",
+      "salary": "$32,515.80 – $36,129.00 per year",
+      "hours_per_week": "24",
+      "job_type": "Part-time",
+      "shift": "Thursday 4pm–12am, Saturday 7am–3pm, Sunday 4pm–12am",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Provide trauma-informed caregiving within community-based group home for youth (ages 12–17)",
+        "Support daily needs, routines, and stabilization through predictable structures and positive behaviour support",
+        "Assist youth with developing life skills, social skills, and accessing community resources",
+        "Teach and support activities such as hygiene, basic cooking, money management, shopping, and safety",
+        "Facilitate recreational, educational, social, and vocational activities",
+        "Accompany and/or transport youth to appointments, school, employment, and activities",
+        "Model and teach coping skills using DBT (Dialectical Behavioural Therapy)",
+        "Use crisis intervention skills to de-escalate and provide safety",
+        "Provide case management including assessments, reports, case planning, and transition planning",
+        "Collaborate with caseworkers, families, and natural supports",
+        "Support relationship building and community connections for youth"
+      ]
+    },
+    "skills_and_certifications": [
+      "Knowledge of Trauma-Informed Practice and Natural Supports frameworks",
+      "Crisis intervention, conflict resolution, and problem-solving skills",
+      "Strong verbal and written communication skills",
+      "Understanding of trauma, grief, and loss impacts on identity and support systems",
+      "Transition planning knowledge",
+      "Current Standard First Aid Certification",
+      "Suicide Intervention Training",
+      "Valid Class 5 Driver’s License with 3 years of experience and $2M liability insurance",
+      "Current Police and Child Intervention checks (within 6 months)"
+    ],
+    "personal_suitability": [
+      "Empathetic, supportive, and trauma-informed approach",
+      "Ability to build and facilitate youth relationships and connections",
+      "Collaborative and cooperative team player",
+      "Strong role model for life skills and resilience",
+      "Commitment to equity, diversity, and inclusion"
+    ],
+    "benefits": [
+      "Vision and dental care",
+      "Prescription drug coverage",
+      "Employee Assistance Program",
+      "100% employer contribution pension plan (after 6 months)",
+      "Paid vacation and flexible schedule",
+      "Personal days",
+      "Work-life balance support"
+    ],
+    "how_to_apply": {
+      "application_link": "https://mcmancalgary.applytojobs.ca/manhattan/41617",
+      "closing_date": "October 6, 2025",
+      "required_documents": ["Resume", "Cover Letter"],
+      "notes": "Only those selected for interview will be contacted"
+    },
+    "company_profile": {
+      "description": "McMan Youth, Family and Community Services Association supports over 4,100 children, youth, adults, and families annually, focusing on those with complex needs such as mental health, addictions, homelessness, poverty, and disability.",
+      "values": [
+        "Every person has deep and infinite worth",
+        "Trauma-informed, strength-based, and relationship-based approaches",
+        "Humble, bold, receptive, relevant, relational, and real"
+      ],
+      "work_culture": [
+        "Safe, stable, and supportive group care environment",
+        "Equity, diversity, and inclusion focused",
+        "Collaborative and community-oriented team"
+      ]
+    }
+  },
+  {
+    "job_title": "Software Reliability Engineer",
+    "company": "LodgeLink (a Black Diamond Group company)",
+    "overview": {
+      "languages": "English",
+      "education": "Bachelor’s degree in Computer Science or related field",
+      "experience": "4+ years in technical support or engineering, specializing in web-based applications and business systems"
+    },
+    "job_details": {
+      "location": "Calgary, AB (4 days in office, 1 flex day)",
+      "salary": "Competitive base salary (not specified)",
+      "hours_per_week": "40 hours",
+      "job_type": "Full-time",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Provide first, second, and third-level technical support for LodgeLink's web platforms and business applications",
+        "Troubleshoot, diagnose, and resolve complex issues reported by users and engineers",
+        "Collaborate with engineering teams to resolve high-impact incidents efficiently",
+        "Develop and deploy automation tools and scripts to enhance system performance",
+        "Proactively improve system resilience, monitoring, and alerting",
+        "Define, measure, and monitor SLAs/SLOs for key services",
+        "Implement observability practices (metrics, logging, tracing)",
+        "Work with product and engineering teams to design for reliability",
+        "Analyze support data to uncover patterns and propose systemic solutions",
+        "Document processes, issues, and resolutions for knowledge sharing",
+        "Ensure seamless platform integrations with cross-functional teams"
+      ]
+    },
+    "skills_and_technology": [
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "React",
+      "GraphQL",
+      "Node.js",
+      "SQL",
+      "Microsoft Azure (asset)",
+      "CI/CD pipelines",
+      "RESTful APIs",
+      "NetSuite API (ERP integration)",
+      "JIRA",
+      "ITIL/ITSM practices",
+      "Monitoring tools (Azure Monitor, App Insights, Prometheus, Grafana)"
+    ],
+    "personal_suitability": [
+      "Strong communication and relationship-building skills",
+      "Ability to explain technical concepts to non-technical users",
+      "Collaborative and adaptable in dynamic environments",
+      "Analytical problem-solving ability",
+      "Proactive and reliability-focused mindset"
+    ],
+    "how_to_apply": {
+      "application_url": "https://www.lodgelink.com/careers",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Applicants must be legally entitled to work in Canada. Accommodations available during the recruitment process."
+    },
+    "benefits": [
+      "Competitive base salary",
+      "Share Appreciation Rights program (for salaried employees)",
+      "Paid vacation and sick days",
+      "Extended health, vision, dental care",
+      "Health Spending Account",
+      "TeleDoc and Employee Assistance Program",
+      "Life, LTD, AD&D, and Critical Illness Insurance",
+      "Hotel and travel discounts",
+      "Employee charitable donation program",
+      "Company events and social club activities",
+      "Free access to Aspen Properties Fitness Centers",
+      "Career growth and development support",
+      "Inclusive and diverse workplace culture"
+    ]
+  },
+  {
+    "job_title": "Database Integration Developer",
+    "company": "Long View Systems",
+    "overview": {
+      "languages": "English",
+      "education": "Not specifically listed (Bachelor’s degree preferred in Computer Science, IT, or related field)",
+      "experience": "5+ years Java programming and enterprise app development; 5+ years database migrations (Oracle → PostgreSQL); 3+ years Tibco ESB & SAP PI integrations"
+    },
+    "job_details": {
+      "location": "Calgary, AB (Hybrid work, Calgary branch)",
+      "salary": "$80,455–$105,598 a year + incentives",
+      "hours_per_week": "40 hours",
+      "job_type": "Full-time, Permanent",
+      "shift": "Day",
+      "start_date": "As soon as possible",
+      "vacancies": 1,
+      "responsibilities": [
+        "Build and maintain Java-based applications and services",
+        "Lead database migrations ensuring performance and reliability",
+        "Collaborate on complex integration projects leveraging SAP PI",
+        "Modernize integrations into microservices and cloud-native solutions",
+        "Apply best practices in physical database design (Oracle & SQL Server)",
+        "Use Azure DevOps for source control, CI/CD, and project tracking",
+        "Serve as escalation point for complex troubleshooting and resolution",
+        "Produce technical documentation (HLDs, LLDs, runbooks, etc.)"
+      ]
+    },
+    "skills_and_technology": [
+      "Java",
+      "Oracle 11G",
+      "PostgreSQL",
+      "SQL Server",
+      "Tibco ESB",
+      "SAP PI",
+      "Azure DevOps",
+      "Microservices",
+      "Cloud-native development",
+      "Docker",
+      "Kubernetes",
+      "Database design"
+    ],
+    "personal_suitability": [
+      "Strong problem-solving and analytical skills",
+      "Excellent communication and collaboration abilities",
+      "Ability to work in consulting or pre-sales environments",
+      "Thrives in team-oriented, agile environments",
+      "Adaptable to modern technologies and fast-paced projects"
+    ],
+    "how_to_apply": {
+      "application_url": "https://www.longviewsystems.com/careers",
+      "required_documents": ["Resume", "Cover letter"],
+      "notes": "Applicants must be legally entitled to work in Canada. Accommodations available during recruitment."
+    },
+    "benefits": [
+      "Recognition programs",
+      "Fun, flexible, and collaborative culture",
+      "Access to latest technologies and projects",
+      "Professional and personal growth support",
+      "Incentive programs",
+      "Inclusive and diverse workplace"
+    ]
   }
 ]
