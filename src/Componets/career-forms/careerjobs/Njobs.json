@@ -9517,9 +9517,526 @@
     "Ability to lift/push/pull up to 50 lbs",
     "Ability to stand and move quickly for long periods"
   ]
+},
+{
+  "job_title": "Marketing Coordinator",
+  "company": "Mattali Drywall",
+  "overview": {
+    "education": "College, CEGEP or non-university diploma (1–2 years program)",
+    "experience": "2 years to less than 3 years",
+    "languages": ["English"]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2N 0H3",
+    "pay": "$38.50 an hour",
+    "job_type": ["Permanent", "Full-time"],
+    "work_hours": "35 hours per week",
+    "work_setting": "Business office environment",
+    "benefits": [
+      "Support for persons with disabilities (accessibility accommodations)",
+      "Support for newcomers and refugees (cross-cultural training)",
+      "Support for youths (awareness training)",
+      "Support for veterans (inclusive work environment)",
+      "Support for Indigenous people (cultural competency training)",
+      "Support for mature workers (ergonomic workspace accommodations)",
+      "Supports for visible minorities (diversity and cross-cultural training)"
+    ]
+  },
+  "responsibilities": [
+    "Prepare written material such as reports, briefs, and website content",
+    "Advise clients on advertising or sales promotion strategies",
+    "Answer written and oral inquiries from clients or stakeholders",
+    "Assist in preparing brochures, reports, newsletters, and other promotional materials",
+    "Coordinate special publicity events and promotions",
+    "Conduct public opinion and attitude surveys",
+    "Gather, research, and prepare communications material",
+    "Initiate and maintain contact with the media",
+    "Develop and implement marketing strategies"
+  ],
+  "computer_and_technology_knowledge": [
+    "Microsoft Publisher",
+    "MS Outlook",
+    "MS Windows",
+    "MS Excel",
+    "MS PowerPoint",
+    "MS Word",
+    "Google Docs",
+    "Electronic mail systems"
+  ],
+  "work_conditions": [
+    "Fast-paced environment",
+    "Work under pressure",
+    "Tight deadlines",
+    "Attention to detail",
+    "Combination of sitting, standing, and walking"
+  ],
+  "personal_suitability": [
+    "Client focus",
+    "Efficient interpersonal skills",
+    "Excellent oral and written communication",
+    "Flexibility",
+    "Initiative",
+    "Judgement",
+    "Organized",
+    "Team player",
+    "Ability to multitask"
+  ],
+  "screening_questions": [
+    "Are you authorized to work in Canada?",
+    "Are you available to start on the listed date?"
+  ],
+  "green_job": "Yes – duties support positive environmental outcomes"
+},
+{
+  "job_title": "Bubble Tea Barista",
+  "company": "YiFang Taiwan Fruit Tea (Mahogany)",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Previous barista experience preferred but not required",
+    "languages": ["English"]
+  },
+  "job_details": {
+    "location": "3 Mahogany Row SE, Calgary, AB",
+    "pay": "From $15 an hour",
+    "job_type": ["Part-time", "Full-time"],
+    "expected_hours": "16–32 hours per week",
+    "work_setting": "In-person café environment",
+    "benefits": [
+      "Store discount"
+    ]
+  },
+  "responsibilities": [
+    "Prepare and serve high-quality coffee, tea, and bubble tea beverages",
+    "Operate POS systems such as Aloha or Micros for order processing and cash handling",
+    "Provide excellent customer service by engaging with customers and taking accurate orders",
+    "Maintain cleanliness and organization of café and food prep areas",
+    "Ensure compliance with food safety and handling standards",
+    "Assist with inventory management and restocking supplies",
+    "Collaborate with team members to ensure efficient service during busy hours",
+    "Utilize strong time management skills to prioritize multiple tasks"
+  ],
+  "qualifications": [
+    "Strong customer service and communication skills",
+    "Basic math skills for cash handling and retail calculations",
+    "Experience in food service or preparation is an asset",
+    "Familiarity with Aloha or Micros POS systems preferred",
+    "Ability to work well in a team and independently",
+    "Excellent time management and multitasking skills"
+  ],
+  "personal_suitability": [
+    "Friendly and enthusiastic personality",
+    "Customer-focused attitude",
+    "Reliable and organized",
+    "Team player",
+    "Self-motivated"
+  ],
+  "additional_information": {
+    "availability_note": "Applicants are asked to include their availability in the resume"
+  }
+},
+{
+  "job_title": "Sales Associate",
+  "company": "Metro Element",
+  "overview": {
+    "education": "Not specified",
+    "experience": "1 year of sales or customer service experience preferred",
+    "languages": ["English"]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "pay": "$15–$20 an hour",
+    "job_type": ["Part-time", "Full-time"],
+    "schedule": ["Every Weekend", "Friday to Monday"],
+    "expected_hours": "25–35 hours per week",
+    "work_setting": "In-person retail environment"
+  },
+  "responsibilities": [
+    "Assist customers with selecting home décor items and plants",
+    "Provide friendly and helpful customer service",
+    "Care for plants and maintain store presentation",
+    "Receive, unpack, and display stock items",
+    "Ensure cleanliness and organization in the store",
+    "Support team members as needed with day-to-day retail tasks"
+  ],
+  "qualifications": [
+    "1 year of sales experience (preferred)",
+    "1 year of customer service experience (preferred)",
+    "Interest or knowledge in plants and home décor",
+    "Ability to work weekends (Friday to Monday)",
+    "Reliable transportation or ability to commute/relocate to Calgary, AB"
+  ],
+  "personal_suitability": [
+    "Friendly, bright, and cheerful personality",
+    "Customer-focused attitude",
+    "Reliable and responsible",
+    "Team player with positive energy",
+    "Attention to detail"
+  ],
+  "additional_information": {
+    "application_note": "Applicants can visit the store in person to drop off a resume or email their application."
+  }
+},
+{
+  "job_title": "Environmental Technician",
+  "company": "Lidar Services International Inc. (Gas Recon Inc.)",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Field experience or outdoor technical work preferred",
+    "licenses": ["Valid Class 5 Licence"],
+    "certifications": ["First Aid Certification (preferred)"],
+    "skills": ["GIS", "GPS navigation"]
+  },
+  "job_details": {
+    "location": "7777 10th Street NE, Calgary, AB T2E 8X2",
+    "pay": "From $22 an hour",
+    "job_type": ["Full-time", "Seasonal"],
+    "expected_hours": "40–60 hours per week",
+    "travel_requirement": "100% travel required across Canada",
+    "work_setting": "In-person fieldwork; extensive outdoor activity"
+  },
+  "responsibilities": [
+    "Use navigational skills to locate and assess natural gas distribution systems in various environments",
+    "Operate leak detection hardware and line locating equipment (training provided)",
+    "Conduct field surveys including extensive outdoor walking",
+    "Travel to multiple client sites across Canada for project assignments",
+    "Ensure safety and compliance with all field and environmental standards"
+  ],
+  "qualifications": [
+    "Valid Class 5 Driver’s Licence with clean driver’s abstract",
+    "Willingness to travel extensively (100%)",
+    "Knowledge of GPS/GIS software preferred",
+    "First Aid Certification is an asset",
+    "Physically fit and comfortable working outdoors"
+  ],
+  "personal_suitability": [
+    "Enjoys outdoor work and physical activity",
+    "Strong attention to detail",
+    "Safety-conscious attitude",
+    "Dependable and motivated",
+    "Team-oriented with good communication skills"
+  ],
+  "additional_information": {
+    "work_environment": "Seasonal field position with travel and outdoor exposure",
+    "training": "On-the-job training provided for detection and line locating equipment"
+  }
+},
+{
+  "job_title": "Operations Manager - Gas Leak Detection",
+  "company": "Lidar Services International Inc.",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Minimum 5 years operating methane sensors, processing geospatial data, and producing data products",
+    "languages": ["English"],
+    "skills": [
+      "Team management",
+      "Methane sensor operation and calibration",
+      "Geospatial data processing",
+      "Data analysis",
+      "Troubleshooting and workflow optimization",
+      "GIS software (asset)"
+    ]
+  },
+  "job_details": {
+    "location": "7777 10th Street NE, Calgary, AB T2E 8X2",
+    "pay": "$65,000–$100,000 a year",
+    "job_type": ["Full-time"],
+    "expected_start_date": "2025-04-01",
+    "work_setting": "In person",
+    "benefits": [
+      "Paid time off",
+      "Dental care",
+      "Extended health care"
+    ]
+  },
+  "responsibilities": [
+    "Supervise and coordinate field data collection and production of field data records and reports",
+    "Manage project schedules, budgets, and resource allocations to meet deadlines and cost targets",
+    "Direct and support field operations to ensure timely and efficient project execution",
+    "Troubleshoot and diagnose issues with field operations, datasets, and data products",
+    "Review and update data quality control processes to meet client standards",
+    "Participate in budgeting and financial management activities for the division",
+    "Maintain safety and quality performance standards per company policy",
+    "Mentor, train, and manage employees to promote professional growth and high performance",
+    "Identify opportunities for process improvement, technology upgrades, and cost reduction",
+    "Stay up to date with industry trends through professional development and networking"
+  ],
+  "personal_suitability": [
+    "Strong leadership and motivational skills",
+    "Detail-oriented and organized",
+    "Excellent problem-solving and analytical abilities",
+    "Strong communication and interpersonal skills",
+    "Adaptable and able to manage multiple priorities"
+  ],
+  "additional_information": {
+    "division_focus": "Gas Recon Inc. division – environmental data collection and leak detection",
+    "role_summary": "Leads field operations and ensures service quality, efficiency, and safety for gas leak detection services"
+  }
+},
+{
+  "job_title": "Machine Learning Engineer / Ingénieur en Machine Learning (ProServe Shared Delivery Team - Data & AI)",
+  "company": "Amazon Web Services Canada, Inc.",
+  "overview": {
+    "education": "Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or related field",
+    "experience": "Hands-on experience in building, training, and deploying ML models; experience with AWS services and cloud solutions",
+    "languages": ["English", "French (Bilingual Preferred)"],
+    "skills": [
+      "Machine Learning (ML)",
+      "Artificial Intelligence (AI)",
+      "Generative AI (GenAI)",
+      "AWS Cloud Architecture",
+      "Terraform",
+      "TensorFlow",
+      "Python",
+      "Data Engineering",
+      "Cloud Migration",
+      "Project Management"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB (Remote)",
+    "pay": "$99,900 – $166,900 a year",
+    "job_type": ["Full-time"],
+    "work_setting": "Remote-based role within AWS Canada’s Professional Services team"
+  },
+  "responsibilities": [
+    "Design and deploy scalable AI/ML and GenAI solutions on AWS",
+    "Collaborate with clients to understand business goals and translate them into technical solutions",
+    "Implement automation and data processing pipelines using AWS tools and ML frameworks",
+    "Guide customers in AI/ML strategy, architecture, and implementation best practices",
+    "Assess current client infrastructure and propose effective cloud migration strategies",
+    "Provide technical mentorship and contribute to knowledge sharing across teams",
+    "Ensure high standards of security, scalability, and performance in AI/ML solutions"
+  ],
+  "personal_suitability": [
+    "Strong problem-solving skills",
+    "Ability to translate technical concepts into business impact",
+    "Strong communication and interpersonal skills",
+    "Team player and mentor"
+  ],
+  "additional_information": {
+    "work_environment": "Customer-facing role with collaboration across international teams; access to cutting-edge AI/ML technologies"
+  }
+},
+{
+  "job_title": "Registered Nurse from the Philippines",
+  "company": "KYND International",
+  "overview": {
+    "education": "NCLEX licensed",
+    "experience": "Experience in Medical-Surgical, L/D, ER, ICU preferred",
+    "languages": ["English"],
+    "skills": ["CPR Certification", "Patient care", "Medical protocol adherence"]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2N 1N4",
+    "pay": "$39–$50 an hour",
+    "job_type": ["Full-time"],
+    "work_setting": "In person; small 90-bed hospital with team-oriented culture"
+  },
+  "responsibilities": [
+    "Provide general nursing care to a diverse patient population",
+    "Care for patients affected by cardiopulmonary, neurological, and surgical conditions",
+    "Follow medical and surgical protocols for patient care",
+    "Assist in patient assessments, monitoring, and treatment planning",
+    "Collaborate with healthcare team to ensure high-quality patient outcomes"
+  ],
+  "personal_suitability": [
+    "Dependable and responsible",
+    "Strong communication and interpersonal skills",
+    "Adaptable and patient-focused",
+    "Team player"
+  ],
+  "additional_information": {
+    "benefits": [
+      "Health, Dental, and Vision insurance",
+      "Tuition reimbursement",
+      "401K retirement plan",
+      "Relocation reimbursement: $5,000",
+      "Retention bonus: $20,000 USD",
+      "Discounted housing",
+      "EB-3 green card sponsorship"
+    ]
+  }
+},
+{
+  "job_title": "General Merchandise Department Manager",
+  "company": "Walmart Canada",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Experience in retail management preferred",
+    "languages": ["English"],
+    "skills": ["Customer service", "Team management", "Merchandising", "Safe work practices"]
+  },
+  "job_details": {
+    "location": "100-310 Shawville Blvd SE, Calgary, AB",
+    "pay": "Not specified",
+    "job_type": ["Full-time"],
+    "work_setting": "In person; team-oriented retail environment"
+  },
+  "responsibilities": [
+    "Provide excellent customer service by greeting customers and assisting with product selection",
+    "Delegate, assist, and follow up on completion of Customer Availability Process tasks",
+    "Manage price changes, feature sets, and modular completion in the assigned area",
+    "Support coverage in required areas on the salesfloor, including recovery and zoning activities",
+    "Train, coach, and provide feedback to associates"
+  ],
+  "personal_suitability": [
+    "Strong leadership and coaching skills",
+    "Organized and detail-oriented",
+    "Customer-focused attitude",
+    "Team player"
+  ],
+  "additional_information": {
+    "work_environment": "Team-oriented retail environment requiring customer service, merchandising, and safe work practices"
+  }
+},
+{
+  "job_title": "Data Architect / Architecte de données",
+  "company": "Amazon Web Services Canada, Inc.",
+  "overview": {
+    "education": "Bachelor’s degree in Computer Science, Engineering, or equivalent experience",
+    "experience": "5+ years in cloud architecture, data engineering, and scalable data solutions",
+    "languages": ["English", "French (bilingual preferred)"],
+    "skills": ["Cloud architecture", "AWS services", "ETL/ELT pipelines", "SQL, Python", "Data governance"]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "pay": "$99,900–$166,900 per year",
+    "job_type": ["Full-time"],
+    "work_setting": "Customer-facing role with potential global interactions"
+  },
+  "responsibilities": [
+    "Design and implement end-to-end large-scale, complex, secure Data & Analytics AWS solutions",
+    "Provide technical guidance and troubleshooting support throughout project delivery",
+    "Collaborate with stakeholders to gather requirements and propose effective migration and modernization strategies",
+    "Act as a trusted advisor to customers on industry trends and emerging technologies",
+    "Share knowledge within the organization through mentoring, training, and reusable artifacts"
+  ],
+  "personal_suitability": [
+    "Detail-oriented and organized",
+    "Strong communication and interpersonal skills",
+    "Analytical thinking and problem-solving",
+    "Team player and mentor"
+  ],
+  "additional_information": {
+    "work_environment": "Customer-facing role requiring collaboration with AWS teams, clients, and partners; focus on scalable, secure, innovative solutions"
+  }
+},
+{
+  "job_title": "Fulfillment Area Manager Intern",
+  "company": "Amazon Canada Fulfillment Services, ULC - B85",
+  "overview": {
+    "education": "Currently enrolled in a bachelor’s degree program (completion Dec 2026 - Aug 2027)",
+    "experience": "Internship focused on leadership and warehouse operations",
+    "languages": ["English"],
+    "skills": ["Team coaching", "Warehouse operations", "Continuous improvement", "Project management"]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "pay": "$32.55–$39.90 per hour",
+    "job_type": ["Full-time"],
+    "work_setting": "On-site internship in fulfillment centers or delivery stations"
+  },
+  "responsibilities": [
+    "Learn to coach, manage and develop a team of 50-100 Amazon Associates",
+    "Drive standard work and continuous improvement through an intern project",
+    "Oversee truck deliveries, handle and sort packages using pallet jacks, and operate PIT equipment",
+    "Participate in physical warehouse activities including lifting, pushing, pulling, squatting, bending, reaching, and climbing stairs"
+  ],
+  "personal_suitability": [
+    "Strong verbal and written communication skills",
+    "Customer service and interpersonal skills",
+    "Adaptable and self-motivated",
+    "Team player"
+  ],
+  "additional_information": {
+    "notes": [
+      "Not a corporate, remote, or office-based position",
+      "No visa sponsorship provided; eligible candidates must have work authorization without employer intervention"
+    ],
+    "benefits": [
+      "Summer relocation and housing assistance (if eligible)",
+      "Access to Amazon's Medical Advice Line",
+      "Employee Assistance Program (EAP)",
+      "Financial benefits"
+    ]
+  }
+},
+{
+  "job_title": "Delivery Practice Manager (DPM) - Data & AI/ML",
+  "company": "Amazon Web Services Canada, Inc.",
+  "overview": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience": "Experience managing people, projects, and IT transformation initiatives",
+    "languages": ["English", "French (bilingual mandatory)"],
+    "skills": ["Leadership", "Project management", "Data & AI/ML solutions", "P&L management", "Sales and negotiation"]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "pay": "$141,900–$236,900 per year",
+    "job_type": ["Full-time"],
+    "work_setting": "Global, collaborative, client-facing role"
+  },
+  "responsibilities": [
+    "Build and manage a high-performing team of Delivery Consultants and Engagement Managers",
+    "Collaborate with Delivery Consultants, Account Executives, and Cloud Architects to deploy solutions",
+    "Develop and oversee the implementation of innovative IT strategies for clients",
+    "Manage practice P&L and ensure on-time, within-budget delivery",
+    "Drive business development initiatives and exceed customer satisfaction targets"
+  ],
+  "personal_suitability": [
+    "Strong leadership and motivational skills",
+    "Excellent communication and interpersonal skills",
+    "Strategic thinking and decision-making",
+    "Adaptable and able to manage multiple priorities"
+  ],
+  "additional_information": {
+    "notes": [
+      "Requires interaction with global Amazon entities",
+      "Bilingual French and English mandatory"
+    ],
+    "benefits": ["Full range of medical, financial, and other benefits", "Equity, sign-on payments, total compensation packages"]
+  }
+},
+{
+  "job_title": "Senior Delivery Consultant – AI/ML",
+  "company": "Amazon Web Services Canada, Inc.",
+  "overview": {
+    "education": "Bachelor’s degree or equivalent in Computer Science, Statistics, Mathematics",
+    "experience": "10+ years in data or software engineering; 5+ years building ML platforms",
+    "languages": ["English"],
+    "skills": ["ML/DL frameworks", "MLOps", "AWS ML services", "Python, SQL, Java/Scala", "AI/ML solution design"]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "pay": "$126,000–$210,400 per year",
+    "job_type": ["Full-time"],
+    "work_setting": "Customer-facing role with possible travel to client sites"
+  },
+  "responsibilities": [
+    "Lead end-to-end ML/AI projects: data prep, model development, deployment, monitoring",
+    "Design high-performance, reliable, and secure data platforms",
+    "Design scalable ML solutions and operations (MLOps) using AWS services",
+    "Build and evaluate predictive models for forecasting, resource optimization, and customer trends",
+    "Coach and mentor junior colleagues and develop technical content"
+  ],
+  "personal_suitability": [
+    "Strong analytical and problem-solving skills",
+    "Excellent communication and mentoring abilities",
+    "Team player",
+    "Adaptable to fast-paced environments"
+  ],
+  "additional_information": {
+    "notes": [
+      "Customer-facing role; travel to client sites may be required",
+      "Candidates encouraged to apply even if not all preferred qualifications are met"
+    ],
+    "benefits": [
+      "Access to AWS employee resources and mentorship programs",
+      "Flexible work-life balance",
+      "Comprehensive compensation including equity and benefits"
+    ]
+  }
 }
-
-  
 
 
 

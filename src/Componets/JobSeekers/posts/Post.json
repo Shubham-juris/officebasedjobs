@@ -8223,7 +8223,7 @@
       "Supportive and collaborative team environment"
     ]
   },
-   {
+  {
     "job_title": "Administration Assistant - Prairie Regional Office",
     "company": "Scotiabank",
     "overview": {
@@ -8993,520 +8993,1033 @@
     ]
   },
   {
-  "job_title": "Painting Supervisor - Construction",
-  "company": "Elegant Coating & Homes Ltd",
+    "job_title": "Painting Supervisor - Construction",
+    "company": "Elegant Coating & Homes Ltd",
+    "overview": {
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1 to less than 7 months",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "pay": "$38.50 an hour",
+      "job_type": ["Permanent", "Full-time"],
+      "work_hours": "32 to 40 hours per week",
+      "work_setting": "Various locations",
+      "benefits": ["Parking available"]
+    },
+    "responsibilities": [
+      "Prepare production and other reports",
+      "Supervise workers and projects",
+      "Coordinate and schedule activities",
+      "Recruit and hire workers and carry out staffing actions",
+      "Train or arrange for training",
+      "Estimate costs and materials",
+      "Ensure health and safety regulations are followed",
+      "Recommend personnel actions",
+      "Read blueprints and drawings",
+      "Requisition or order materials, equipment and supplies",
+      "Leading and instructing individuals"
+    ],
+    "supervision": {
+      "number_of_people": "5-10"
+    },
+    "personal_suitability": [
+      "Excellent oral communication",
+      "Organized",
+      "Reliability",
+      "Team player"
+    ]
+  },
+  {
+    "job_title": "Marketing & Production Accounting - Student",
+    "company": "SECURE",
+    "overview": {
+      "education": "Enrolled in a post-secondary institution (Accounting, Commerce, or Economics preferred)",
+      "experience": "Summer Student Opportunity: May 2026 - August 2026",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "2300-225 6 Ave SW, Calgary, AB",
+      "pay": "Competitive compensation",
+      "job_type": ["Full-time", "Summer Student"],
+      "work_hours": "Monday to Friday",
+      "work_setting": "Office-based",
+      "benefits": [
+        "Hands-on real business operations experience",
+        "Exposure to Marketing & Production Accounting",
+        "Career growth opportunities"
+      ]
+    },
+    "responsibilities": [
+      "Manage SES Marketing Accounting inbox",
+      "Log into third-party websites to save Shippers' Balances and Invoices monthly",
+      "Check and code Butane Trucking invoices and update Butane Deliveries Sheet",
+      "Complete monthly NOS Accrual Volume mapping in Egistix Open",
+      "Prepare split upload files and mapping in Egistix Open",
+      "Enter Fees, Manual Adjustments, and Diluent Fees monthly in Egistix",
+      "Prepare and send required invoices",
+      "Update Trucking Reconciliation file with monthly GL information",
+      "Assist in preparing Actual models and reconcile to Cash Rec",
+      "Support Production Accounting with monthly processes",
+      "Assist in data cleanup and Process Documentation projects"
+    ],
+    "personal_suitability": [
+      "Proactive and self-motivated",
+      "Strong verbal and written communication",
+      "Analytical problem-solving",
+      "Teamwork and collaboration",
+      "Time management and organizational skills",
+      "High attention to detail",
+      "Professionalism and ethical conduct",
+      "Adaptable to dynamic environment"
+    ],
+    "application_requirements": [
+      "One combined PDF submission with Cover Letter, Resume, and Recent Transcripts",
+      "Cover Letter must answer: Why SECURE? and How does this position fit your career goals?",
+      "File format: PDF only (no Word, Google Docs, or separate files)"
+    ],
+    "application_deadline": "October 17, 2025",
+    "team_environment": "Collaborative, fast-paced, accuracy-focused, supportive colleagues",
+    "inclusivity": "Equal-opportunity employer with focus on diversity, equity, inclusion, and belonging"
+  },
+  {
+    "job_title": "Account Executive - Portfolio",
+    "company": "Cisco Systems",
+    "overview": {
+      "education": "Bachelor’s degree in Business, Engineering, or equivalent",
+      "experience": "5+ years account management experience in technology industry (Cisco or similar technical sales preferred)",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB (or Regina, SK - relocation required if not local)",
+      "pay": "Full-time, with performance-based incentive pay (quota and non-quota components, no cap)",
+      "job_type": ["Full-time"],
+      "work_hours": "Monday to Friday",
+      "work_setting": "Office and hybrid, with customer site visits",
+      "benefits": [
+        "Paid time off (vacation, sick leave, personal days)",
+        "Vision, dental, life, and disability insurance",
+        "Flexible Vacation Policy",
+        "Up to 12 paid holidays",
+        "Volunteer paid time off"
+      ]
+    },
+    "responsibilities": [
+      "Lead development and execution of tailored account plans to meet business needs and revenue goals",
+      "Build and maintain strong customer and partner relationships",
+      "Formulate and present annual territory business plan with quarterly updates",
+      "Conduct weekly, monthly, and quarterly forecasting and manage sales opportunities",
+      "Understand regional market trends and align offered solutions accordingly"
+    ],
+    "personal_suitability": [
+      "Self-starter with strong executive relationship-building skills",
+      "Strong sales process expertise",
+      "Excellent communication, sales, and presentation skills",
+      "Ability to work independently and in a hybrid environment"
+    ],
+    "preferred_qualifications": [
+      "Experience with complex technical solutions",
+      "Leadership in managing cross-functional and virtual teams",
+      "Ability to partner with Solution Engineering teams to create integrated solutions"
+    ],
+    "incentive_structure": [
+      "0.75% of incentive target per 1% attainment up to 50% quota",
+      "1.5% per 1% attainment between 50%-75%",
+      "1% per 1% attainment between 75%-100%",
+      "Above 100% quota = ≥1% per 1% attainment, no cap"
+    ],
+    "why_cisco": "Cisco is a 40-year leader in networking, security, and AI-driven digital transformation."
+  },
+  {
+    "job_title": "Painter",
+    "company": "NC Painting",
+    "overview": {
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "3 to less than 5 years",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "pay": "$25 an hour",
+      "job_type": ["Permanent", "Full-time"],
+      "work_hours": "30 to 44 hours per week",
+      "work_setting": ["Various locations", "On-site customer service"],
+      "benefits": []
+    },
+    "responsibilities": [
+      "Prepare, clean and sand surfaces to be painted",
+      "Repair cracks and holes",
+      "Advise consumers on colours and choice of wall coverings",
+      "Apply paint, wallpaper and other materials and finishes to interior and exterior surfaces"
+    ],
+    "personal_suitability": ["Initiative", "Reliability", "Team player"],
+    "equipment_and_machinery_experience": [
+      "Brush painting",
+      "Conventional spray painting",
+      "Roller painting"
+    ],
+    "surface_preparation_experience": ["Drywall taping/patching"],
+    "transportation": "Own transportation required"
+  },
+  {
+    "job_title": "Administrative Assistant/Data Integrity Specialist",
+    "company": "Enviros",
+    "overview": {
+      "education": "Not specified",
+      "experience": "5+ years in Administrative/IT role",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB T2E 7J2",
+      "pay": "$25,000 annually",
+      "job_type": ["Part-time (.5 FTE, 20 hours per week)"],
+      "work_hours": "Flexible",
+      "work_setting": "Office-based",
+      "benefits": []
+    },
+    "responsibilities": [
+      "Support Foster Care team with all electronic file needs, including internal audits and data entry",
+      "Process and review documents requiring signatures",
+      "Communicate with foster care team to maintain compliance with funders and policy",
+      "Provide support/training to foster families on reporting and file management",
+      "Receive, register, and review client file documents for accuracy and compliance",
+      "Store, update, and maintain databases",
+      "Perform data backup procedures",
+      "General office duties and special projects as assigned"
+    ],
+    "personal_suitability": [
+      "Highly organized, energetic, flexible",
+      "Above average attention to detail",
+      "Strong IT knowledge, including SharePoint",
+      "Strong interpersonal, verbal, and written communication skills",
+      "Ability to work independently and in a team"
+    ],
+    "pre_hire_requirements": [
+      "Current criminal record check with vulnerable sector (within 6 months)",
+      "Current Alberta Intervention Record check (within 12 months)"
+    ],
+    "application_instructions": "Apply online only (no phone calls)"
+  },
+  {
+    "job_title": "Restaurant Manager",
+    "company": "Bagolac Saigon Restaurant",
+    "overview": {
+      "education": "College/CEGEP diploma",
+      "experience": "2 to less than 3 years",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB T2A 0T2",
+      "pay": "$36 an hour",
+      "job_type": ["Permanent", "Part-time", "Full-time"],
+      "work_hours": "30 hours per week",
+      "work_setting": "Restaurant-based",
+      "benefits": []
+    },
+    "responsibilities": [
+      "Analyze budget to boost and maintain restaurant profits",
+      "Evaluate daily operations",
+      "Modify food preparation methods and menu prices as per budget",
+      "Plan and organize daily operations",
+      "Set staff work schedules",
+      "Train staff and conduct performance reviews",
+      "Ensure health and safety regulations are followed",
+      "Address customer complaints and concerns",
+      "Lead and instruct staff",
+      "Manage events",
+      "Authorize and organize establishment of departments and senior staff positions",
+      "Allocate resources to implement policies/programs",
+      "Establish objectives and approve policies/programs",
+      "Represent the organization in negotiations or official functions"
+    ],
+    "personal_suitability": [
+      "Excellent oral and written communication",
+      "Flexibility",
+      "Organized",
+      "Attention to detail"
+    ],
+    "supervision": {
+      "number_of_people": "5-10"
+    },
+    "work_conditions": [
+      "Fast-paced environment",
+      "Work under pressure",
+      "Tight deadlines"
+    ]
+  },
+  {
+    "job_title": "Activities Convenor - Emily's Backyard",
+    "company": "Alberta Health Services",
+    "overview": {
+      "education": [
+        "High school diploma or GED",
+        "Diploma in Early Childhood, Education, Healthcare-related discipline, Special Education, or Child and Youth Studies"
+      ],
+      "experience": "Minimum 1 year working/supervising groups of children",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "pay": "$23.12–$27.99 an hour",
+      "job_type": ["Casual/Relief"],
+      "work_hours": "7.75 hours per shift, Day shift",
+      "work_setting": [
+        "Family-centered care in Alberta Children's Hospital",
+        "Play-based setting for children and families"
+      ],
+      "benefits": []
+    },
+    "responsibilities": [
+      "Supervise children in play area environment",
+      "Plan and implement crafts and activities for children",
+      "Communicate with parents and healthcare clinicians",
+      "Support and guide volunteers",
+      "Maintain program operations (bookings, toy cleaning, craft preparation)",
+      "Support Emily’s Backyard programs at multiple locations"
+    ],
+    "personal_suitability": [
+      "Supervising experience",
+      "Experience with children",
+      "Strong knowledge of child growth and development",
+      "Excellent interpersonal communication",
+      "Conflict resolution",
+      "Ability to engage in play-based activity with children",
+      "Ability to lift up to 50 lbs",
+      "Organized and team-oriented",
+      "Patient & Family Centered Care approach"
+    ],
+    "preferred_qualifications": [
+      "Experience working with volunteers",
+      "Experience in child-minding environment",
+      "Experience with children of diverse abilities",
+      "Second language (including sign language)"
+    ]
+  },
+  {
+    "job_title": "Cleaning Supervisor",
+    "company": "JENVIC SERVICES LTD.",
+    "overview": {
+      "education": "Secondary (high) school graduation certificate",
+      "experience": "1 to less than 7 months",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB",
+      "pay": "$36 an hour",
+      "job_type": ["Permanent", "Full-time", "Part-time"],
+      "work_hours": "30 hours per week",
+      "work_setting": "On-site supervision and coordination",
+      "benefits": []
+    },
+    "responsibilities": [
+      "Hire and train or arrange training of cleaning staff",
+      "Supervise and co-ordinate activities of workers",
+      "Inspect sites or facilities to ensure safety and cleanliness standards",
+      "Prepare budget and cost estimates",
+      "Recommend or arrange for additional services such as painting, repairs, renovations, or replacement of furnishings and equipment",
+      "Maintain financial records",
+      "Receive payment for specialized cleaning jobs",
+      "Assist cleaners in performing duties",
+      "Co-ordinate work activities with other departments",
+      "Establish work schedules"
+    ],
+    "supervision": {
+      "number_of_people": "5-10"
+    },
+    "personal_suitability": [
+      "Organized",
+      "Leadership skills",
+      "Reliability",
+      "Team player"
+    ],
+    "work_conditions": [
+      "Supervision role",
+      "On-site coordination",
+      "Physical involvement in cleaning tasks when needed"
+    ]
+  },
+  {
+    "job_title": "Part-time Merchandiser",
+    "company": "Coca-Cola Canada Bottling Limited",
+    "overview": {
+      "education": "High school diploma or GED preferred",
+      "experience": "1 year in grocery, retail, warehousing or related field preferred",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB T2E 6T2",
+      "pay": "$22.34 an hour",
+      "job_type": ["Part-time"],
+      "work_hours": "20-30 hours per week (up to 40 during peak season)",
+      "work_setting": "Retail and backroom stock",
+      "benefits": [
+        "Mileage reimbursement",
+        "Inclusive and diverse workplace policies"
+      ]
+    },
+    "responsibilities": [
+      "Replenish products on racks, shelves, displays, and coolers",
+      "Transport product between backroom and sales floor",
+      "Build, change, and remove product displays while maintaining standards",
+      "Lift and move products up to 50 lbs repetitively",
+      "Organize and manage stock in the backroom",
+      "Process damaged/defective products and complete paperwork",
+      "Maintain cleanliness and safety compliance",
+      "Follow Coke Canada Bottling and store policies",
+      "Build and maintain professional relationships with co-workers and customers"
+    ],
+    "equipment_experience": [
+      "Manual pallet jack",
+      "Powered pallet jack",
+      "Hand-truck"
+    ],
+    "physical_requirements": [
+      "Repetitive lifting up to 50 lbs",
+      "Standing and walking for long periods",
+      "Kneeling, squatting, reaching overhead",
+      "Pushing/pulling product loads up to 100 yards"
+    ],
+    "vehicle_requirement": "Personal vehicle required; mileage reimbursed $0.62/km"
+  },
+  {
+    "job_title": "Senior Java Software Engineer Lead (CI/CD Team Lead)",
+    "company": "Halliburton",
+    "overview": {
+      "education": "Bachelor’s degree in Computer Science, Engineering, or related field",
+      "experience": "7+ years in DevOps / SRE with team leadership experience",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "700 9th Avenue SW, Suite 2000, Calgary, AB T2P 3V4, Canada",
+      "pay": "Competitive and commensurate with experience",
+      "job_type": ["Full-time"],
+      "work_hours": "Standard business hours",
+      "work_setting": "Office and remote collaboration",
+      "benefits": []
+    },
+    "responsibilities": [
+      "Design and implement CI/CD strategy and infrastructure",
+      "Lead, mentor, and grow a team of DevOps engineers",
+      "Oversee development and maintenance of automated CI/CD pipelines",
+      "Evaluate and implement automation tools and best practices",
+      "Collaborate with software, QA, and IT operations teams",
+      "Integrate security scanning into pipelines (DevSecOps)",
+      "Implement monitoring, logging, and alerting for pipelines",
+      "Establish CI/CD governance, policies, and documentation"
+    ],
+    "skills_required": [
+      "CI/CD Tools: GitLab CI, GitHub Actions",
+      "Containerization: Docker, Kubernetes",
+      "IaC: Terraform, Ansible",
+      "Cloud: AWS, Azure, GCP",
+      "Scripting: Bash/Shell, PowerShell, Python",
+      "Version Control: Git, GitFlow",
+      "Monitoring/Logging: Grafana, Elasticsearch, Kibana",
+      "Databases: SQL, NoSQL concepts"
+    ],
+    "personal_suitability": [
+      "Strong leadership and communication",
+      "Strategic thinking",
+      "Team mentorship and career development",
+      "Passion for automation and continuous improvement"
+    ],
+    "diversity_statement": "Halliburton is an Equal Opportunity Employer and prohibits discrimination based on protected characteristics."
+  },
+  {
+    "job_title": "Bartender",
+    "company": "Concorde Entertainment Group – Bridgette Bar",
+    "overview": {
+      "education": "Not specified",
+      "experience": "Minimum 1 year cocktail bar experience",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "739 10 Avenue SW, Calgary, AB T2R 0B3",
+      "pay": "Competitive hourly wage + gratuities",
+      "job_type": ["Part-time (with option for full-time permanent)"],
+      "work_hours": "Overtime / flexible",
+      "work_setting": "Bar / hospitality",
+      "benefits": [
+        "Extended health care after 90 days for 28+ hours/week",
+        "25% company-wide food & beverage discount + local business discounts"
+      ]
+    },
+    "responsibilities": [
+      "Prepare, mix, pour, garnish, and serve alcoholic and non-alcoholic beverages",
+      "Follow all drink recipes and production principles",
+      "Provide excellent customer service to all guests",
+      "Build and maintain regular clientele",
+      "Maintain bar cleanliness and equipment",
+      "Assist in table service, product ordering, and inventory management",
+      "Comply with federal, provincial, and municipal health and labor regulations",
+      "Assist with overtime and operational duties as required"
+    ],
+    "personal_suitability": [
+      "Professionalism, control, and composure in stressful situations",
+      "Team player and adaptable to client/vendor personalities"
+    ],
+    "certifications_required": ["ProServe (Alberta)"]
+  },
+  {
+    "job_title": "Seasonal Pit Crew",
+    "company": "Speeders Calgary North",
+    "overview": {
+      "education": "Not specified",
+      "experience": "Not specified",
+      "languages": ["English"]
+    },
+    "job_details": {
+      "location": "Calgary, AB T2E 8Z9",
+      "pay": "$15/hour",
+      "job_type": ["Part-time"],
+      "work_hours": "Weekends as needed, Day & Evening shifts",
+      "work_setting": "Outdoor racetrack",
+      "benefits": [
+        "Races added to account each pay period",
+        "Opportunities for growth"
+      ]
+    },
+    "responsibilities": [
+      "Assist customers in and out of go-karts",
+      "Assign karts and ensure customer safety",
+      "Perform opening and closing duties",
+      "Maintain orderly flow on the track",
+      "Instruct customers on kart usage, flags, and track safety",
+      "Respond to emergency situations",
+      "Perform facility cleaning and maintenance",
+      "Lift, push, or pull up to 50 lbs",
+      "Read and interpret daily checklists, safety rules, and instructions",
+      "Communicate effectively with groups of customers"
+    ],
+    "personal_suitability": [
+      "Energetic, dynamic, safety-conscious",
+      "Team player",
+      "Customer service oriented"
+    ],
+    "physical_requirements": [
+      "Ability to lift/push/pull up to 50 lbs",
+      "Ability to stand and move quickly for long periods"
+    ]
+  },
+  {
+  "job_title": "Marketing Coordinator",
+  "company": "Mattali Drywall",
   "overview": {
-    "education": "Secondary (high) school graduation certificate",
-    "experience": "1 to less than 7 months",
+    "education": "College, CEGEP or non-university diploma (1–2 years program)",
+    "experience": "2 years to less than 3 years",
     "languages": ["English"]
   },
   "job_details": {
-    "location": "Calgary, AB",
+    "location": "Calgary, AB T2N 0H3",
     "pay": "$38.50 an hour",
     "job_type": ["Permanent", "Full-time"],
-    "work_hours": "32 to 40 hours per week",
-    "work_setting": "Various locations",
+    "work_hours": "35 hours per week",
+    "work_setting": "Business office environment",
     "benefits": [
-      "Parking available"
+      "Support for persons with disabilities (accessibility accommodations)",
+      "Support for newcomers and refugees (cross-cultural training)",
+      "Support for youths (awareness training)",
+      "Support for veterans (inclusive work environment)",
+      "Support for Indigenous people (cultural competency training)",
+      "Support for mature workers (ergonomic workspace accommodations)",
+      "Supports for visible minorities (diversity and cross-cultural training)"
     ]
   },
   "responsibilities": [
-    "Prepare production and other reports",
-    "Supervise workers and projects",
-    "Coordinate and schedule activities",
-    "Recruit and hire workers and carry out staffing actions",
-    "Train or arrange for training",
-    "Estimate costs and materials",
-    "Ensure health and safety regulations are followed",
-    "Recommend personnel actions",
-    "Read blueprints and drawings",
-    "Requisition or order materials, equipment and supplies",
-    "Leading and instructing individuals"
+    "Prepare written material such as reports, briefs, and website content",
+    "Advise clients on advertising or sales promotion strategies",
+    "Answer written and oral inquiries from clients or stakeholders",
+    "Assist in preparing brochures, reports, newsletters, and other promotional materials",
+    "Coordinate special publicity events and promotions",
+    "Conduct public opinion and attitude surveys",
+    "Gather, research, and prepare communications material",
+    "Initiate and maintain contact with the media",
+    "Develop and implement marketing strategies"
   ],
-  "supervision": {
-    "number_of_people": "5-10"
-  },
-  "personal_suitability": [
-    "Excellent oral communication",
-    "Organized",
-    "Reliability",
-    "Team player"
-  ]
-},
-{
-  "job_title": "Marketing & Production Accounting - Student",
-  "company": "SECURE",
-  "overview": {
-    "education": "Enrolled in a post-secondary institution (Accounting, Commerce, or Economics preferred)",
-    "experience": "Summer Student Opportunity: May 2026 - August 2026",
-    "languages": ["English"]
-  },
-  "job_details": {
-    "location": "2300-225 6 Ave SW, Calgary, AB",
-    "pay": "Competitive compensation",
-    "job_type": ["Full-time", "Summer Student"],
-    "work_hours": "Monday to Friday",
-    "work_setting": "Office-based",
-    "benefits": [
-      "Hands-on real business operations experience",
-      "Exposure to Marketing & Production Accounting",
-      "Career growth opportunities"
-    ]
-  },
-  "responsibilities": [
-    "Manage SES Marketing Accounting inbox",
-    "Log into third-party websites to save Shippers' Balances and Invoices monthly",
-    "Check and code Butane Trucking invoices and update Butane Deliveries Sheet",
-    "Complete monthly NOS Accrual Volume mapping in Egistix Open",
-    "Prepare split upload files and mapping in Egistix Open",
-    "Enter Fees, Manual Adjustments, and Diluent Fees monthly in Egistix",
-    "Prepare and send required invoices",
-    "Update Trucking Reconciliation file with monthly GL information",
-    "Assist in preparing Actual models and reconcile to Cash Rec",
-    "Support Production Accounting with monthly processes",
-    "Assist in data cleanup and Process Documentation projects"
+  "computer_and_technology_knowledge": [
+    "Microsoft Publisher",
+    "MS Outlook",
+    "MS Windows",
+    "MS Excel",
+    "MS PowerPoint",
+    "MS Word",
+    "Google Docs",
+    "Electronic mail systems"
   ],
-  "personal_suitability": [
-    "Proactive and self-motivated",
-    "Strong verbal and written communication",
-    "Analytical problem-solving",
-    "Teamwork and collaboration",
-    "Time management and organizational skills",
-    "High attention to detail",
-    "Professionalism and ethical conduct",
-    "Adaptable to dynamic environment"
-  ],
-  "application_requirements": [
-    "One combined PDF submission with Cover Letter, Resume, and Recent Transcripts",
-    "Cover Letter must answer: Why SECURE? and How does this position fit your career goals?",
-    "File format: PDF only (no Word, Google Docs, or separate files)"
-  ],
-  "application_deadline": "October 17, 2025",
-  "team_environment": "Collaborative, fast-paced, accuracy-focused, supportive colleagues",
-  "inclusivity": "Equal-opportunity employer with focus on diversity, equity, inclusion, and belonging"
-},
-{
-  "job_title": "Account Executive - Portfolio",
-  "company": "Cisco Systems",
-  "overview": {
-    "education": "Bachelor’s degree in Business, Engineering, or equivalent",
-    "experience": "5+ years account management experience in technology industry (Cisco or similar technical sales preferred)",
-    "languages": ["English"]
-  },
-  "job_details": {
-    "location": "Calgary, AB (or Regina, SK - relocation required if not local)",
-    "pay": "Full-time, with performance-based incentive pay (quota and non-quota components, no cap)",
-    "job_type": ["Full-time"],
-    "work_hours": "Monday to Friday",
-    "work_setting": "Office and hybrid, with customer site visits",
-    "benefits": [
-      "Paid time off (vacation, sick leave, personal days)",
-      "Vision, dental, life, and disability insurance",
-      "Flexible Vacation Policy",
-      "Up to 12 paid holidays",
-      "Volunteer paid time off"
-    ]
-  },
-  "responsibilities": [
-    "Lead development and execution of tailored account plans to meet business needs and revenue goals",
-    "Build and maintain strong customer and partner relationships",
-    "Formulate and present annual territory business plan with quarterly updates",
-    "Conduct weekly, monthly, and quarterly forecasting and manage sales opportunities",
-    "Understand regional market trends and align offered solutions accordingly"
-  ],
-  "personal_suitability": [
-    "Self-starter with strong executive relationship-building skills",
-    "Strong sales process expertise",
-    "Excellent communication, sales, and presentation skills",
-    "Ability to work independently and in a hybrid environment"
-  ],
-  "preferred_qualifications": [
-    "Experience with complex technical solutions",
-    "Leadership in managing cross-functional and virtual teams",
-    "Ability to partner with Solution Engineering teams to create integrated solutions"
-  ],
-  "incentive_structure": [
-    "0.75% of incentive target per 1% attainment up to 50% quota",
-    "1.5% per 1% attainment between 50%-75%",
-    "1% per 1% attainment between 75%-100%",
-    "Above 100% quota = ≥1% per 1% attainment, no cap"
-  ],
-  "why_cisco": "Cisco is a 40-year leader in networking, security, and AI-driven digital transformation."
-},
-{
-  "job_title": "Painter",
-  "company": "NC Painting",
-  "overview": {
-    "education": "Secondary (high) school graduation certificate",
-    "experience": "3 to less than 5 years",
-    "languages": ["English"]
-  },
-  "job_details": {
-    "location": "Calgary, AB",
-    "pay": "$25 an hour",
-    "job_type": ["Permanent", "Full-time"],
-    "work_hours": "30 to 44 hours per week",
-    "work_setting": ["Various locations", "On-site customer service"],
-    "benefits": []
-  },
-  "responsibilities": [
-    "Prepare, clean and sand surfaces to be painted",
-    "Repair cracks and holes",
-    "Advise consumers on colours and choice of wall coverings",
-    "Apply paint, wallpaper and other materials and finishes to interior and exterior surfaces"
-  ],
-  "personal_suitability": [
-    "Initiative",
-    "Reliability",
-    "Team player"
-  ],
-  "equipment_and_machinery_experience": [
-    "Brush painting",
-    "Conventional spray painting",
-    "Roller painting"
-  ],
-  "surface_preparation_experience": [
-    "Drywall taping/patching"
-  ],
-  "transportation": "Own transportation required"
-},
-{
-  "job_title": "Administrative Assistant/Data Integrity Specialist",
-  "company": "Enviros",
-  "overview": {
-    "education": "Not specified",
-    "experience": "5+ years in Administrative/IT role",
-    "languages": ["English"]
-  },
-  "job_details": {
-    "location": "Calgary, AB T2E 7J2",
-    "pay": "$25,000 annually",
-    "job_type": ["Part-time (.5 FTE, 20 hours per week)"],
-    "work_hours": "Flexible",
-    "work_setting": "Office-based",
-    "benefits": []
-  },
-  "responsibilities": [
-    "Support Foster Care team with all electronic file needs, including internal audits and data entry",
-    "Process and review documents requiring signatures",
-    "Communicate with foster care team to maintain compliance with funders and policy",
-    "Provide support/training to foster families on reporting and file management",
-    "Receive, register, and review client file documents for accuracy and compliance",
-    "Store, update, and maintain databases",
-    "Perform data backup procedures",
-    "General office duties and special projects as assigned"
-  ],
-  "personal_suitability": [
-    "Highly organized, energetic, flexible",
-    "Above average attention to detail",
-    "Strong IT knowledge, including SharePoint",
-    "Strong interpersonal, verbal, and written communication skills",
-    "Ability to work independently and in a team"
-  ],
-  "pre_hire_requirements": [
-    "Current criminal record check with vulnerable sector (within 6 months)",
-    "Current Alberta Intervention Record check (within 12 months)"
-  ],
-  "application_instructions": "Apply online only (no phone calls)"
-},
-{
-  "job_title": "Restaurant Manager",
-  "company": "Bagolac Saigon Restaurant",
-  "overview": {
-    "education": "College/CEGEP diploma",
-    "experience": "2 to less than 3 years",
-    "languages": ["English"]
-  },
-  "job_details": {
-    "location": "Calgary, AB T2A 0T2",
-    "pay": "$36 an hour",
-    "job_type": ["Permanent", "Part-time", "Full-time"],
-    "work_hours": "30 hours per week",
-    "work_setting": "Restaurant-based",
-    "benefits": []
-  },
-  "responsibilities": [
-    "Analyze budget to boost and maintain restaurant profits",
-    "Evaluate daily operations",
-    "Modify food preparation methods and menu prices as per budget",
-    "Plan and organize daily operations",
-    "Set staff work schedules",
-    "Train staff and conduct performance reviews",
-    "Ensure health and safety regulations are followed",
-    "Address customer complaints and concerns",
-    "Lead and instruct staff",
-    "Manage events",
-    "Authorize and organize establishment of departments and senior staff positions",
-    "Allocate resources to implement policies/programs",
-    "Establish objectives and approve policies/programs",
-    "Represent the organization in negotiations or official functions"
-  ],
-  "personal_suitability": [
-    "Excellent oral and written communication",
-    "Flexibility",
-    "Organized",
-    "Attention to detail"
-  ],
-  "supervision": {
-    "number_of_people": "5-10"
-  },
   "work_conditions": [
     "Fast-paced environment",
     "Work under pressure",
-    "Tight deadlines"
-  ]
-}
-,
-{
-  "job_title": "Activities Convenor - Emily's Backyard",
-  "company": "Alberta Health Services",
-  "overview": {
-    "education": [
-      "High school diploma or GED",
-      "Diploma in Early Childhood, Education, Healthcare-related discipline, Special Education, or Child and Youth Studies"
-    ],
-    "experience": "Minimum 1 year working/supervising groups of children",
-    "languages": ["English"]
-  },
-  "job_details": {
-    "location": "Calgary, AB",
-    "pay": "$23.12–$27.99 an hour",
-    "job_type": ["Casual/Relief"],
-    "work_hours": "7.75 hours per shift, Day shift",
-    "work_setting": ["Family-centered care in Alberta Children's Hospital", "Play-based setting for children and families"],
-    "benefits": []
-  },
-  "responsibilities": [
-    "Supervise children in play area environment",
-    "Plan and implement crafts and activities for children",
-    "Communicate with parents and healthcare clinicians",
-    "Support and guide volunteers",
-    "Maintain program operations (bookings, toy cleaning, craft preparation)",
-    "Support Emily’s Backyard programs at multiple locations"
+    "Tight deadlines",
+    "Attention to detail",
+    "Combination of sitting, standing, and walking"
   ],
   "personal_suitability": [
-    "Supervising experience",
-    "Experience with children",
-    "Strong knowledge of child growth and development",
-    "Excellent interpersonal communication",
-    "Conflict resolution",
-    "Ability to engage in play-based activity with children",
-    "Ability to lift up to 50 lbs",
-    "Organized and team-oriented",
-    "Patient & Family Centered Care approach"
+    "Client focus",
+    "Efficient interpersonal skills",
+    "Excellent oral and written communication",
+    "Flexibility",
+    "Initiative",
+    "Judgement",
+    "Organized",
+    "Team player",
+    "Ability to multitask"
   ],
-  "preferred_qualifications": [
-    "Experience working with volunteers",
-    "Experience in child-minding environment",
-    "Experience with children of diverse abilities",
-    "Second language (including sign language)"
-  ]
+  "screening_questions": [
+    "Are you authorized to work in Canada?",
+    "Are you available to start on the listed date?"
+  ],
+  "green_job": "Yes – duties support positive environmental outcomes"
 },
 {
-  "job_title": "Cleaning Supervisor",
-  "company": "JENVIC SERVICES LTD.",
+  "job_title": "Bubble Tea Barista",
+  "company": "YiFang Taiwan Fruit Tea (Mahogany)",
   "overview": {
-    "education": "Secondary (high) school graduation certificate",
-    "experience": "1 to less than 7 months",
+    "education": "Not specified",
+    "experience": "Previous barista experience preferred but not required",
+    "languages": ["English"]
+  },
+  "job_details": {
+    "location": "3 Mahogany Row SE, Calgary, AB",
+    "pay": "From $15 an hour",
+    "job_type": ["Part-time", "Full-time"],
+    "expected_hours": "16–32 hours per week",
+    "work_setting": "In-person café environment",
+    "benefits": [
+      "Store discount"
+    ]
+  },
+  "responsibilities": [
+    "Prepare and serve high-quality coffee, tea, and bubble tea beverages",
+    "Operate POS systems such as Aloha or Micros for order processing and cash handling",
+    "Provide excellent customer service by engaging with customers and taking accurate orders",
+    "Maintain cleanliness and organization of café and food prep areas",
+    "Ensure compliance with food safety and handling standards",
+    "Assist with inventory management and restocking supplies",
+    "Collaborate with team members to ensure efficient service during busy hours",
+    "Utilize strong time management skills to prioritize multiple tasks"
+  ],
+  "qualifications": [
+    "Strong customer service and communication skills",
+    "Basic math skills for cash handling and retail calculations",
+    "Experience in food service or preparation is an asset",
+    "Familiarity with Aloha or Micros POS systems preferred",
+    "Ability to work well in a team and independently",
+    "Excellent time management and multitasking skills"
+  ],
+  "personal_suitability": [
+    "Friendly and enthusiastic personality",
+    "Customer-focused attitude",
+    "Reliable and organized",
+    "Team player",
+    "Self-motivated"
+  ],
+  "additional_information": {
+    "availability_note": "Applicants are asked to include their availability in the resume"
+  }
+},
+{
+  "job_title": "Sales Associate",
+  "company": "Metro Element",
+  "overview": {
+    "education": "Not specified",
+    "experience": "1 year of sales or customer service experience preferred",
     "languages": ["English"]
   },
   "job_details": {
     "location": "Calgary, AB",
-    "pay": "$36 an hour",
-    "job_type": ["Permanent", "Full-time", "Part-time"],
-    "work_hours": "30 hours per week",
-    "work_setting": "On-site supervision and coordination",
-    "benefits": []
+    "pay": "$15–$20 an hour",
+    "job_type": ["Part-time", "Full-time"],
+    "schedule": ["Every Weekend", "Friday to Monday"],
+    "expected_hours": "25–35 hours per week",
+    "work_setting": "In-person retail environment"
   },
   "responsibilities": [
-    "Hire and train or arrange training of cleaning staff",
-    "Supervise and co-ordinate activities of workers",
-    "Inspect sites or facilities to ensure safety and cleanliness standards",
-    "Prepare budget and cost estimates",
-    "Recommend or arrange for additional services such as painting, repairs, renovations, or replacement of furnishings and equipment",
-    "Maintain financial records",
-    "Receive payment for specialized cleaning jobs",
-    "Assist cleaners in performing duties",
-    "Co-ordinate work activities with other departments",
-    "Establish work schedules"
+    "Assist customers with selecting home décor items and plants",
+    "Provide friendly and helpful customer service",
+    "Care for plants and maintain store presentation",
+    "Receive, unpack, and display stock items",
+    "Ensure cleanliness and organization in the store",
+    "Support team members as needed with day-to-day retail tasks"
   ],
-  "supervision": {
-    "number_of_people": "5-10"
-  },
+  "qualifications": [
+    "1 year of sales experience (preferred)",
+    "1 year of customer service experience (preferred)",
+    "Interest or knowledge in plants and home décor",
+    "Ability to work weekends (Friday to Monday)",
+    "Reliable transportation or ability to commute/relocate to Calgary, AB"
+  ],
   "personal_suitability": [
-    "Organized",
-    "Leadership skills",
-    "Reliability",
+    "Friendly, bright, and cheerful personality",
+    "Customer-focused attitude",
+    "Reliable and responsible",
+    "Team player with positive energy",
+    "Attention to detail"
+  ],
+  "additional_information": {
+    "application_note": "Applicants can visit the store in person to drop off a resume or email their application."
+  }
+},
+{
+  "job_title": "Environmental Technician",
+  "company": "Lidar Services International Inc. (Gas Recon Inc.)",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Field experience or outdoor technical work preferred",
+    "licenses": ["Valid Class 5 Licence"],
+    "certifications": ["First Aid Certification (preferred)"],
+    "skills": ["GIS", "GPS navigation"]
+  },
+  "job_details": {
+    "location": "7777 10th Street NE, Calgary, AB T2E 8X2",
+    "pay": "From $22 an hour",
+    "job_type": ["Full-time", "Seasonal"],
+    "expected_hours": "40–60 hours per week",
+    "travel_requirement": "100% travel required across Canada",
+    "work_setting": "In-person fieldwork; extensive outdoor activity"
+  },
+  "responsibilities": [
+    "Use navigational skills to locate and assess natural gas distribution systems in various environments",
+    "Operate leak detection hardware and line locating equipment (training provided)",
+    "Conduct field surveys including extensive outdoor walking",
+    "Travel to multiple client sites across Canada for project assignments",
+    "Ensure safety and compliance with all field and environmental standards"
+  ],
+  "qualifications": [
+    "Valid Class 5 Driver’s Licence with clean driver’s abstract",
+    "Willingness to travel extensively (100%)",
+    "Knowledge of GPS/GIS software preferred",
+    "First Aid Certification is an asset",
+    "Physically fit and comfortable working outdoors"
+  ],
+  "personal_suitability": [
+    "Enjoys outdoor work and physical activity",
+    "Strong attention to detail",
+    "Safety-conscious attitude",
+    "Dependable and motivated",
+    "Team-oriented with good communication skills"
+  ],
+  "additional_information": {
+    "work_environment": "Seasonal field position with travel and outdoor exposure",
+    "training": "On-the-job training provided for detection and line locating equipment"
+  }
+},
+{
+  "job_title": "Operations Manager - Gas Leak Detection",
+  "company": "Lidar Services International Inc.",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Minimum 5 years operating methane sensors, processing geospatial data, and producing data products",
+    "languages": ["English"],
+    "skills": [
+      "Team management",
+      "Methane sensor operation and calibration",
+      "Geospatial data processing",
+      "Data analysis",
+      "Troubleshooting and workflow optimization",
+      "GIS software (asset)"
+    ]
+  },
+  "job_details": {
+    "location": "7777 10th Street NE, Calgary, AB T2E 8X2",
+    "pay": "$65,000–$100,000 a year",
+    "job_type": ["Full-time"],
+    "expected_start_date": "2025-04-01",
+    "work_setting": "In person",
+    "benefits": [
+      "Paid time off",
+      "Dental care",
+      "Extended health care"
+    ]
+  },
+  "responsibilities": [
+    "Supervise and coordinate field data collection and production of field data records and reports",
+    "Manage project schedules, budgets, and resource allocations to meet deadlines and cost targets",
+    "Direct and support field operations to ensure timely and efficient project execution",
+    "Troubleshoot and diagnose issues with field operations, datasets, and data products",
+    "Review and update data quality control processes to meet client standards",
+    "Participate in budgeting and financial management activities for the division",
+    "Maintain safety and quality performance standards per company policy",
+    "Mentor, train, and manage employees to promote professional growth and high performance",
+    "Identify opportunities for process improvement, technology upgrades, and cost reduction",
+    "Stay up to date with industry trends through professional development and networking"
+  ],
+  "personal_suitability": [
+    "Strong leadership and motivational skills",
+    "Detail-oriented and organized",
+    "Excellent problem-solving and analytical abilities",
+    "Strong communication and interpersonal skills",
+    "Adaptable and able to manage multiple priorities"
+  ],
+  "additional_information": {
+    "division_focus": "Gas Recon Inc. division – environmental data collection and leak detection",
+    "role_summary": "Leads field operations and ensures service quality, efficiency, and safety for gas leak detection services"
+  }
+},
+{
+  "job_title": "Machine Learning Engineer / Ingénieur en Machine Learning (ProServe Shared Delivery Team - Data & AI)",
+  "company": "Amazon Web Services Canada, Inc.",
+  "overview": {
+    "education": "Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or related field",
+    "experience": "Hands-on experience in building, training, and deploying ML models; experience with AWS services and cloud solutions",
+    "languages": ["English", "French (Bilingual Preferred)"],
+    "skills": [
+      "Machine Learning (ML)",
+      "Artificial Intelligence (AI)",
+      "Generative AI (GenAI)",
+      "AWS Cloud Architecture",
+      "Terraform",
+      "TensorFlow",
+      "Python",
+      "Data Engineering",
+      "Cloud Migration",
+      "Project Management"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB (Remote)",
+    "pay": "$99,900 – $166,900 a year",
+    "job_type": ["Full-time"],
+    "work_setting": "Remote-based role within AWS Canada’s Professional Services team"
+  },
+  "responsibilities": [
+    "Design and deploy scalable AI/ML and GenAI solutions on AWS",
+    "Collaborate with clients to understand business goals and translate them into technical solutions",
+    "Implement automation and data processing pipelines using AWS tools and ML frameworks",
+    "Guide customers in AI/ML strategy, architecture, and implementation best practices",
+    "Assess current client infrastructure and propose effective cloud migration strategies",
+    "Provide technical mentorship and contribute to knowledge sharing across teams",
+    "Ensure high standards of security, scalability, and performance in AI/ML solutions"
+  ],
+  "personal_suitability": [
+    "Strong problem-solving skills",
+    "Ability to translate technical concepts into business impact",
+    "Strong communication and interpersonal skills",
+    "Team player and mentor"
+  ],
+  "additional_information": {
+    "work_environment": "Customer-facing role with collaboration across international teams; access to cutting-edge AI/ML technologies"
+  }
+},
+{
+  "job_title": "Registered Nurse from the Philippines",
+  "company": "KYND International",
+  "overview": {
+    "education": "NCLEX licensed",
+    "experience": "Experience in Medical-Surgical, L/D, ER, ICU preferred",
+    "languages": ["English"],
+    "skills": ["CPR Certification", "Patient care", "Medical protocol adherence"]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2N 1N4",
+    "pay": "$39–$50 an hour",
+    "job_type": ["Full-time"],
+    "work_setting": "In person; small 90-bed hospital with team-oriented culture"
+  },
+  "responsibilities": [
+    "Provide general nursing care to a diverse patient population",
+    "Care for patients affected by cardiopulmonary, neurological, and surgical conditions",
+    "Follow medical and surgical protocols for patient care",
+    "Assist in patient assessments, monitoring, and treatment planning",
+    "Collaborate with healthcare team to ensure high-quality patient outcomes"
+  ],
+  "personal_suitability": [
+    "Dependable and responsible",
+    "Strong communication and interpersonal skills",
+    "Adaptable and patient-focused",
     "Team player"
   ],
-  "work_conditions": [
-    "Supervision role",
-    "On-site coordination",
-    "Physical involvement in cleaning tasks when needed"
-  ]
+  "additional_information": {
+    "benefits": [
+      "Health, Dental, and Vision insurance",
+      "Tuition reimbursement",
+      "401K retirement plan",
+      "Relocation reimbursement: $5,000",
+      "Retention bonus: $20,000 USD",
+      "Discounted housing",
+      "EB-3 green card sponsorship"
+    ]
+  }
 },
 {
-  "job_title": "Part-time Merchandiser",
-  "company": "Coca-Cola Canada Bottling Limited",
+  "job_title": "General Merchandise Department Manager",
+  "company": "Walmart Canada",
   "overview": {
-    "education": "High school diploma or GED preferred",
-    "experience": "1 year in grocery, retail, warehousing or related field preferred",
-    "languages": ["English"]
+    "education": "Not specified",
+    "experience": "Experience in retail management preferred",
+    "languages": ["English"],
+    "skills": ["Customer service", "Team management", "Merchandising", "Safe work practices"]
   },
   "job_details": {
-    "location": "Calgary, AB T2E 6T2",
-    "pay": "$22.34 an hour",
-    "job_type": ["Part-time"],
-    "work_hours": "20-30 hours per week (up to 40 during peak season)",
-    "work_setting": "Retail and backroom stock",
-    "benefits": [
-      "Mileage reimbursement",
-      "Inclusive and diverse workplace policies"
-    ]
-  },
-  "responsibilities": [
-    "Replenish products on racks, shelves, displays, and coolers",
-    "Transport product between backroom and sales floor",
-    "Build, change, and remove product displays while maintaining standards",
-    "Lift and move products up to 50 lbs repetitively",
-    "Organize and manage stock in the backroom",
-    "Process damaged/defective products and complete paperwork",
-    "Maintain cleanliness and safety compliance",
-    "Follow Coke Canada Bottling and store policies",
-    "Build and maintain professional relationships with co-workers and customers"
-  ],
-  "equipment_experience": [
-    "Manual pallet jack",
-    "Powered pallet jack",
-    "Hand-truck"
-  ],
-  "physical_requirements": [
-    "Repetitive lifting up to 50 lbs",
-    "Standing and walking for long periods",
-    "Kneeling, squatting, reaching overhead",
-    "Pushing/pulling product loads up to 100 yards"
-  ],
-  "vehicle_requirement": "Personal vehicle required; mileage reimbursed $0.62/km"
-}
-,
-{
-  "job_title": "Senior Java Software Engineer Lead (CI/CD Team Lead)",
-  "company": "Halliburton",
-  "overview": {
-    "education": "Bachelor’s degree in Computer Science, Engineering, or related field",
-    "experience": "7+ years in DevOps / SRE with team leadership experience",
-    "languages": ["English"]
-  },
-  "job_details": {
-    "location": "700 9th Avenue SW, Suite 2000, Calgary, AB T2P 3V4, Canada",
-    "pay": "Competitive and commensurate with experience",
+    "location": "100-310 Shawville Blvd SE, Calgary, AB",
+    "pay": "Not specified",
     "job_type": ["Full-time"],
-    "work_hours": "Standard business hours",
-    "work_setting": "Office and remote collaboration",
-    "benefits": []
+    "work_setting": "In person; team-oriented retail environment"
   },
   "responsibilities": [
-    "Design and implement CI/CD strategy and infrastructure",
-    "Lead, mentor, and grow a team of DevOps engineers",
-    "Oversee development and maintenance of automated CI/CD pipelines",
-    "Evaluate and implement automation tools and best practices",
-    "Collaborate with software, QA, and IT operations teams",
-    "Integrate security scanning into pipelines (DevSecOps)",
-    "Implement monitoring, logging, and alerting for pipelines",
-    "Establish CI/CD governance, policies, and documentation"
-  ],
-  "skills_required": [
-    "CI/CD Tools: GitLab CI, GitHub Actions",
-    "Containerization: Docker, Kubernetes",
-    "IaC: Terraform, Ansible",
-    "Cloud: AWS, Azure, GCP",
-    "Scripting: Bash/Shell, PowerShell, Python",
-    "Version Control: Git, GitFlow",
-    "Monitoring/Logging: Grafana, Elasticsearch, Kibana",
-    "Databases: SQL, NoSQL concepts"
+    "Provide excellent customer service by greeting customers and assisting with product selection",
+    "Delegate, assist, and follow up on completion of Customer Availability Process tasks",
+    "Manage price changes, feature sets, and modular completion in the assigned area",
+    "Support coverage in required areas on the salesfloor, including recovery and zoning activities",
+    "Train, coach, and provide feedback to associates"
   ],
   "personal_suitability": [
-    "Strong leadership and communication",
-    "Strategic thinking",
-    "Team mentorship and career development",
-    "Passion for automation and continuous improvement"
+    "Strong leadership and coaching skills",
+    "Organized and detail-oriented",
+    "Customer-focused attitude",
+    "Team player"
   ],
-  "diversity_statement": "Halliburton is an Equal Opportunity Employer and prohibits discrimination based on protected characteristics."
+  "additional_information": {
+    "work_environment": "Team-oriented retail environment requiring customer service, merchandising, and safe work practices"
+  }
 },
 {
-  "job_title": "Bartender",
-  "company": "Concorde Entertainment Group – Bridgette Bar",
+  "job_title": "Data Architect / Architecte de données",
+  "company": "Amazon Web Services Canada, Inc.",
   "overview": {
-    "education": "Not specified",
-    "experience": "Minimum 1 year cocktail bar experience",
-    "languages": ["English"]
+    "education": "Bachelor’s degree in Computer Science, Engineering, or equivalent experience",
+    "experience": "5+ years in cloud architecture, data engineering, and scalable data solutions",
+    "languages": ["English", "French (bilingual preferred)"],
+    "skills": ["Cloud architecture", "AWS services", "ETL/ELT pipelines", "SQL, Python", "Data governance"]
   },
   "job_details": {
-    "location": "739 10 Avenue SW, Calgary, AB T2R 0B3",
-    "pay": "Competitive hourly wage + gratuities",
-    "job_type": ["Part-time (with option for full-time permanent)"],
-    "work_hours": "Overtime / flexible",
-    "work_setting": "Bar / hospitality",
-    "benefits": [
-      "Extended health care after 90 days for 28+ hours/week",
-      "25% company-wide food & beverage discount + local business discounts"
-    ]
+    "location": "Calgary, AB",
+    "pay": "$99,900–$166,900 per year",
+    "job_type": ["Full-time"],
+    "work_setting": "Customer-facing role with potential global interactions"
   },
   "responsibilities": [
-    "Prepare, mix, pour, garnish, and serve alcoholic and non-alcoholic beverages",
-    "Follow all drink recipes and production principles",
-    "Provide excellent customer service to all guests",
-    "Build and maintain regular clientele",
-    "Maintain bar cleanliness and equipment",
-    "Assist in table service, product ordering, and inventory management",
-    "Comply with federal, provincial, and municipal health and labor regulations",
-    "Assist with overtime and operational duties as required"
+    "Design and implement end-to-end large-scale, complex, secure Data & Analytics AWS solutions",
+    "Provide technical guidance and troubleshooting support throughout project delivery",
+    "Collaborate with stakeholders to gather requirements and propose effective migration and modernization strategies",
+    "Act as a trusted advisor to customers on industry trends and emerging technologies",
+    "Share knowledge within the organization through mentoring, training, and reusable artifacts"
   ],
   "personal_suitability": [
-    "Professionalism, control, and composure in stressful situations",
-    "Team player and adaptable to client/vendor personalities"
+    "Detail-oriented and organized",
+    "Strong communication and interpersonal skills",
+    "Analytical thinking and problem-solving",
+    "Team player and mentor"
   ],
-  "certifications_required": ["ProServe (Alberta)"]
+  "additional_information": {
+    "work_environment": "Customer-facing role requiring collaboration with AWS teams, clients, and partners; focus on scalable, secure, innovative solutions"
+  }
 },
 {
-  "job_title": "Seasonal Pit Crew",
-  "company": "Speeders Calgary North",
+  "job_title": "Fulfillment Area Manager Intern",
+  "company": "Amazon Canada Fulfillment Services, ULC - B85",
   "overview": {
-    "education": "Not specified",
-    "experience": "Not specified",
-    "languages": ["English"]
+    "education": "Currently enrolled in a bachelor’s degree program (completion Dec 2026 - Aug 2027)",
+    "experience": "Internship focused on leadership and warehouse operations",
+    "languages": ["English"],
+    "skills": ["Team coaching", "Warehouse operations", "Continuous improvement", "Project management"]
   },
   "job_details": {
-    "location": "Calgary, AB T2E 8Z9",
-    "pay": "$15/hour",
-    "job_type": ["Part-time"],
-    "work_hours": "Weekends as needed, Day & Evening shifts",
-    "work_setting": "Outdoor racetrack",
-    "benefits": [
-      "Races added to account each pay period",
-      "Opportunities for growth"
-    ]
+    "location": "Calgary, AB",
+    "pay": "$32.55–$39.90 per hour",
+    "job_type": ["Full-time"],
+    "work_setting": "On-site internship in fulfillment centers or delivery stations"
   },
   "responsibilities": [
-    "Assist customers in and out of go-karts",
-    "Assign karts and ensure customer safety",
-    "Perform opening and closing duties",
-    "Maintain orderly flow on the track",
-    "Instruct customers on kart usage, flags, and track safety",
-    "Respond to emergency situations",
-    "Perform facility cleaning and maintenance",
-    "Lift, push, or pull up to 50 lbs",
-    "Read and interpret daily checklists, safety rules, and instructions",
-    "Communicate effectively with groups of customers"
+    "Learn to coach, manage and develop a team of 50-100 Amazon Associates",
+    "Drive standard work and continuous improvement through an intern project",
+    "Oversee truck deliveries, handle and sort packages using pallet jacks, and operate PIT equipment",
+    "Participate in physical warehouse activities including lifting, pushing, pulling, squatting, bending, reaching, and climbing stairs"
   ],
   "personal_suitability": [
-    "Energetic, dynamic, safety-conscious",
+    "Strong verbal and written communication skills",
+    "Customer service and interpersonal skills",
+    "Adaptable and self-motivated",
+    "Team player"
+  ],
+  "additional_information": {
+    "notes": [
+      "Not a corporate, remote, or office-based position",
+      "No visa sponsorship provided; eligible candidates must have work authorization without employer intervention"
+    ],
+    "benefits": [
+      "Summer relocation and housing assistance (if eligible)",
+      "Access to Amazon's Medical Advice Line",
+      "Employee Assistance Program (EAP)",
+      "Financial benefits"
+    ]
+  }
+},
+{
+  "job_title": "Delivery Practice Manager (DPM) - Data & AI/ML",
+  "company": "Amazon Web Services Canada, Inc.",
+  "overview": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience": "Experience managing people, projects, and IT transformation initiatives",
+    "languages": ["English", "French (bilingual mandatory)"],
+    "skills": ["Leadership", "Project management", "Data & AI/ML solutions", "P&L management", "Sales and negotiation"]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "pay": "$141,900–$236,900 per year",
+    "job_type": ["Full-time"],
+    "work_setting": "Global, collaborative, client-facing role"
+  },
+  "responsibilities": [
+    "Build and manage a high-performing team of Delivery Consultants and Engagement Managers",
+    "Collaborate with Delivery Consultants, Account Executives, and Cloud Architects to deploy solutions",
+    "Develop and oversee the implementation of innovative IT strategies for clients",
+    "Manage practice P&L and ensure on-time, within-budget delivery",
+    "Drive business development initiatives and exceed customer satisfaction targets"
+  ],
+  "personal_suitability": [
+    "Strong leadership and motivational skills",
+    "Excellent communication and interpersonal skills",
+    "Strategic thinking and decision-making",
+    "Adaptable and able to manage multiple priorities"
+  ],
+  "additional_information": {
+    "notes": [
+      "Requires interaction with global Amazon entities",
+      "Bilingual French and English mandatory"
+    ],
+    "benefits": ["Full range of medical, financial, and other benefits", "Equity, sign-on payments, total compensation packages"]
+  }
+},
+{
+  "job_title": "Senior Delivery Consultant – AI/ML",
+  "company": "Amazon Web Services Canada, Inc.",
+  "overview": {
+    "education": "Bachelor’s degree or equivalent in Computer Science, Statistics, Mathematics",
+    "experience": "10+ years in data or software engineering; 5+ years building ML platforms",
+    "languages": ["English"],
+    "skills": ["ML/DL frameworks", "MLOps", "AWS ML services", "Python, SQL, Java/Scala", "AI/ML solution design"]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "pay": "$126,000–$210,400 per year",
+    "job_type": ["Full-time"],
+    "work_setting": "Customer-facing role with possible travel to client sites"
+  },
+  "responsibilities": [
+    "Lead end-to-end ML/AI projects: data prep, model development, deployment, monitoring",
+    "Design high-performance, reliable, and secure data platforms",
+    "Design scalable ML solutions and operations (MLOps) using AWS services",
+    "Build and evaluate predictive models for forecasting, resource optimization, and customer trends",
+    "Coach and mentor junior colleagues and develop technical content"
+  ],
+  "personal_suitability": [
+    "Strong analytical and problem-solving skills",
+    "Excellent communication and mentoring abilities",
     "Team player",
-    "Customer service oriented"
+    "Adaptable to fast-paced environments"
   ],
-  "physical_requirements": [
-    "Ability to lift/push/pull up to 50 lbs",
-    "Ability to stand and move quickly for long periods"
-  ]
+  "additional_information": {
+    "notes": [
+      "Customer-facing role; travel to client sites may be required",
+      "Candidates encouraged to apply even if not all preferred qualifications are met"
+    ],
+    "benefits": [
+      "Access to AWS employee resources and mentorship programs",
+      "Flexible work-life balance",
+      "Comprehensive compensation including equity and benefits"
+    ]
+  }
 }
+
 ]
