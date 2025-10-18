@@ -10914,7 +10914,815 @@
     "Are you willing to relocate for this position?",
     "Do you have previous experience in this field of employment?"
   ]
+},
+{
+  "job_title": "Principal Product Engineer - Americas",
+  "company": "Ashby",
+  "overview": {
+    "languages": "English",
+    "education": "Bachelor’s degree in Computer Science or equivalent experience (preferred)",
+    "experience": "Senior-level experience in full-stack or product engineering with proven end-to-end feature ownership",
+    "skills": ["iOS", "Swift", "SQL", "Product Design", "Full-stack Development", "Software Architecture"]
+  },
+  "job_details": {
+    "location": "Calgary, AB (Remote)",
+    "pay": "$200,000–$260,000 a year",
+    "job_type": "Full-time",
+    "benefits": [
+      "Paid time off",
+      "Stock options"
+    ],
+    "work_culture": [
+      "Remote-first environment",
+      "Minimal meetings",
+      "High ownership and creative freedom",
+      "Collaborative and growth-oriented team"
+    ]
+  },
+  "company_bio": {
+    "about": "Ashby builds software to support Talent Acquisition and related workflows. With customers like Notion, Linear, Shopify, and Snowflake, Ashby is scaling rapidly with exceptional growth and retention metrics.",
+    "highlights": [
+      "Tens of millions in ARR, growing over 100% year over year",
+      "Very low churn and multiple years of financial runway",
+      "Strong engineering culture focused on autonomy and innovation"
+    ]
+  },
+  "role_summary": "As a Principal Product Engineer at Ashby, you will own large product areas end-to-end — from research and design to architecture and implementation. You’ll shape user experiences, influence product direction, and build reusable, high-quality components across the stack.",
+  "responsibilities": [
+    "Take full ownership of a product area and lead projects from ideation to delivery",
+    "Research competitors, write product specifications, and create wireframes and prototypes",
+    "Design and implement innovative product features with end-to-end responsibility",
+    "Collaborate directly with leadership and other engineers to define and execute technical vision",
+    "Create reusable architecture and components that improve product scalability",
+    "Advocate for best practices and mentor other engineers to achieve technical excellence"
+  ],
+  "examples_of_past_projects": [
+    "Automated interview scheduling tool that computes availability and integrates with candidate scheduling",
+    "Declarative filter architecture compiling user-defined filters into SQL for consistent UI/UX",
+    "End-to-end offer signing feature including design, prototyping, customer validation, and implementation"
+  ],
+  "personal_suitability": [
+    "Innovative and proactive problem-solver",
+    "Comfortable with ambiguity and autonomy",
+    "Excellent communication and collaboration skills",
+    "Strong product and design intuition",
+    "Ownership mindset with ability to balance speed and quality"
+  ],
+  "why_join_ashby": [
+    "Blend of startup agility and growth-stage stability",
+    "Work on products used daily by thousands of users",
+    "Collaborate with world-class peers in a no-nonsense engineering culture",
+    "Direct impact on product decisions and technical architecture"
+  ]
+},
+{
+  "job_title": "Customer Success Lead",
+  "company": "Hexagon Mining, Inc.",
+  "overview": {
+    "languages": "English",
+    "education": "Not specified (Technical background preferred)",
+    "experience": "Experience in project management, customer success, or technical consulting within mining or industrial solutions",
+    "skills": ["Project management", "Presentation skills", "Negotiation", "Customer relations", "Technical expertise"]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2P 3J3",
+    "work_setting": "Office / Hybrid",
+    "schedule": "Full-time, Weekends as needed",
+    "salary": "Not specified",
+    "benefits": [
+      "Global career opportunities",
+      "Professional development",
+      "Collaborative international team",
+      "Exposure to advanced digital and autonomous technologies"
+    ],
+    "responsibilities": [
+      "Act as a trusted advisor for Hexagon Mining solutions, ensuring customer retention and growth",
+      "Support commercial teams during pre- and post-sales processes by defining, scoping, and demonstrating solutions",
+      "Assist with RFP/RFQ participation in a technical capacity",
+      "Guide customers post-sale to ensure successful adoption and full value realization of Hexagon solutions",
+      "Identify opportunities for customers to expand usage of Hexagon technologies (cross-sell and up-sell)",
+      "Provide proactive customer care and ensure solution effectiveness",
+      "Mentor Customer Success Advisors and provide strategic direction to the team",
+      "Collaborate with key accounts to align customer processes and deploy new technology",
+      "Develop and present industry papers, create case studies, and represent Hexagon in industry forums"
+    ]
+  },
+  "skills_and_technology": [
+    "Customer Success Management",
+    "Mining Software Solutions",
+    "Technical Consulting",
+    "CRM and Data Analysis Tools",
+    "Presentation and Negotiation Tools"
+  ],
+  "personal_suitability": [
+    "Strong leadership and mentoring abilities",
+    "Excellent communication and presentation skills",
+    "Analytical and problem-solving mindset",
+    "Customer-focused approach",
+    "Ability to work independently and collaboratively in global teams"
+  ],
+  "career_advancement": [
+    "Leadership roles within Customer Success or Commercial Teams",
+    "Opportunities to influence product development and strategy",
+    "Participation in global innovation and mining technology projects"
+  ]
+},
+{
+  "job_title": "CAD Software Specialist",
+  "company": "Propak Systems Ltd.",
+  "overview": {
+    "languages": "English",
+    "education": [
+      "Computer Programming certificate",
+      "Applied Programming diploma",
+      "Software Engineering degree",
+      "Advanced AutoCAD courses",
+      "Diploma in Engineering Design Drafting Technology (EDDT) or equivalent"
+    ],
+    "experience": "5+ years in 3D design environments with piping and structural systems",
+    "skills": [
+      "Visual Studio v17+",
+      "AutoCAD / CADWorx / IsoGen / Navisworks 2020+",
+      "Microsoft Excel & Developer",
+      "High-level programming languages: LISP, C, C+, C++, C#, Java, Python, JavaScript, SQL, TypeScript, VBA",
+      "Web Development: NodeJS and JSON",
+      "AI Development: OpenAI API (bonus)",
+      "ObjectARX (bonus)",
+      "Problem solving and analytical skills",
+      "Time management and organization",
+      "Strong communication skills"
+    ]
+  },
+  "job_details": {
+    "location": "Airdrie, AB",
+    "work_setting": "Office / Interdepartmental collaboration",
+    "schedule": "Full-time",
+    "salary": "Not specified",
+    "benefits": [
+      "Professional development opportunities",
+      "Exposure to advanced CAD and software tools",
+      "Collaborative work environment"
+    ],
+    "responsibilities": [
+      "Implement and maintain drafting software and updates",
+      "Guide users on proper software usage",
+      "Conduct investigations to resolve software errors",
+      "Maintain CADWorx PRJ and data files to standards",
+      "Conduct product reviews of new software releases",
+      "Collaborate with Piping Designers, Drafters, Engineering, and Fabrication staff",
+      "Assist design staff with software issues and training",
+      "Develop and maintain procedures and processes for design environment",
+      "Ensure compatibility with latest design software",
+      "Monitor quality and accuracy of work",
+      "Interpret complex technical information and drawings"
+    ]
+  },
+  "skills_and_technology": [
+    "CAD/CAM software expertise",
+    "3D piping and structural design",
+    "Software troubleshooting and maintenance",
+    "Programming and scripting (VBA, LISP, C++, Python, etc.)",
+    "NodeJS and JSON",
+    "Visual Studio"
+  ],
+  "personal_suitability": [
+    "Highly motivated",
+    "Detail-oriented",
+    "Problem-solving mindset",
+    "Strong technical and English communication skills",
+    "Ability to work independently and in a team",
+    "Time management and organizational skills",
+    "Ability to handle changing priorities and strict deadlines"
+  ],
+  "career_advancement": [
+    "Senior CAD/Software Specialist roles",
+    "Leadership or mentorship in drafting teams",
+    "Exposure to software and process improvement projects"
+  ]
+},
+{
+  "job_title": "Business Development Officer",
+  "company": "ABI FITI CONTROLS LTD.",
+  "overview": {
+    "languages": "English",
+    "education": "College/CEGEP diploma",
+    "experience": "1 to less than 2 years",
+    "skills": [
+      "Microsoft Word",
+      "Microsoft PowerPoint",
+      "Microsoft Outlook",
+      "MS Excel"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2P 3E7",
+    "pay": "$51.92 an hour",
+    "job_type": ["Permanent", "Full-time"],
+    "work_hours": "35 to 40 hours per week",
+    "responsibilities": [
+      "Develop policies",
+      "Administer programs to promote industrial and commercial business investment",
+      "Respond to enquiries from members of the business community concerning development opportunities",
+      "Conduct surveys and analyze consumer buying habits and preferences",
+      "Prepare reports, research papers, educational texts or articles",
+      "Conduct analytical marketing studies",
+      "Design market research questionnaires",
+      "Develop marketing strategies",
+      "Deliver presentations at conferences, workshops or symposia",
+      "Develop and implement business plans"
+    ]
+  },
+  "skills_and_technology": [
+    "MS Excel",
+    "MS Outlook",
+    "MS PowerPoint",
+    "MS Word"
+  ],
+  "personal_suitability": [
+    "Efficient interpersonal skills",
+    "Flexibility",
+    "Judgement"
+  ],
+  "career_advancement": [
+    "Senior business development roles",
+    "Leadership opportunities in strategy and marketing"
+  ]
+},
+{
+  "job_title": "IT Managed Services Coordinator",
+  "company": "City of Calgary",
+  "overview": {
+    "languages": "English",
+    "education": "College diploma or High school diploma/GED",
+    "experience": "5+ years in IT support or managed services environment",
+    "skills": [
+      "IT infrastructure",
+      "IT support",
+      "Customer service",
+      "BMC Remedy / BMC Helix ITSM"
+    ]
+  },
+  "job_details": {
+    "location": "133 6 Avenue SE, Calgary, AB",
+    "pay": "$47.01–$62.84 an hour",
+    "job_type": "Full-time",
+    "responsibilities": [
+      "Supervise day-to-day IT Frontline Support for managed service contracts including Desktop Managed Services, Enterprise Help Desk Services, and Managed Print Services",
+      "Manage service providers to maintain customer satisfaction standards",
+      "Guide clients through IT processes and handle escalated critical issues",
+      "Monitor contractor service and performance issues and manage escalations",
+      "Mentor staff and advise on training and development plans",
+      "Develop technical specifications and advanced troubleshooting for City IT endpoint computing infrastructure",
+      "Safeguard corporate computing environment from changes that may compromise stability, functionality, or security",
+      "Plan, coordinate, and provide training for high-profile technology and business projects"
+    ]
+  },
+  "skills_and_technology": [
+    "IT infrastructure management",
+    "Endpoint device troubleshooting",
+    "BMC Remedy / Helix ITSM",
+    "Customer service",
+    "Process management"
+  ],
+  "personal_suitability": [
+    "Customer-focused",
+    "Results-oriented",
+    "Strong relationship-building skills",
+    "Excellent planning, organizing, and coordinating abilities",
+    "Technical proficiency in desktop/laptop computing"
+  ],
+  "career_advancement": [
+    "Senior IT management roles",
+    "IT project leadership positions",
+    "Technical specialist or enterprise IT consultant opportunities"
+  ]
+},
+{
+  "job_title": "Administrative Manager",
+  "company": "VALUE TRUCK SALES",
+  "overview": {
+    "languages": "English",
+    "education": "Bachelor's degree",
+    "experience": "3 to 5 years in administrative management",
+    "skills": [
+      "Administrative experience",
+      "Records management",
+      "Budgeting",
+      "Staff training and supervision",
+      "Corporate governance compliance"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2C 4Y1",
+    "pay": "$58 an hour",
+    "job_type": "Permanent, Full-time",
+    "responsibilities": [
+      "Coordinate administrative services",
+      "Evaluate operations of a department providing administrative services",
+      "Manage operations of a department providing a single administrative service",
+      "Collect and record administrative and service fees",
+      "Plan, organize, direct, control, and evaluate daily operations",
+      "Direct and advise staff engaged in records management, security, finance, purchasing, HR, or other administrative services",
+      "Direct and control corporate governance and regulatory compliance procedures",
+      "Hire, interview, and train staff",
+      "Plan, administer, and control budgets for client projects, contracts, equipment, and supplies",
+      "Prepare reports and briefs for management committees evaluating administrative services",
+      "Assist in planning and execution of financial statement audits",
+      "Organize and maintain inventory",
+      "Supervise office and volunteer staff"
+    ]
+  },
+  "skills_and_technology": [
+    "Administrative coordination",
+    "Budget management",
+    "Staff supervision",
+    "Records management",
+    "Corporate governance"
+  ],
+  "personal_suitability": [
+    "Organized and detail-oriented",
+    "Strong leadership and communication skills",
+    "Ability to manage multiple tasks and priorities",
+    "Problem-solving and decision-making skills"
+  ],
+  "career_advancement": [
+    "Senior administrative roles",
+    "Operations management",
+    "Executive support and office management leadership"
+  ]
+},
+{
+  "job_title": "Subject Matter Expert - Information Technology",
+  "company": "Bow Valley College",
+  "overview": {
+    "languages": "English",
+    "education": "Master's degree (preferred), Bachelor's degree required",
+    "experience": "Advanced industry knowledge in virtualization, network administration, scripting, automation, customer service, and IT business analysis",
+    "skills": [
+      "Writing skills",
+      "Virtualization",
+      "ServiceNow",
+      "Curriculum development",
+      "Competency-based education",
+      "Instructional content creation"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2G 4V1 • Hybrid work",
+    "job_type": "Full-time",
+    "responsibilities": [
+      "Assist in developing competency-based assessments and instructional content for IT Solutions diploma program",
+      "Co-develop scenario-based assessments, course resources, skill-based learning activities, course outlines, and student schedules",
+      "Advise on quality indicators of skills-in-practice for ITS roles",
+      "Locate and advise on relevant learning resources and materials",
+      "Assist in development, review, and validation of competencies, tasks, sub-tasks, and performance criteria",
+      "Develop learning pathway materials and assessments (performance-based, formative, mastery assessments)",
+      "Review all assessments, learning materials, and resources to ensure alignment to industry standards",
+      "Collaborate with Instructional Designer to align curriculum with labor market needs and academic standards"
+    ]
+  },
+  "skills_and_technology": [
+    "Virtualization",
+    "Network administration",
+    "Scripting and automation",
+    "ServiceNow",
+    "Customer service",
+    "IT business analysis",
+    "Curriculum development tools"
+  ],
+  "personal_suitability": [
+    "Committed to high-quality course design",
+    "Strong industry knowledge",
+    "Attention to detail",
+    "Collaborative and able to work with learning design consultants and instructional designers",
+    "Up-to-date with current industry practices and standards"
+  ],
+  "career_advancement": [
+    "Senior SME roles",
+    "Instructional designer or curriculum development leadership",
+    "Program coordinator or academic leadership positions in IT education"
+  ]
+},
+{
+  "job_title": "Data Governance Analyst",
+  "company": "WestJet",
+  "overview": {
+    "languages": "English",
+    "education": "Bachelor's degree or equivalent combination of education, certifications, and experience in a technical field",
+    "experience": "3+ years in data governance frameworks and stewardship or 5+ years of related technical experience",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Data quality management",
+      "Master data management",
+      "Metadata management",
+      "Data lifecycle management",
+      "Data governance tooling (e.g., Purview, data catalogs, business glossaries)",
+      "Agile methodology",
+      "Communication and stakeholder engagement"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "job_type": "Full-time",
+    "responsibilities": [
+      "Document and support frameworks, standards, processes, guidelines, and user guides for data governance operations and tools",
+      "Implement and enforce Data Governance policies and processes",
+      "Develop, maintain, and administer Data Governance tools and workflows, including Data Catalog, Business Glossary, and access request workflows",
+      "Promote data governance within the organization and develop an inclusive environment for responsible use of data",
+      "Onboard and train business units to the Data Governance program",
+      "Schedule and facilitate meetings with Data Trustees, Data Stewards, and Data Custodians",
+      "Track, monitor, and report on Data Governance metrics and KPIs",
+      "Collaborate with Legal, Cybersecurity, and Risk & Compliance teams to ensure alignment with data policies and processes",
+      "Stay current on data regulatory standards such as GDPR, PCI DSS, and PIPEDA",
+      "Participate in Scrum ceremonies and support other Data Governance team members as needed"
+    ]
+  },
+  "skills_and_technology": [
+    "Tableau",
+    "SQL",
+    "Microsoft Power Automate (nice to have)",
+    "Snowflake, WhereScape, Databricks (nice to have)",
+    "SQL Server, Azure SQL, ADLS, ADF, Azure Synapse (nice to have)",
+    "PowerBI (nice to have)"
+  ],
+  "personal_suitability": [
+    "High attention to detail",
+    "Strong organizational skills",
+    "Passionate about data and governance",
+    "Ability to communicate effectively with business and technical stakeholders",
+    "Curious, adaptable, and willing to take on new challenges"
+  ],
+  "career_advancement": [
+    "Senior Data Governance Analyst",
+    "Data Stewardship Lead",
+    "Data Governance Program Manager",
+    "Enterprise Data Management Leadership roles"
+  ]
+},
+{
+  "job_title": "HR Business Partner - Calgary Store",
+  "company": "IKEA",
+  "overview": {
+    "languages": "English",
+    "education": "Bachelor's degree",
+    "experience": "2 years of related experience with a university degree, or minimum 5 years of related experience",
+    "skills": [
+      "HR business partnering",
+      "Talent management",
+      "Stakeholder collaboration",
+      "Change management",
+      "Employee engagement",
+      "Leadership development"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "job_type": "Permanent, Full-time",
+    "responsibilities": [
+      "Be the trusted advisor to line managers to implement unit business and people plans to achieve operational goals and objectives",
+      "Collaborate with stakeholders to ensure consistent application of people processes for a great co-worker experience",
+      "Enable inclusive talent management and continuous development of local leadership capabilities",
+      "Support people aspects related to Transformation and act as an ambassador for standardization and change",
+      "Act as the guardian of IKEA Culture & Values, ensuring a caring employer environment and safeguarding co-worker experience"
+    ],
+    "benefits": [
+      "Vision care",
+      "Dental care",
+      "Life insurance",
+      "Employee assistance program",
+      "RRSP match",
+      "Extended health care",
+      "Wellness days",
+      "Eligibility for annual IKEA bonus incentive plan",
+      "Flexible spending account",
+      "Merchandise and restaurant discounts",
+      "Parental leave",
+      "Bereavement leave"
+    ]
+  },
+  "skills_and_technology": [
+    "HR processes and systems",
+    "Talent development frameworks",
+    "Change management tools",
+    "Employee engagement strategies"
+  ],
+  "personal_suitability": [
+    "Inclusive and empathetic",
+    "Strong interpersonal and communication skills",
+    "Ability to advise and influence leadership",
+    "Commitment to employee experience and organizational culture",
+    "Adaptable and proactive"
+  ],
+  "career_advancement": [
+    "Senior HR Business Partner",
+    "HR Manager",
+    "HR Director",
+    "People & Culture Leadership roles"
+  ]
+},
+{
+  "job_title": "Account Technology Strategist",
+  "company": "Microsoft",
+  "overview": {
+    "languages": "English",
+    "education": "Bachelor's degree in Computer Science, Information Technology, Engineering, Business or related field",
+    "experience": "6+ years technical consulting, technical consultative selling, business consulting, practice building, or related technical/sales experience",
+    "skills": [
+      "Sales",
+      "Digital transformation",
+      "AI strategy",
+      "Customer business outcome consulting",
+      "Technology leadership",
+      "Industry knowledge"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "job_type": "Full-time",
+    "salary": "$128,000–$222,400 per year",
+    "responsibilities": [
+      "Document and articulate the customer’s business objectives, technology landscape and AI and Security strategy",
+      "Drive Microsoft Business growth including partner co-sell motions and governance around consumption and intent to use",
+      "Lead AI and Security conversations showcasing alignment to customers' business priorities",
+      "Apply industry knowledge to build AI strategy with customers aligned to business outcomes",
+      "Influence technology virtual teams to adopt the right technical architecture and solutions",
+      "Deliver regular industry/technology briefings to customer technology stakeholders",
+      "Support enablement plans for assigned customers to develop technical product capabilities and accelerate customer goals"
+    ],
+    "benefits": [
+      "Flexible work – up to 50% remote",
+      "Competitive salary",
+      "Career growth opportunities",
+      "Inclusive work environment",
+      "Comprehensive Microsoft benefits and programs"
+    ]
+  },
+  "skills_and_technology": [
+    "Technical consulting",
+    "Consultative selling",
+    "Business consulting",
+    "Digital transformation",
+    "AI and security technologies",
+    "Microsoft product portfolio expertise"
+  ],
+  "personal_suitability": [
+    "Customer-focused",
+    "Strong communication and interpersonal skills",
+    "Ability to influence technical teams and stakeholders",
+    "Innovative and solution-oriented",
+    "Strategic thinker with industry knowledge"
+  ],
+  "career_advancement": [
+    "Senior Account Technology Strategist",
+    "Enterprise Account Leadership",
+    "Solution Area Specialist",
+    "Customer Success Leadership"
+  ]
+},
+{
+  "job_title": "Consultant",
+  "company": "Alberta Health Services / Recovery Alberta",
+  "overview": {
+    "languages": "English",
+    "education": "Master's or Bachelor's degree in Health or Social Sciences",
+    "experience": "5+ years clinical experience in assessment and treatment of primary addiction and concurrent disorders; 2+ years experience creating interactive online training",
+    "skills": [
+      "SharePoint",
+      "Microsoft PowerPoint",
+      "Microsoft Outlook",
+      "Instructional design",
+      "Adult learning principles",
+      "Clinical competency training",
+      "Legislation compliance"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB (eligible to work remotely within Alberta)",
+    "job_type": "Full-time",
+    "pay": "$37.82–$64.86 per hour",
+    "shift_schedule": "Day shift, 7.75 hours per shift, 10 shifts per cycle, Days off Saturday/Sunday",
+    "temporary_end_date": "31-MAR-2027",
+    "responsibilities": [
+      "Provide subject matter expertise in creating and delivering training events",
+      "Develop academic storyboards and training resources for clinical practice",
+      "Ensure compliance with legislation: Mental Health Services Protection Act, Mental Health Act, Compassionate Intervention Act",
+      "Engage learners using adult learning principles and instructional strategies",
+      "Collaborate with operational leaders, clinical supervisors, educators, and interdisciplinary team members",
+      "Support provincial scope projects related to addiction and mental health training"
+    ],
+    "benefits": [
+      "Remote work eligibility",
+      "Temporary full-time benefits",
+      "Competitive hourly pay"
+    ]
+  },
+  "skills_and_technology": [
+    "Microsoft Office Suite (Excel, Outlook, SharePoint, PowerPoint)",
+    "E-learning authoring tools (Articulate Storyline preferred)",
+    "Clinical training and competency development",
+    "Legislation compliance knowledge",
+    "Critical thinking and communication skills"
+  ],
+  "personal_suitability": [
+    "Able to work independently and virtually",
+    "Strong communication and interpersonal skills",
+    "Detail-oriented and compliance-focused",
+    "Engaging and effective trainer"
+  ]
+},
+{
+  "job_title": "SaaS Marketing Specialist",
+  "company": "Pluto Systems",
+  "overview": {
+    "languages": "English",
+    "education": "Not specified",
+    "experience": "Experience in writing, social media management, and SaaS marketing",
+    "skills": [
+      "Writing skills",
+      "Social media management",
+      "SaaS marketing",
+      "Digital advertising (LinkedIn, Meta)",
+      "Content creation",
+      "CRM management (HubSpot)",
+      "Website management (WordPress)",
+      "Analytics and reporting",
+      "Campaign optimization",
+      "Event coordination"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2S 3A8 • Hybrid work",
+    "job_type": "Full-time",
+    "pay": "$74,000–$86,000 per year",
+    "responsibilities": [
+      "Own and manage digital presence across paid and organic social media channels",
+      "Plan content calendar and write compelling copy for multi-channel campaigns",
+      "Build, launch, monitor, and optimize paid campaigns in LinkedIn Ads Manager and Meta Business Suite",
+      "Transform industry insights and product knowledge into engaging content",
+      "Manage CRM (HubSpot) and website (WordPress), including segmentation and content updates",
+      "Establish key metrics, track performance, and report on results",
+      "Coordinate tradeshows and association efforts to ensure consistent messaging and branding"
+    ],
+    "benefits": [
+      "Paid time off",
+      "Vision care",
+      "Dental care",
+      "Life insurance",
+      "Casual dress",
+      "Extended health care",
+      "Work from home"
+    ]
+  },
+  "personal_suitability": [
+    "Self-driven and autonomous",
+    "Strong communication and writing skills",
+    "Analytical mindset with ability to optimize campaigns",
+    "Detail-oriented and organized",
+    "Ability to collaborate with executive team"
+  ]
+},
+{
+  "job_title": "Specialist (Modern Workplace)",
+  "company": "MSP OPERATIONAL CORP",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Experience in SharePoint, information architecture, content management, and Microsoft 365 tools",
+    "skills": [
+      "SharePoint",
+      "Information architecture",
+      "Content management",
+      "Microsoft Teams",
+      "Viva",
+      "Microsoft 365 Copilot",
+      "Copilot Studio",
+      "Power Automate",
+      "Enterprise Content Management",
+      "Governance and Roadmaps",
+      "Adoption and Change Management",
+      "Requirements gathering",
+      "Solution design",
+      "Wireframes and process diagrams"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB T2G 2M3 • Hybrid work",
+    "job_type": "Full-time",
+    "shift": "Monday to Friday, 8:30 a.m. – 5:00 p.m.",
+    "responsibilities": [
+      "Gather requirements with client stakeholders and document key use cases, processes, and goals",
+      "Recommend technology solutions focused on Microsoft technologies",
+      "Develop modern workplace solutions on collaboration platforms including SharePoint, Teams, Viva, Microsoft 365 Copilot",
+      "Develop low-code agents using Copilot Studio and Power Automate",
+      "Translate business requirements into functional specifications, wireframes, user stories, and diagrams",
+      "Develop training, adoption, and change management resources to support product delivery",
+      "Build relationships with clients, internal resources, and third-party SMEs to optimize product delivery",
+      "Demonstrate proofs of technology and showcase technology use cases",
+      "Advise solution architects, developers, quality assurance, and managers on solution requirements",
+      "Manage multiple concurrent projects efficiently and meet deadlines",
+      "Stay up to date on Microsoft roadmap updates and relevant technologies"
+    ],
+    "benefits": [
+      "Benefits package",
+      "Dynamic work environment",
+      "Corporate gym discounts",
+      "Wellness days",
+      "Opportunities for growth and training"
+    ]
+  },
+  "personal_suitability": [
+    "Proven track record in complex environments with distributed users",
+    "Strong technical business analysis skills",
+    "Experience in adoption and change management",
+    "Excellent communication and collaboration skills",
+    "Ability to manage multiple projects and meet deadlines efficiently"
+  ]
+},
+{
+  "job_title": "High School English Tutor",
+  "company": "NeoBright Tutoring",
+  "overview": {
+    "education": "High school diploma or GED (Bachelor's preferred)",
+    "experience": "Tutoring experience",
+    "skills": [
+      "Tutoring",
+      "Lesson delivery",
+      "Student engagement",
+      "Time management"
+    ]
+  },
+  "job_details": {
+    "location": "1933 10th Avenue SW, Calgary, AB T3C 0K3",
+    "job_type": "Part-time",
+    "pay": "$55 an hour",
+    "shift": "Scheduled 1.5-hour classes aligned with Canadian time zones",
+    "responsibilities": [
+      "Deliver engaging lessons to Canadian students using pre-prepared curriculum",
+      "Focus on teaching while all scheduling and parent communication is handled by support team",
+      "Teach from a consistent location with no commuting required",
+      "Maintain stable teaching schedule and provide high-quality instruction"
+    ],
+    "benefits": [
+      "Language training provided"
+    ]
+  },
+  "personal_suitability": [
+    "Passion for teaching",
+    "Strong communication and interpersonal skills",
+    "Ability to engage and motivate students",
+    "Organized and reliable"
+  ]
+},
+{
+  "job_title": "General Manager",
+  "company": "Staples",
+  "overview": {
+    "education": "Not specified",
+    "experience": "3-5 years in retail management, preferably as a General Manager",
+    "skills": [
+      "Sales",
+      "Retail management",
+      "Management",
+      "Communication skills",
+      "Leadership",
+      "Financial management",
+      "Business development"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "job_type": "Full-time",
+    "responsibilities": [
+      "Drive operational and sales excellence, model and nurture sales culture",
+      "Lead and motivate team, execute day-to-day floor leadership duties",
+      "Develop and execute strategic vision to promote customer-first mentality",
+      "Achieve business and financial targets by monitoring budgets and reports",
+      "Identify and pursue business development opportunities",
+      "Manage scheduling, coach and develop talent, recruit and engage employees",
+      "Disseminate business communications and initiatives",
+      "Ensure compliance with Health & Safety, Asset Protection, Privacy, and company policies"
+    ],
+    "benefits": [
+      "Associate discount",
+      "Health and dental benefits",
+      "Competitive PTO and Personal Days",
+      "RRSP/DPSP program",
+      "Performance bonus",
+      "Learning & Development programs"
+    ]
+  },
+  "personal_suitability": [
+    "Ability to lead in a fast-paced environment",
+    "Strong prioritization, organization, and multi-tasking skills",
+    "Excellent communication and interpersonal skills",
+    "Proven experience achieving sales and service targets",
+    "Experience coaching, developing, and managing teams"
+  ]
 }
+
+
+
+
 
 
 
