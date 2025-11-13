@@ -12409,4 +12409,878 @@
       "closing_note": "Ideal for candidates seeking to shape the digital and administrative operations of a growing wholesale business."
     }
   }
+  ,
+  {
+  "job_title": "Lead, Software Development",
+  "company": "Neo Financial",
+  "overview": {
+    "education": "Not specified",
+    "experience": "2+ years as a Manager or Technical Lead with hands-on software engineering experience",
+    "skills": [
+      "Agile methodologies",
+      "Software development leadership",
+      "Code review and architecture design",
+      "Team mentoring and coaching",
+      "Project management",
+      "Communication and collaboration",
+      "Performance management",
+      "Scalable system design"
+    ],
+    "languages": [],
+    "certifications": [],
+    "relocation": "Relocation support available for candidates moving to Calgary, AB"
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "job_type": "Full-time",
+    "pay": "Not disclosed",
+    "work_mode": "Primarily in-person collaboration across Calgary, Winnipeg, and Toronto offices",
+    "company_overview": "Neo Financial is a leading Canadian fintech company on a mission to build a more rewarding financial future for all Canadians. Since 2019, Neo has grown rapidly, earning multiple #1 rankings on Deloitte’s Technology Fast 50 and Globe & Mail’s Fastest Growing Companies lists. With over 1 million customers and 10,000 retail partners, Neo develops innovative financial products and digital banking solutions."
+  },
+  "responsibilities": [
+    "Lead, mentor, and develop a high-performing software engineering team to achieve technical excellence and business goals.",
+    "Set and uphold high technical standards through hands-on coding, design reviews, and architectural guidance.",
+    "Drive product roadmap execution and balance build-vs-buy decisions for optimal results.",
+    "Enhance and streamline agile processes, feedback loops, and outcome-driven workflows.",
+    "Collaborate with Product Managers to align technical priorities with business objectives.",
+    "Recruit, onboard, and grow top engineering talent while fostering a strong, innovative team culture.",
+    "Champion continuous improvement and ensure the timely delivery of scalable, high-quality software."
+  ],
+  "requirements": {
+    "experience_required": "Minimum 2 years as a Software Manager or Technical Lead, plus significant hands-on development experience.",
+    "skills_required": [
+      "Strong technical and leadership capabilities.",
+      "Expertise in agile and performance management practices.",
+      "Ability to communicate technical concepts clearly to diverse audiences.",
+      "Experience in designing and building scalable, resilient systems.",
+      "Proactive and pragmatic problem-solving mindset."
+    ],
+    "personal_traits": [
+      "Strong communicator and team motivator.",
+      "Thrives in a fast-paced startup environment.",
+      "Resourceful and growth-oriented with a drive to innovate."
+    ]
+  },
+  "health_benefits": [],
+  "additional_benefits": [
+    "Stock options (meaningful equity ownership)",
+    "Collaborative and innovative work environment",
+    "Opportunities for professional growth",
+    "Relocation support (if applicable)"
+  ],
+  "how_to_apply": {
+    "application_method": "Apply online through Neo Financial’s career portal.",
+    "requirements": [
+      "Applicants must undergo a security screening including a criminal record and credit check.",
+      "Agreement to the Candidate Privacy Notice during application."
+    ],
+    "equal_opportunity": "Neo Financial is an equal opportunity employer committed to creating an inclusive environment where everyone can thrive."
+  }
+},
+{
+  "job_title": "Intermediate Front-End Developer",
+  "company": "Tiller Digital",
+  "overview": {
+    "education": "Not specified",
+    "experience": "5+ years of professional experience as a Front-End Developer",
+    "skills": [
+      "Custom WordPress development",
+      "HTML, CSS, JavaScript",
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Advanced Custom Fields (ACF)",
+      "WooCommerce",
+      "Gravity Forms",
+      "Yoast SEO",
+      "REST API integration",
+      "Performance optimization",
+      "Accessibility (A11y)",
+      "Cross-browser compatibility",
+      "Debugging and troubleshooting",
+      "Version control (Git)",
+      "Figma-to-code translation"
+    ],
+    "tools_and_frameworks": [
+      "WordPress",
+      "React",
+      "Vue.js",
+      "Next.js",
+      "Node.js",
+      "Express",
+      "Material UI",
+      "Bootstrap"
+    ],
+    "work_environment": "Hybrid work model – in-office Monday, Tuesday, and Friday; optional remote work on Wednesday and Thursday"
+  },
+  "job_details": {
+    "location": "Calgary, AB (Hybrid)",
+    "job_type": "Full-time, Permanent",
+    "work_schedule": "8:00 AM – 4:30 PM",
+    "company_overview": "Tiller Digital is a Calgary-based creative and technology agency of about 30 professionals specializing in digital strategy, design, and development. The company values collaboration, accountability, and curiosity, fostering a supportive and high-performance culture.",
+    "responsibilities": [
+      "Collaborate with project managers, designers, and developers to deliver high-quality websites and web applications.",
+      "Develop custom WordPress themes and plugins from scratch using ACF, Gutenberg blocks, and REST APIs.",
+      "Build scalable, high-performance websites using modern frameworks such as React, Next.js, and Tailwind CSS.",
+      "Ensure pixel-perfect, responsive design implementation from Figma files.",
+      "Optimize websites for SEO, speed, accessibility, and performance.",
+      "Write clean, reusable, and well-documented code following QA best practices.",
+      "Troubleshoot and debug technical issues proactively.",
+      "Research and adopt emerging technologies to enhance internal standards and innovation.",
+      "Manage multiple client projects efficiently in a fast-paced agency environment."
+    ]
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Expert-level WordPress development (custom themes and plugins)",
+      "Strong proficiency in HTML, CSS, and JavaScript",
+      "Experience with ACF, WooCommerce, and other WordPress tools",
+      "Ability to optimize for performance, security, and scalability",
+      "Familiarity with modern JS frameworks (React, Vue, Next.js) and design systems (Tailwind, Material UI, Bootstrap)"
+    ],
+    "soft_skills": [
+      "Excellent communication and collaboration skills",
+      "Strong problem-solving mindset",
+      "Attention to detail and code quality",
+      "Ability to manage multiple projects efficiently",
+      "Proactive and self-motivated attitude"
+    ],
+    "success_criteria": [
+      "Delivers optimized, high-quality websites with minimal rework",
+      "Proactively identifies and solves issues",
+      "Writes maintainable, efficient, and well-documented code",
+      "Communicates clearly with team members and clients",
+      "Stays updated with emerging web technologies"
+    ]
+  },
+  "health_benefits": [
+    "Health and dental coverage (premiums shared 50/50)",
+    "Long-term disability insurance (employee-paid)",
+    "Life and critical illness insurance",
+    "Emergency travel medical coverage",
+    "Employee and Family Assistance Program"
+  ],
+  "additional_benefits": [
+    "Group RRSP and TFSA investment savings plan with financial advisor access",
+    "Performance-based bonus structure",
+    "Annual compensation review based on market data",
+    "Free parking, gym access, and ergonomic sit-stand desks",
+    "MacBook and tech-equipped workstations",
+    "Beautiful SW Calgary office with stocked kitchen cafes"
+  ],
+  "how_to_apply": {
+    "application_method": "Apply online through Tiller Digital’s career page or job portal.",
+    "requirements": [
+      "Must be eligible to work in Canada.",
+      "Onsite presence required 3 days per week (Mon, Tue, Fri)."
+    ],
+    "equal_opportunity": "Tiller Digital celebrates diversity and is committed to fostering an inclusive, collaborative environment for all employees."
+  }
+}
+,
+{
+  "job_title": "HR Specialist",
+  "company": "Westerkirk Capital Inc.",
+  "overview": {
+    "education": "Diploma or degree in Human Resources, Business Administration, or a related field; CPHR designation (or working toward it) is an asset.",
+    "experience": "5+ years of hands-on HR experience in various organizations.",
+    "skills": [
+      "Recruitment and onboarding",
+      "Performance management",
+      "Compensation and benefits administration",
+      "Employee relations and compliance",
+      "HR policy development",
+      "Employee engagement and retention",
+      "HR reporting and analytics",
+      "Training and succession planning",
+      "Strong understanding of Provincial and Canadian employment laws",
+      "Microsoft Office Suite (Word, Excel, SharePoint, Teams)",
+      "HRIS systems proficiency",
+      "Excellent communication and organizational skills"
+    ],
+    "work_environment": "On-site role supporting a collaborative, inclusive, and high-performance culture across multiple business units."
+  },
+  "job_details": {
+    "location": "Victoria, British Columbia, Canada (On-site)",
+    "job_type": "Full-time, Permanent",
+    "work_schedule": "40 hours per week",
+    "salary_range": "$60,000 – $75,000 per year (based on experience and qualifications)",
+    "company_overview": "Westerkirk Capital Inc. (WCI) is a private investment company based in Victoria, BC. It manages assets through internal and external managers across multiple portfolios and asset classes, including fixed income, public and private equity, hedge funds, infrastructure, and real estate. The company promotes collaboration, inclusion, and high performance within a dynamic workplace."
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Comprehensive understanding of HR operations and legislative compliance",
+      "Experience in full-cycle recruitment and onboarding processes",
+      "Knowledge of compensation, benefits, and performance management programs",
+      "Ability to manage HRIS systems and maintain accurate employee data",
+      "Proficiency in Microsoft Office and SharePoint"
+    ],
+    "soft_skills": [
+      "Excellent interpersonal and communication skills",
+      "Strong organizational and multitasking abilities",
+      "Professional and approachable demeanor",
+      "Strategic and analytical thinking",
+      "Commitment to confidentiality and employee service excellence"
+    ],
+    "success_criteria": [
+      "Ensures smooth execution of HR processes across departments",
+      "Maintains up-to-date HR records and compliance with legislation",
+      "Supports a positive, inclusive, and engaging workplace culture",
+      "Provides timely and accurate HR insights to leadership",
+      "Contributes to continuous improvement in HR programs and initiatives"
+    ]
+  },
+  "health_benefits": [
+    "Extended health care coverage",
+    "Dental care plan",
+    "RRSP matching program",
+    "Company-provided parking in the downtown area",
+    "WorkPerks membership program"
+  ],
+  "additional_benefits": [
+    "Inclusive and diverse work environment",
+    "Opportunities for professional growth and development",
+    "Supportive leadership and collaborative team culture"
+  ],
+  "how_to_apply": {
+    "application_method": "Apply through Westerkirk Capital’s official careers page or job posting platform.",
+    "requirements": [
+      "Applicants must be legally eligible to work in Canada.",
+      "Accommodations are available upon request throughout the recruitment process."
+    ],
+    "equal_opportunity": "Westerkirk Capital Inc. is an equal opportunity employer and encourages applications from women, Indigenous peoples, persons with disabilities, and members of visible minorities. The company is committed to providing accommodation during the recruitment process upon request."
+  }
+},
+{
+  "job_title": "Human Resources & Office Coordinator",
+  "company": "Aurora Furniture Manufacturing Ltd.",
+  "overview": {
+    "education": "Diploma or higher in Human Resources, Business Administration, or a related field.",
+    "experience": "2–3 years of HR experience, preferably in a manufacturing or multi-site environment. Supervisory experience gained abroad is also accepted.",
+    "skills": [
+      "Recruitment and onboarding",
+      "Performance management support",
+      "Employee relations and engagement",
+      "Benefits administration and payroll assistance",
+      "Policy compliance and reporting",
+      "Training coordination",
+      "Office administration and vendor management",
+      "Event and meeting coordination",
+      "Strong organizational and problem-solving abilities",
+      "Proficiency in Microsoft Office Suite and Google Workspace",
+      "Excellent communication and interpersonal skills",
+      "Discretion and confidentiality in handling sensitive information"
+    ],
+    "work_environment": "On-site position based in Calgary, AB, with remote support responsibilities for teams in British Columbia and Ontario within a collaborative and team-oriented environment."
+  },
+  "job_details": {
+    "location": "3636 11A Street SE, Calgary, AB T2G 3H3",
+    "job_type": "Full-time, Permanent",
+    "salary_range": "$50,000–$65,000 per year (negotiable based on experience)",
+    "company_overview": "Aurora Furniture Manufacturing Ltd. is a recognized leader in the leather furniture manufacturing industry and part of the Amax Group of Companies. The organization is dedicated to innovation, quality, and a positive, collaborative workplace culture across its operations in Calgary, British Columbia, and Ontario.",
+    "reporting_to": "Chief Financial Officer (CFO)"
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Knowledge of HR best practices and compliance regulations",
+      "Experience managing HR processes in a multi-site or manufacturing setting",
+      "Familiarity with recruitment, onboarding, and performance review systems",
+      "Proficiency in HR documentation, record-keeping, and reporting",
+      "Ability to manage office operations and administrative logistics"
+    ],
+    "soft_skills": [
+      "Strong interpersonal and communication abilities",
+      "Excellent organizational and multitasking skills",
+      "Attention to detail and accuracy",
+      "Ability to handle confidential matters with discretion",
+      "Collaborative and proactive approach to problem-solving"
+    ],
+    "success_criteria": [
+      "Ensures seamless HR and administrative operations across multiple sites",
+      "Maintains compliance with company policies and labor laws",
+      "Supports employee engagement and a positive workplace culture",
+      "Effectively manages office logistics and communication flow",
+      "Provides timely and accurate HR reporting and documentation"
+    ]
+  },
+  "health_benefits": [
+    "Extended health care coverage"
+  ],
+  "additional_benefits": [
+    "Participation in company events and employee engagement activities",
+    "Opportunities for professional growth and career advancement",
+    "Supportive and team-oriented work culture"
+  ],
+  "how_to_apply": {
+    "application_method": "Apply directly through Aurora Furniture Manufacturing Ltd.’s official job posting or careers page.",
+    "requirements": [
+      "Applicants must be legally eligible to work in Canada.",
+      "Preference for candidates with HR experience in manufacturing or multi-site environments."
+    ],
+    "equal_opportunity": "Aurora Furniture Manufacturing Ltd. is an equal opportunity employer committed to fostering an inclusive and respectful workplace. All qualified applicants will be considered without regard to gender, ethnicity, disability, or background."
+  }
+},
+{
+  "job_title": "Intermediate HR Consultant",
+  "company": "A&A Business Consulting",
+  "overview": {
+    "education": "CPHR designation, degree, or certificate in Human Resources (preferred but not mandatory).",
+    "experience": "10+ years of progressive HR experience, with at least 5 years as an HR Business Partner supporting multiple clients or complex organizations.",
+    "skills": [
+      "Employee relations and investigations",
+      "Performance management and documentation",
+      "Policy development and compliance",
+      "Recruitment and onboarding support",
+      "HR metrics and reporting",
+      "Culture audits and engagement surveys",
+      "Training and development facilitation",
+      "Project and time management",
+      "Strong communication and influencing abilities",
+      "Critical thinking and problem-solving",
+      "Tech-savvy with Microsoft Teams and SharePoint"
+    ],
+    "work_environment": "Hybrid – primarily remote with occasional in-person meetings or projects (~10% of the time). Calgary or Vancouver-based candidates preferred."
+  },
+  "job_details": {
+    "location": "Calgary, AB (Hybrid)",
+    "job_type": "Part-time (15–20 hours per week)",
+    "pay_rate": "$50–$55 per hour (based on experience)",
+    "work_schedule": "Monday–Thursday: 8:30 AM – 4:30 PM MT, Friday: 8:30 AM – 12:30 PM MT (at least 75% of hours during core business hours)",
+    "company_overview": "Amanda & Amber Business Consulting is a boutique HR firm serving small and medium-sized organizations across Canada. Founded by women, the company emphasizes work-life harmony, community involvement, and a client-centered approach to HR consulting.",
+    "reporting_structure": "Reports to the Leadership Team at A&A Business Consulting, collaborating with clients and internal consultants across Canada."
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Strong understanding of employment legislation across multiple Canadian provinces and territories",
+      "Proven experience managing HR operations, including investigations, compliance, and employee relations",
+      "Proficiency with Microsoft Office, Teams, SharePoint, and collaborative tools",
+      "Experience conducting culture audits, engagement initiatives, and HR analytics",
+      "Knowledge of HR best practices and documentation standards"
+    ],
+    "soft_skills": [
+      "Excellent communication and interpersonal abilities",
+      "Ability to build trust and maintain professional relationships with clients",
+      "Independent worker with strong time management skills",
+      "Detail-oriented and organized under multiple priorities",
+      "Empathetic and discreet handling of sensitive matters"
+    ],
+    "success_criteria": [
+      "Provides timely, high-quality HR support to multiple clients",
+      "Maintains strong client relationships with proactive communication",
+      "Delivers strategic HR insights aligned with client goals",
+      "Upholds confidentiality, compliance, and professionalism in all HR matters",
+      "Balances multiple projects efficiently while maintaining service excellence"
+    ]
+  },
+  "health_benefits": [
+    "Health spending account (available for employees working 20+ hours/week)"
+  ],
+  "additional_benefits": [
+    "Flexible work schedule and hybrid work environment",
+    "Eligibility for performance-based bonuses",
+    "Learning and development budget for all regular staff",
+    "Opportunities for professional growth and consulting exposure",
+    "Company commitment to community support and purpose-driven projects"
+  ],
+  "how_to_apply": {
+    "application_method": "Apply directly through A&A Business Consulting’s official careers page or job posting platform.",
+    "requirements": [
+      "Must be eligible to work in Canada.",
+      "Availability for part-time consulting (15–20 hours per week).",
+      "Ability to attend in-person meetings or projects in Calgary or Vancouver as needed."
+    ],
+    "equal_opportunity": "A&A Business Consulting is an equal opportunity employer that values diversity, inclusion, and equity. All qualified candidates are encouraged to apply regardless of background or identity."
+  }
+},
+{
+  "job_title": "Reception + Retail Associates",
+  "company": "Tommy Gun's Original Barbershop",
+  "overview": {
+    "education": "Not specified",
+    "experience": "Experience in customer service or retail preferred; prior experience in a salon, barbershop, or spa is an asset.",
+    "skills": [
+      "Exceptional customer service",
+      "Time management",
+      "Multitasking in a fast-paced environment",
+      "Written and verbal communication",
+      "Phone and email handling",
+      "Queue management",
+      "Visual merchandising",
+      "Product inventory management",
+      "Team collaboration",
+      "Friendly and outgoing personality"
+    ],
+    "work_environment": "Fun, fast-paced, and positive atmosphere in a clean and safe barbershop environment with supportive company culture."
+  },
+  "job_details": {
+    "location": "Beacon Hill, Calgary, AB",
+    "job_type": "Part-time",
+    "pay_rate": "From $16 per hour",
+    "work_schedule": "10–15 hours weekly; flexible availability including weekdays, weekends, and evening shifts",
+    "company_overview": "Tommy Gun’s Original Barbershop is a modern grooming destination providing exceptional barbering and customer experiences. The company emphasizes professionalism, positivity, and a team-driven culture focused on client satisfaction and growth.",
+    "responsibilities": [
+      "Greet clients warmly and ensure a welcoming environment upon arrival.",
+      "Deliver outstanding customer service to every guest throughout their visit.",
+      "Manage service queues, phone calls, and appointment bookings efficiently.",
+      "Respond to customer inquiries via email and phone with professionalism.",
+      "Assist with retail operations including visual merchandising and inventory management.",
+      "Maintain cleanliness and organization of the reception and retail areas.",
+      "Support the barbering team with guest coordination and client communication.",
+      "Promote and educate customers on product offerings and sales promotions.",
+      "Contribute to maintaining a positive, team-oriented work environment."
+    ]
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Proficiency in handling customer interactions and appointment systems",
+      "Familiarity with POS systems and retail operations (asset)",
+      "Understanding of visual merchandising techniques",
+      "Basic knowledge of product inventory control"
+    ],
+    "soft_skills": [
+      "Excellent communication and interpersonal abilities",
+      "Strong time management and multitasking skills",
+      "Positive attitude with an outgoing personality",
+      "Ability to thrive in a busy, team-oriented environment",
+      "Professionalism and attention to detail"
+    ],
+    "success_criteria": [
+      "Provides friendly and efficient service to all clients",
+      "Maintains accurate retail inventory and organized workspace",
+      "Handles customer communications with clarity and positivity",
+      "Supports smooth daily shop operations",
+      "Upholds the Tommy Gun’s service and brand standards consistently"
+    ]
+  },
+  "health_benefits": [],
+  "additional_benefits": [
+    "Clean, safe, and positive work environment",
+    "Staff discount on a large selection of products",
+    "Opportunities for career growth and advancement",
+    "Supportive and friendly team culture",
+    "Engagement with appreciative and loyal clientele"
+  ],
+  "how_to_apply": {
+    "application_method": "Apply directly through Tommy Gun’s career page or via the official website at https://ca.tommyguns.com/.",
+    "requirements": [
+      "Must have flexible availability including evenings and weekends.",
+      "Must be eligible to work in Canada."
+    ],
+    "equal_opportunity": "Tommy Gun’s Original Barbershop is an equal opportunity employer that values diversity and encourages applicants from all backgrounds to apply."
+  }
+}
+,
+{
+  "job_title": "Administrative Assistant",
+  "company": "D & D Commercial Roofing LTD",
+  "overview": {
+    "education": "Not specified; post-secondary education in business administration or office management is considered an asset.",
+    "experience": "Proven experience in an administrative role, preferably within a construction or office environment.",
+    "skills": [
+      "Organizational skills",
+      "Microsoft Office (Word, Excel, PowerPoint)",
+      "QuickBooks (preferred)",
+      "Data entry",
+      "Google Workspace",
+      "Customer service",
+      "Bookkeeping (basic knowledge)",
+      "Document proofreading",
+      "Multitasking and time management",
+      "Phone etiquette"
+    ],
+    "work_environment": "Office-based position in Calgary, AB, providing administrative and clerical support to staff and management in a construction company setting."
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "job_type": "Full-time",
+    "pay_rate": "$35,000–$50,000 per year",
+    "company_overview": "D & D Commercial Roofing LTD is a professional roofing company offering commercial roofing services. The company values precision, reliability, and strong administrative support to maintain operational efficiency.",
+    "responsibilities": [
+      "Perform accurate data entry and record keeping using QuickBooks and Microsoft Office applications.",
+      "Manage front desk duties including greeting visitors and handling phone calls professionally.",
+      "Provide excellent customer service by responding promptly to client inquiries.",
+      "Organize and maintain physical and digital filing systems for office records.",
+      "Assist in bookkeeping and ensure financial records remain up-to-date.",
+      "Proofread company documents for clarity and accuracy before distribution.",
+      "Collaborate with team members to improve administrative workflows and office efficiency.",
+      "Utilize Google Workspace for internal communication and document sharing.",
+      "Support office operations by managing appointments, correspondence, and clerical tasks."
+    ]
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint)",
+      "Knowledge of QuickBooks (preferred)",
+      "Experience with Google Workspace for document management",
+      "Ability to manage phone systems and digital filing",
+      "Understanding of basic bookkeeping principles"
+    ],
+    "soft_skills": [
+      "Strong organizational and multitasking abilities",
+      "Excellent written and verbal communication skills",
+      "Attention to detail and accuracy",
+      "Professionalism in customer and team interactions",
+      "Time management and problem-solving abilities"
+    ],
+    "success_criteria": [
+      "Maintains accurate administrative and financial records",
+      "Provides reliable customer and staff support",
+      "Ensures smooth daily office operations",
+      "Improves organizational efficiency and workflow",
+      "Upholds company standards of professionalism and service"
+    ]
+  },
+  "health_benefits": [
+    "Dental care",
+    "Extended health care"
+  ],
+  "additional_benefits": [
+    "Collaborative and supportive office environment",
+    "Opportunity to work with an established commercial roofing company",
+    "Stable full-time employment with competitive salary range"
+  ],
+  "how_to_apply": {
+    "application_method": "Apply directly through the company or via the job posting platform where the listing appears.",
+    "requirements": [
+      "Must have prior administrative experience.",
+      "Proficiency with Microsoft Office is required.",
+      "Experience in QuickBooks or construction industry administration is preferred."
+    ],
+    "equal_opportunity": "D & D Commercial Roofing LTD is an equal opportunity employer and welcomes applicants from diverse backgrounds to apply."
+  }
+}
+,
+{
+  "job_title": "Reception/Administrative Assistant",
+  "company": "Leading Edge Physiotherapy",
+  "overview": {
+    "education": "Diploma or Certification in Business Administration is an asset but not required; training will be provided to the right candidate.",
+    "experience": "Previous experience in customer service or administrative roles preferred. Experience as a server is considered highly valuable.",
+    "skills": [
+      "Organizational skills",
+      "Customer service",
+      "Filing and document management",
+      "Communication and interpersonal skills",
+      "Time management",
+      "Attention to detail",
+      "Billing and payment processing",
+      "Computer and scanning proficiency",
+      "Multitasking under pressure"
+    ],
+    "work_environment": "On-site role at the Glenmore location in Calgary, AB, within a fast-paced, patient-focused physiotherapy clinic. The position involves front desk reception duties, administrative tasks, and patient service responsibilities."
+  },
+  "job_details": {
+    "location": "1600 90th Avenue SW, Calgary, AB T2V 5A8",
+    "job_type": "Permanent, Full-time",
+    "pay_rate": "$15.75–$16.75 per hour (based on experience)",
+    "shift_schedule": "Monday to Friday, evening shifts",
+    "company_overview": "Leading Edge Physiotherapy is a patient-centered healthcare provider dedicated to improving lives through expert physiotherapy care, advanced technology, and compassionate service. The clinic fosters a supportive, energetic, and community-driven work environment.",
+    "responsibilities": [
+      "Answer and manage phone calls efficiently and professionally.",
+      "Book patient appointments and maintain scheduling accuracy.",
+      "Handle billing, process payments, and manage third-party insurance claims.",
+      "Maintain accurate patient files, including filing, scanning, and report management.",
+      "Ensure a clean and organized front desk and reception area.",
+      "Assist in physiotherapy-related administrative and assistant tasks.",
+      "Adhere to all company policies and ensure patient care remains a top priority.",
+      "Participate in community involvement programs and charitable events.",
+      "Demonstrate leadership and teamwork in daily clinic operations."
+    ]
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Proficiency in handling billing and payment systems.",
+      "Basic computer literacy for data entry and document management.",
+      "Knowledge of administrative protocols and office organization.",
+      "Experience managing patient files and third-party billing systems (an asset)."
+    ],
+    "soft_skills": [
+      "Strong organizational and multitasking abilities.",
+      "Excellent communication and interpersonal skills.",
+      "High attention to detail and accuracy.",
+      "Customer service orientation with a caring approach.",
+      "Ability to thrive in fast-paced, dynamic environments."
+    ],
+    "success_criteria": [
+      "Ensures smooth front desk operations and accurate scheduling.",
+      "Delivers excellent customer service to patients and visitors.",
+      "Maintains accuracy in billing and administrative documentation.",
+      "Contributes positively to the clinic’s culture and community involvement.",
+      "Demonstrates reliability, professionalism, and teamwork."
+    ]
+  },
+  "health_benefits": [],
+  "additional_benefits": [
+    "Training and mentoring opportunities for career growth.",
+    "Positive, fun-loving, and team-oriented workplace culture.",
+    "Opportunities to participate in community and charitable initiatives.",
+    "Room for advancement within the organization."
+  ],
+  "how_to_apply": {
+    "application_method": "Submit your application directly through the job posting platform or contact the clinic at Leading Edge Physiotherapy’s Glenmore location.",
+    "requirements": [
+      "Must be available for Monday to Friday evening shifts.",
+      "No summer student applicants accepted.",
+      "Customer service or administrative experience preferred."
+    ],
+    "equal_opportunity": "Leading Edge Physiotherapy is an equal opportunity employer committed to fostering an inclusive, welcoming environment for all employees and applicants."
+  }
+},
+{
+  "job_title": "Office Administrator",
+  "company": "Simple Solar Ltd",
+  "overview": {
+    "education": "Post-secondary education in a relevant field is required.",
+    "experience": "Previous experience in small business administration and familiarity with operations in a construction contracting business are preferred.",
+    "skills": [
+      "QuickBooks Online (required)",
+      "Microsoft 365 proficiency",
+      "General accounting principles",
+      "Office administration and organization",
+      "Communication (verbal and written)",
+      "Attention to detail",
+      "Time management",
+      "Procurement coordination"
+    ],
+    "work_environment": "In-person role at the SE Calgary office supporting solar installation projects. The environment is professional, collaborative, and sustainability-focused."
+  },
+  "job_details": {
+    "location": "Calgary, AB T2H 1L8",
+    "job_type": "Part-time",
+    "pay_rate": "From $23.00 per hour",
+    "expected_hours": "No less than 24 hours per week",
+    "company_overview": "Simple Solar Ltd is a Calgary-based company specializing in solar energy systems for residential and commercial clients across Southern Alberta. Established in 2006, the company is COR safety and NABCEP solar certified, dedicated to advancing clean and sustainable energy solutions.",
+    "responsibilities": [
+      "Provide administrative support to all departments.",
+      "Utilize QuickBooks Online for bookkeeping, invoicing, and financial reporting.",
+      "Perform general reception duties, including handling phone calls and visitors.",
+      "Manage both physical and electronic filing systems to ensure accessibility and organization.",
+      "Coordinate shipping pick-ups and deliveries.",
+      "Procure materials and supplies as needed.",
+      "Support the accounting team with expense tracking and general office management tasks."
+    ]
+  },
+  "requirements": {
+    "technical_expertise": [
+      "Proficiency with QuickBooks Online and Microsoft 365 applications.",
+      "Understanding of general accounting principles and bookkeeping processes.",
+      "Experience managing office operations and administrative systems.",
+      "Ability to maintain accurate records and handle financial documentation."
+    ],
+    "soft_skills": [
+      "Strong organizational and time management abilities.",
+      "Effective communication skills (written and verbal).",
+      "High attention to detail and accuracy.",
+      "Ability to work independently with minimal supervision.",
+      "Reliability, honesty, and a strong work ethic."
+    ],
+    "success_criteria": [
+      "Maintains accurate and organized administrative and financial records.",
+      "Provides seamless support to internal departments and external partners.",
+      "Demonstrates initiative in handling office operations efficiently.",
+      "Supports the company’s sustainability goals and operational excellence."
+    ]
+  },
+  "health_benefits": [],
+  "additional_benefits": [
+    "Positive and collaborative work environment.",
+    "Career growth opportunities in a fast-growing clean energy company.",
+    "Meaningful contribution to the clean energy transition."
+  ],
+  "how_to_apply": {
+    "application_method": "Submit your resume and cover letter directly through the job posting platform or contact Simple Solar Ltd’s Calgary office.",
+    "requirements": [
+      "Must have post-secondary education and QuickBooks experience.",
+      "Availability for part-time in-person work in SE Calgary (minimum 24 hours per week)."
+    ],
+    "equal_opportunity": "Simple Solar Ltd is an equal opportunity employer committed to creating a diverse, inclusive, and sustainable workplace."
+  }
+}
+,
+{
+  "job_title": "Executive Assistant - Business Development & Marketing",
+  "company": "Alberta Petroleum Marketing Commission",
+  "overview": {
+    "education": "Advanced education in Business Administration diploma or degree (asset)",
+    "experience": "Minimum 5–7 years of experience supporting C-Suite Executives; familiarity with Business Development & Marketing preferred",
+    "skills": [
+      "Microsoft Office Suite (Excel, Word, Visio, PowerPoint, Outlook, SharePoint)",
+      "Time management and organization",
+      "Written and verbal communication",
+      "Interpersonal relationship management",
+      "Discretion and confidentiality",
+      "Project coordination",
+      "Calendar and scheduling management"
+    ],
+    "certifications": [
+      "First Aid Certification (preferred)"
+    ]
+  },
+  "job_details": {
+    "location": "250 5th Street SW, Calgary, AB T2P 0R4",
+    "job_type": "Full-time",
+    "shift_and_schedule": [
+      "Standard business hours",
+      "Overtime as required"
+    ],
+    "reporting_to": [
+      "Chief of Staff",
+      "Vice President, Business Development & Marketing"
+    ],
+    "responsibilities": [
+      "Strategically manage the VP’s calendar, prioritize scheduling, and plan for key events and meetings",
+      "Prepare and organize meeting materials, agendas, minutes, and briefing notes",
+      "Maintain work plans for key deliverables and ensure timely completion of action items",
+      "Coordinate administrative support for the Business Development & Marketing team, including performance tracking, goal setting, and documentation",
+      "Assist in creating presentations, reports, and research materials",
+      "Manage confidential and sensitive information with professionalism",
+      "Support coordination of recruitment, onboarding, and HR-related activities for the BD & Marketing team",
+      "Reconcile and submit monthly expense reports for the VP in compliance with APMC policies",
+      "Plan and coordinate meetings, events, and travel logistics for internal and external stakeholders",
+      "Provide administrative leadership support for the VP and collaborate with executive teams",
+      "Undertake special projects and research assignments under the direction of the Chief of Staff",
+      "Ensure proper file management and adherence to document retention policies",
+      "Coordinate first aid and fire warden duties and ensure proper certifications within the team"
+    ]
+  },
+  "personal_suitability": [
+    "Strong attention to detail and organizational skills",
+    "Calm and professional demeanor under pressure",
+    "Proactive and adaptable with changing priorities",
+    "Team-oriented with strong collaboration skills",
+    "High level of integrity and discretion",
+    "Excellent written and verbal communication",
+    "Ability to manage multiple priorities efficiently"
+  ],
+  "benefits": [
+    "Professional and collaborative work environment",
+    "Opportunities for learning and career development",
+    "Work with senior executives and leadership teams",
+    "Potential overtime compensation"
+  ]
+}
+,
+{
+  "job_title": "Executive Assistant",
+  "company": "WalterFedy",
+  "overview": {
+    "education": "Not specified (post-secondary education in business administration or related field is typically preferred)",
+    "experience": "Significant executive support experience; experience supporting senior leaders or executives preferred",
+    "skills": [
+      "Microsoft Office proficiency (Word, Excel, PowerPoint, Outlook)",
+      "Presentation design and editing",
+      "Communication and interpersonal skills",
+      "Organizational and time management skills",
+      "Event and meeting coordination",
+      "Discretion and confidentiality",
+      "Judgment and prioritization",
+      "Project management and multitasking"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "job_type": "Permanent, Full-time",
+    "responsibilities": [
+      "Provide high-level executive support to Business Unit Leaders and senior leadership team",
+      "Manage complex calendars, prioritize requests, and ensure smooth scheduling of meetings and events",
+      "Arrange and coordinate logistics for meetings, including drafting agendas, creating presentation materials, and recording minutes",
+      "Assist with special projects, event planning, and preparation of complex reports and documents",
+      "Collect and prepare information for meetings with staff and external partners",
+      "Compose correspondence and maintain contact lists",
+      "Make travel arrangements and handle related logistics",
+      "Maintain confidentiality while handling sensitive business and personnel information",
+      "Anticipate the needs of senior leaders and ensure proactive follow-up on key commitments",
+      "Assist in developing and managing presentation materials with a focus on clarity and design quality"
+    ],
+    "shift_and_schedule": [
+      "Standard business hours",
+      "Flexibility for occasional after-hours or urgent support needs"
+    ]
+  },
+  "personal_suitability": [
+    "Exceptional attention to detail and accuracy",
+    "Strong customer service mindset with a positive attitude",
+    "Professional and polished communication style",
+    "Ability to thrive in a fast-paced, dynamic environment",
+    "Proactive and self-directed work ethic",
+    "High integrity and discretion with confidential matters",
+    "Strong sense of judgment and prioritization",
+    "Commitment to diversity, equity, and inclusion principles"
+  ],
+  "benefits": [
+    "Inclusive and diverse work culture",
+    "Opportunities for professional growth and development",
+    "Collaboration with industry-leading professionals",
+    "Chance to contribute to community-enhancing projects"
+  ],
+  "how_to_apply": {
+    "instructions": "Apply with your resume using the link provided on the job posting page; applicants will be redirected to the internal application platform.",
+    "contact": "For accommodation requests, contact hr@walterfedy.com or call 519-576-2150"
+  }
+},
+{
+  "job_title": "Management Assistant",
+  "company": "Di Leone Group",
+  "overview": {
+    "education": "Professional or technical degree in Management, Administration, Accounting, Economics, or related fields",
+    "experience": "Minimum 2 years of experience as a Management Assistant (remote teamwork experience is a plus)",
+    "skills": [
+      "Microsoft Office (Excel, Word, Power BI)",
+      "QuickBooks (desirable)",
+      "Time management",
+      "Budget and cash flow management",
+      "Financial reporting and analysis",
+      "Leadership and communication",
+      "Team collaboration",
+      "Problem-solving and analytical thinking",
+      "Virtual communication tools (Skype, MS Teams, WhatsApp)",
+      "Organization and multitasking"
+    ],
+    "languages": [
+      "English (required)",
+      "Spanish (bilingual preferred)"
+    ]
+  },
+  "job_details": {
+    "location": "Calgary, AB (Remote – open to candidates in Colombia, Ecuador, Mexico, Venezuela, and/or Peru with legal work status)",
+    "job_type": "Permanent, Full-time, Contractor (100% Remote)",
+    "responsibilities": [
+      "Plan, design, and manage accounting processes in compliance with regulations",
+      "Prepare and present financial reports and statements",
+      "Manage budgets and cash flow, including forecasts and foreign exchange risk",
+      "Oversee credit and collection management",
+      "Assist with billing, payroll, contracts, and supplier payments",
+      "Propose and implement improvements in management and financial processes",
+      "Collaborate with other departments to optimize business structures",
+      "Participate in scheduled company trainings",
+      "Report results and performance metrics to the steering committee",
+      "Maintain organized accounting books and records"
+    ],
+    "shift_and_schedule": [
+      "Full-time (remote schedule with flexibility)",
+      "Permanent position"
+    ],
+    "benefits": [
+      "Competitive annual salary (negotiable based on experience)",
+      "Vacation leave",
+      "Sick leave",
+      "Annual performance bonuses and prizes",
+      "Remote work opportunity",
+      "Professional development and feedback-based improvement"
+    ]
+  },
+  "personal_suitability": [
+    "Strong leadership and communication skills",
+    "Attention to detail and accuracy in reporting",
+    "Ability to prioritize and manage multiple tasks efficiently",
+    "Analytical and objective decision-making ability",
+    "Proactive and adaptable mindset",
+    "Empathetic and collaborative team player",
+    "Commitment to continuous learning and professional growth"
+  ],
+  "how_to_apply": {
+    "instructions": "Send your CV by email to jobs@dileonegroup.com with the subject line containing the job title 'Management Assistant'.",
+    "eligibility": "Valid only for nationals or foreigners legally authorized to work in Colombia, Ecuador, Mexico, Venezuela, and/or Peru."
+  }
+}
 ]
