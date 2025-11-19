@@ -9140,37 +9140,7 @@
     ],
     "why_cisco": "Cisco is a 40-year leader in networking, security, and AI-driven digital transformation."
   },
-  {
-    "job_title": "Painter",
-    "company": "NC Painting",
-    "overview": {
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "3 to less than 5 years",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB",
-      "pay": "$25 an hour",
-      "job_type": ["Permanent", "Full-time"],
-      "work_hours": "30 to 44 hours per week",
-      "work_setting": ["Various locations", "On-site customer service"],
-      "benefits": []
-    },
-    "responsibilities": [
-      "Prepare, clean and sand surfaces to be painted",
-      "Repair cracks and holes",
-      "Advise consumers on colours and choice of wall coverings",
-      "Apply paint, wallpaper and other materials and finishes to interior and exterior surfaces"
-    ],
-    "personal_suitability": ["Initiative", "Reliability", "Team player"],
-    "equipment_and_machinery_experience": [
-      "Brush painting",
-      "Conventional spray painting",
-      "Roller painting"
-    ],
-    "surface_preparation_experience": ["Drywall taping/patching"],
-    "transportation": "Own transportation required"
-  },
+
   {
     "job_title": "Administrative Assistant/Data Integrity Specialist",
     "company": "Enviros",
@@ -9210,53 +9180,7 @@
     ],
     "application_instructions": "Apply online only (no phone calls)"
   },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Bagolac Saigon Restaurant",
-    "overview": {
-      "education": "College/CEGEP diploma",
-      "experience": "2 to less than 3 years",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB T2A 0T2",
-      "pay": "$36 an hour",
-      "job_type": ["Permanent", "Part-time", "Full-time"],
-      "work_hours": "30 hours per week",
-      "work_setting": "Restaurant-based",
-      "benefits": []
-    },
-    "responsibilities": [
-      "Analyze budget to boost and maintain restaurant profits",
-      "Evaluate daily operations",
-      "Modify food preparation methods and menu prices as per budget",
-      "Plan and organize daily operations",
-      "Set staff work schedules",
-      "Train staff and conduct performance reviews",
-      "Ensure health and safety regulations are followed",
-      "Address customer complaints and concerns",
-      "Lead and instruct staff",
-      "Manage events",
-      "Authorize and organize establishment of departments and senior staff positions",
-      "Allocate resources to implement policies/programs",
-      "Establish objectives and approve policies/programs",
-      "Represent the organization in negotiations or official functions"
-    ],
-    "personal_suitability": [
-      "Excellent oral and written communication",
-      "Flexibility",
-      "Organized",
-      "Attention to detail"
-    ],
-    "supervision": {
-      "number_of_people": "5-10"
-    },
-    "work_conditions": [
-      "Fast-paced environment",
-      "Work under pressure",
-      "Tight deadlines"
-    ]
-  },
+
   {
     "job_title": "Activities Convenor - Emily's Backyard",
     "company": "Alberta Health Services",
@@ -9305,92 +9229,7 @@
       "Second language (including sign language)"
     ]
   },
-  {
-    "job_title": "Cleaning Supervisor",
-    "company": "JENVIC SERVICES LTD.",
-    "overview": {
-      "education": "Secondary (high) school graduation certificate",
-      "experience": "1 to less than 7 months",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB",
-      "pay": "$36 an hour",
-      "job_type": ["Permanent", "Full-time", "Part-time"],
-      "work_hours": "30 hours per week",
-      "work_setting": "On-site supervision and coordination",
-      "benefits": []
-    },
-    "responsibilities": [
-      "Hire and train or arrange training of cleaning staff",
-      "Supervise and co-ordinate activities of workers",
-      "Inspect sites or facilities to ensure safety and cleanliness standards",
-      "Prepare budget and cost estimates",
-      "Recommend or arrange for additional services such as painting, repairs, renovations, or replacement of furnishings and equipment",
-      "Maintain financial records",
-      "Receive payment for specialized cleaning jobs",
-      "Assist cleaners in performing duties",
-      "Co-ordinate work activities with other departments",
-      "Establish work schedules"
-    ],
-    "supervision": {
-      "number_of_people": "5-10"
-    },
-    "personal_suitability": [
-      "Organized",
-      "Leadership skills",
-      "Reliability",
-      "Team player"
-    ],
-    "work_conditions": [
-      "Supervision role",
-      "On-site coordination",
-      "Physical involvement in cleaning tasks when needed"
-    ]
-  },
-  {
-    "job_title": "Part-time Merchandiser",
-    "company": "Coca-Cola Canada Bottling Limited",
-    "overview": {
-      "education": "High school diploma or GED preferred",
-      "experience": "1 year in grocery, retail, warehousing or related field preferred",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB T2E 6T2",
-      "pay": "$22.34 an hour",
-      "job_type": ["Part-time"],
-      "work_hours": "20-30 hours per week (up to 40 during peak season)",
-      "work_setting": "Retail and backroom stock",
-      "benefits": [
-        "Mileage reimbursement",
-        "Inclusive and diverse workplace policies"
-      ]
-    },
-    "responsibilities": [
-      "Replenish products on racks, shelves, displays, and coolers",
-      "Transport product between backroom and sales floor",
-      "Build, change, and remove product displays while maintaining standards",
-      "Lift and move products up to 50 lbs repetitively",
-      "Organize and manage stock in the backroom",
-      "Process damaged/defective products and complete paperwork",
-      "Maintain cleanliness and safety compliance",
-      "Follow Coke Canada Bottling and store policies",
-      "Build and maintain professional relationships with co-workers and customers"
-    ],
-    "equipment_experience": [
-      "Manual pallet jack",
-      "Powered pallet jack",
-      "Hand-truck"
-    ],
-    "physical_requirements": [
-      "Repetitive lifting up to 50 lbs",
-      "Standing and walking for long periods",
-      "Kneeling, squatting, reaching overhead",
-      "Pushing/pulling product loads up to 100 yards"
-    ],
-    "vehicle_requirement": "Personal vehicle required; mileage reimbursed $0.62/km"
-  },
+
   {
     "job_title": "Senior Java Software Engineer Lead (CI/CD Team Lead)",
     "company": "Halliburton",
@@ -9435,82 +9274,8 @@
     ],
     "diversity_statement": "Halliburton is an Equal Opportunity Employer and prohibits discrimination based on protected characteristics."
   },
-  {
-    "job_title": "Bartender",
-    "company": "Concorde Entertainment Group – Bridgette Bar",
-    "overview": {
-      "education": "Not specified",
-      "experience": "Minimum 1 year cocktail bar experience",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "739 10 Avenue SW, Calgary, AB T2R 0B3",
-      "pay": "Competitive hourly wage + gratuities",
-      "job_type": ["Part-time (with option for full-time permanent)"],
-      "work_hours": "Overtime / flexible",
-      "work_setting": "Bar / hospitality",
-      "benefits": [
-        "Extended health care after 90 days for 28+ hours/week",
-        "25% company-wide food & beverage discount + local business discounts"
-      ]
-    },
-    "responsibilities": [
-      "Prepare, mix, pour, garnish, and serve alcoholic and non-alcoholic beverages",
-      "Follow all drink recipes and production principles",
-      "Provide excellent customer service to all guests",
-      "Build and maintain regular clientele",
-      "Maintain bar cleanliness and equipment",
-      "Assist in table service, product ordering, and inventory management",
-      "Comply with federal, provincial, and municipal health and labor regulations",
-      "Assist with overtime and operational duties as required"
-    ],
-    "personal_suitability": [
-      "Professionalism, control, and composure in stressful situations",
-      "Team player and adaptable to client/vendor personalities"
-    ],
-    "certifications_required": ["ProServe (Alberta)"]
-  },
-  {
-    "job_title": "Seasonal Pit Crew",
-    "company": "Speeders Calgary North",
-    "overview": {
-      "education": "Not specified",
-      "experience": "Not specified",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB T2E 8Z9",
-      "pay": "$15/hour",
-      "job_type": ["Part-time"],
-      "work_hours": "Weekends as needed, Day & Evening shifts",
-      "work_setting": "Outdoor racetrack",
-      "benefits": [
-        "Races added to account each pay period",
-        "Opportunities for growth"
-      ]
-    },
-    "responsibilities": [
-      "Assist customers in and out of go-karts",
-      "Assign karts and ensure customer safety",
-      "Perform opening and closing duties",
-      "Maintain orderly flow on the track",
-      "Instruct customers on kart usage, flags, and track safety",
-      "Respond to emergency situations",
-      "Perform facility cleaning and maintenance",
-      "Lift, push, or pull up to 50 lbs",
-      "Read and interpret daily checklists, safety rules, and instructions",
-      "Communicate effectively with groups of customers"
-    ],
-    "personal_suitability": [
-      "Energetic, dynamic, safety-conscious",
-      "Team player",
-      "Customer service oriented"
-    ],
-    "physical_requirements": [
-      "Ability to lift/push/pull up to 50 lbs",
-      "Ability to stand and move quickly for long periods"
-    ]
-  },
+ 
+ 
   {
     "job_title": "Marketing Coordinator",
     "company": "Mattali Drywall",
@@ -10171,112 +9936,8 @@
       "about_company": "Calgary Co-op, founded in 1956, is one of North America’s largest retail co-operatives with over 456,000 members and 3,530 employees. The organization operates food centres, pharmacies, gas stations, car washes, and liquor stores across Calgary and surrounding areas. Recognized with the Canadian Grocer’s 2024 Impact Award, Calgary Co-op is known for its commitment to sustainability, community support, and local sourcing."
     }
   },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Manohar Vegetarian Bakery",
-    "overview": {
-      "education": "Secondary (high) school graduation certificate or equivalent",
-      "experience": "1 year to less than 2 years of experience in restaurant or food service management",
-      "languages": ["English"],
-      "skills": [
-        "Restaurant operations management",
-        "Budgeting and cost control",
-        "Menu planning and food preparation oversight",
-        "Staff training and supervision",
-        "Supplier negotiation and procurement",
-        "Health and safety compliance",
-        "Revenue monitoring and labor cost management",
-        "Customer service and client relations"
-      ]
-    },
-    "job_details": {
-      "location": "Calgary, AB T3J 3J8",
-      "pay": "$35.50 per hour",
-      "job_type": ["Permanent", "Full-time"],
-      "hours_per_week": "30–35 hours per week",
-      "work_setting": "In-person, fast-paced restaurant environment"
-    },
-    "responsibilities": [
-      "Develop budgets to determine costs of food, ingredients, and supplies",
-      "Evaluate and improve daily restaurant operations",
-      "Modify food preparation methods and menu prices according to budget goals",
-      "Monitor revenues and labor costs to ensure profitability",
-      "Supervise and assess staff performance (5–10 employees)",
-      "Plan, organize, and oversee daily business operations",
-      "Train and motivate staff to deliver quality service",
-      "Ensure compliance with health and safety regulations",
-      "Negotiate with suppliers for food, beverages, and equipment",
-      "Coordinate catering or facility-use arrangements with clients"
-    ],
-    "personal_suitability": [
-      "Excellent oral communication",
-      "Flexibility and adaptability",
-      "Reliability and attention to detail",
-      "Ability to work under pressure in a fast-paced environment"
-    ],
-    "additional_information": {
-      "supervision": "Manages a team of 5–10 employees",
-      "work_conditions": [
-        "Fast-paced environment",
-        "Requires multitasking and quick decision-making"
-      ],
-      "language_of_work": "English",
-      "employment_duration": "Permanent, full-time position"
-    }
-  },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Manohar Vegetarian Bakery",
-    "overview": {
-      "education": "Secondary (high) school graduation certificate or equivalent",
-      "experience": "1 year to less than 2 years of experience in restaurant or food service management",
-      "languages": ["English"],
-      "skills": [
-        "Restaurant operations management",
-        "Budgeting and cost control",
-        "Menu planning and food preparation oversight",
-        "Staff training and supervision",
-        "Supplier negotiation and procurement",
-        "Health and safety compliance",
-        "Revenue monitoring and labor cost management",
-        "Customer service and client relations"
-      ]
-    },
-    "job_details": {
-      "location": "Calgary, AB T3J 3J8",
-      "pay": "$35.50 per hour",
-      "job_type": ["Permanent", "Full-time"],
-      "hours_per_week": "30–35 hours per week",
-      "work_setting": "In-person, fast-paced restaurant environment"
-    },
-    "responsibilities": [
-      "Develop budgets to determine costs of food, ingredients, and supplies",
-      "Evaluate and improve daily restaurant operations",
-      "Modify food preparation methods and menu prices according to budget goals",
-      "Monitor revenues and labor costs to ensure profitability",
-      "Supervise and assess staff performance (5–10 employees)",
-      "Plan, organize, and oversee daily business operations",
-      "Train and motivate staff to deliver quality service",
-      "Ensure compliance with health and safety regulations",
-      "Negotiate with suppliers for food, beverages, and equipment",
-      "Coordinate catering or facility-use arrangements with clients"
-    ],
-    "personal_suitability": [
-      "Excellent oral communication",
-      "Flexibility and adaptability",
-      "Reliability and attention to detail",
-      "Ability to work under pressure in a fast-paced environment"
-    ],
-    "additional_information": {
-      "supervision": "Manages a team of 5–10 employees",
-      "work_conditions": [
-        "Fast-paced environment",
-        "Requires multitasking and quick decision-making"
-      ],
-      "language_of_work": "English",
-      "employment_duration": "Permanent, full-time position"
-    }
-  },
+ 
+ 
   {
     "job_title": "Seasonal Greeter, Chinook Mall",
     "company": "Bell Canada",
@@ -10590,67 +10251,7 @@
       "company_background": "SECURE is a leading Waste Management and Energy Infrastructure company with operations across western Canada and North Dakota, including waste management facilities, pipeline operations, metals and mining, specialty chemicals, and energy infrastructure services."
     }
   },
-  {
-    "job_title": "Part-time Merchandiser",
-    "company": "Coca-Cola Canada Bottling Limited",
-    "overview": {
-      "education": "High school diploma or equivalent preferred",
-      "experience": "1 year experience in grocery, retail, warehousing or related field preferred; experience with manual or powered pallet jacks preferred",
-      "licenses": [
-        "Valid driver’s license with clean driving record; access to a personal vehicle required"
-      ],
-      "skills": [
-        "Product stocking and replenishment",
-        "Merchandising and display management",
-        "Inventory monitoring and reporting",
-        "Manual handling and lifting up to 50lbs (22kgs)",
-        "Use of manual and powered equipment (pallet jack, hand-truck)",
-        "Time management and multitasking",
-        "Customer service and teamwork",
-        "Attention to safety and sanitation standards"
-      ]
-    },
-    "job_details": {
-      "location": "Calgary, AB T2E 6T2",
-      "pay": "$22.34 per hour + $0.62/km reimbursement",
-      "job_type": ["Part-time"],
-      "shift_and_schedule": [
-        "Monday to Sunday, variable 7:00 AM - 7:00 PM, 20-30 hours/week, up to 40 hours in peak seasons"
-      ],
-      "work_setting": "In-person, retail and store-based environment"
-    },
-    "responsibilities": [
-      "Maintain and replenish products in store racks, shelves, displays, and coolers",
-      "Build, change, or remove product displays according to company standards",
-      "Maintain product signage and clean product spaces",
-      "Transport product between backroom and store front using manual equipment",
-      "Organize backroom stock, evaluate and process damaged product, and complete related paperwork",
-      "Follow company and store policies regarding safety, equipment, and backroom/display management",
-      "Maintain an orderly and clean work area in compliance with safety and sanitation requirements",
-      "Maintain professional relationships with co-workers and customers",
-      "Push and pull equipment containing product loads for a minimum of 100 yards",
-      "Perform repetitive lifting, squatting, kneeling, and reaching above head as required"
-    ],
-    "personal_suitability": [
-      "Physically capable of repetitive lifting, bending, and standing for long periods",
-      "Reliable and self-motivated",
-      "Team player with good communication skills",
-      "Detail-oriented and safety-conscious"
-    ],
-    "additional_information": {
-      "notes": [
-        "All employment offers are conditional upon successful background clearance (criminal, employment, education, and driver’s abstract)",
-        "Must be 17 years or older"
-      ],
-      "benefits": [
-        "Part-time flexible schedule with potential for full-time hours during peak season",
-        "Mileage reimbursement",
-        "Opportunities to gain experience in retail and merchandising",
-        "Work in a nationally recognized Canadian company"
-      ],
-      "company_background": "Coca-Cola Canada Bottling Limited is an independently owned Canadian bottling company with over 5,800 associates, 50+ sales and distribution centers, and 5 production facilities nationwide."
-    }
-  },
+
   {
     "job_title": "Solar Sales Consultant",
     "company": "MAG Solar Inc",
@@ -10757,55 +10358,7 @@
       "company_background": "Badger Daylighting provides non-destructive hydro-excavation (hydrovac) services to diverse industries including oil and gas, energy, industrial, construction, and government agencies in Canada and the US. Founded in 1992, the company focuses on innovative technology and service excellence."
     }
   },
-  {
-    "job_title": "Cashier",
-    "company": "Princess Auto",
-    "overview": {
-      "education": "Not specified",
-      "experience": "Customer service experience preferred",
-      "skills": [
-        "Customer service",
-        "Basic math",
-        "Attention to detail",
-        "Handling customer interactions diplomatically",
-        "Teamwork and initiative"
-      ],
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB",
-      "job_type": ["Part-time"],
-      "shift_and_schedule": ["Standard retail hours, variable"],
-      "work_setting": "Retail store, front-of-store cashier and customer service desk"
-    },
-    "responsibilities": [
-      "Process transactions at the checkout",
-      "Respond to customer inquiries in person and over the phone",
-      "Keep the front of the store tidy",
-      "Balance cash drawer at the end of shift",
-      "Create a fun, safe, and unique shopping experience ('Royal Service')"
-    ],
-    "personal_suitability": [
-      "Genuinely cares about customers’ shopping experience",
-      "Handles customer interactions with tact",
-      "Takes initiative and works with minimal supervision",
-      "Respects team values and demonstrates integrity",
-      "Enjoys working with people"
-    ],
-    "additional_information": {
-      "benefits": [
-        "Competitive salary",
-        "Company-paid benefits",
-        "Annual profit sharing",
-        "Savings plan options with employer contribution matching",
-        "Team Member store discount from first day",
-        "Paid volunteer day",
-        "Opportunities for career advancement",
-        "Free parking"
-      ],
-      "company_background": "Princess Auto is a private, Canadian-owned company with over 3,600 employees, known for unique product assortment, exceptional customer service, and nearly 100 years of history. Voted one of Canada’s Best Employers 2025 by Forbes."
-    }
-  },
+
   {
     "job_title": "Application Support Specialist - Power Market",
     "company": "Enverus",
@@ -10909,48 +10462,7 @@
       "hybrid_policy": "3 days per week in-office"
     }
   },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Pho Hoan Pasteur Ltd",
-    "overview": {
-      "education": "High school diploma or GED",
-      "experience": "2–3 years in restaurant management or related field",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB",
-      "pay": "$35.40 per hour",
-      "job_type": "Permanent, Full-time",
-      "hours": "30–40 hours per week"
-    },
-    "responsibilities": [
-      "Analyze budget to boost and maintain restaurant profits",
-      "Develop budgets for food, ingredients, alcohol, kitchen, and cleaning supplies",
-      "Monitor staff performance and conduct performance reviews",
-      "Plan and organize daily restaurant operations",
-      "Set staff work schedules and supervise 5–10 employees",
-      "Determine types of services offered and implement operational procedures",
-      "Organize and maintain inventory",
-      "Ensure health and safety regulations are followed",
-      "Negotiate arrangements with suppliers for food and other supplies",
-      "Address customer complaints or concerns"
-    ],
-    "work_environment": {
-      "conditions": ["Fast-paced environment", "Work under pressure"]
-    },
-    "personal_suitability": [
-      "Efficient interpersonal skills",
-      "Excellent oral communication",
-      "Team player",
-      "Ability to multitask"
-    ],
-    "screening_questions": [
-      "Are you currently a student?",
-      "Are you legally able to work in Canada?",
-      "Are you willing to relocate for this position?",
-      "Do you have previous experience in this field of employment?"
-    ]
-  },
+
   {
     "job_title": "Principal Product Engineer - Americas",
     "company": "Ashby",
