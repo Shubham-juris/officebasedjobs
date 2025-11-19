@@ -13273,5 +13273,214 @@
     "eligibility": "Valid only for nationals or foreigners legally authorized to work in Colombia, Ecuador, Mexico, Venezuela, and/or Peru."
   }
 }
+,
+  {
+    "job_title": "Administrative Assistant",
+    "company": "AGAT Laboratories",
+    "location": "Calgary, AB T2E 7J2",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [
+      "Vision care",
+      "Dental care",
+      "Life insurance",
+      "Employee assistance program",
+      "Disability insurance",
+      "Paid vacation"
+    ],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Office Administrator",
+    "company": "Diamond Auto Group",
+    "location": "Calgary, AB T2C 0B2",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Office Administrator",
+    "company": "Simple Solar Ltd",
+    "location": "Calgary, AB T2H 1L8",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": "",
+    "visited": "6 days ago"
+  },
+  {
+    "job_title": "Reception / Administrative Assistant",
+    "company": "Leading Edge Physiotherapy",
+    "location": "Calgary, AB T2V 5A8",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": "",
+    "visited": "6 days ago"
+  },
+  {
+    "job_title": "Entry Level Accountant / Office Administrator",
+    "company": "Pavilion Energy Corp.",
+    "location": "Calgary, AB T2P 3T7",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+    {
+    "job_title": "Tax Preparer / Bookkeeper / Accountant - Part Time",
+    "company": "Summit Tax and Accounting Services",
+    "location": "Calgary, AB",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Bookkeeper",
+    "company": "Momentum Logistics Inc.",
+    "location": "Calgary, AB",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Assistant Controller",
+    "company": "Kramer Mazda",
+    "location": "Calgary, AB T2J 7J2",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [
+      "Dental care"
+    ],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Accountant / Bookkeeper",
+    "company": "Choquette Developments LTD",
+    "location": "Calgary, AB T3L 2P5",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+    {
+    "job_title": "Frontend Developer",
+    "company": "Motiv Studio Ltd.",
+    "location": "Calgary, AB T2P 2X6",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": "",
+    "note": "Often responds within 3 days"
+  },
+  {
+    "job_title": "Software Developer",
+    "company": "MaKami College",
+    "location": "Calgary, AB T2A 2K2",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [
+      "On-site gym"
+    ],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "SEO Specialist",
+    "company": "Konstruct Digital",
+    "location": "Calgary, AB T2G 1R7",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [
+      "Paid time off",
+      "Extended health care"
+    ],
+    "how_to_apply": "",
+    "note": "Often responds within 1 day"
+  },
+  {
+    "job_title": "IT Systems Developer",
+    "company": "The Mustard Seed Society",
+    "location": "Calgary, AB T2G 0X5",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Software Developer",
+    "company": "Modular Solutions",
+    "location": "Calgary, AB",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [
+      "Vision care",
+      "Dental care",
+      "Employee assistance program",
+      "Extended health care"
+    ],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "ServiceNow Developer (Remote)",
+    "company": "Software International",
+    "location": "Calgary, AB",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Web and Digital Optimization Specialist",
+    "company": "TEC Canada",
+    "location": "Calgary, AB T2P 1H5",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [
+      "RRSP match"
+    ],
+    "how_to_apply": "",
+    "note": "Often responds within 2 days"
+  },
+  {
+    "job_title": "Software Engineer",
+    "company": "Collage",
+    "location": "Calgary, AB T2T 5R6",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": "",
+    "note": "Often responds within 7 days"
+  },
+  {
+    "job_title": "SEO Analyst",
+    "company": "Digital Shift",
+    "location": "Calgary, AB",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  },
+  {
+    "job_title": "Full Stack Developer",
+    "company": "Motiv Studio Ltd.",
+    "location": "Calgary, AB T2P 2X6",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": "",
+    "note": "Often responds within 3 days"
+  },
+  {
+    "job_title": "Python Developer",
+    "company": "Atlantis IT Group",
+    "location": "Calgary, AB T2C 1K2",
+    "overview": "",
+    "job_details": "",
+    "health_benefits": [],
+    "how_to_apply": ""
+  }
 
 ]
