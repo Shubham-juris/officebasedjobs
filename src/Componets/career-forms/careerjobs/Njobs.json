@@ -13002,5 +13002,235 @@
     "job_details": "",
     "health_benefits": [],
     "how_to_apply": ""
+  },
+  {
+  "job_title": "Office Manager",
+  "company": "FOREST LANE PHYSIO & MASSAGE CLINIC INC.",
+  "overview": {
+    "languages": "English",
+    "education": "Secondary (high) school graduation certificate",
+    "experience": "7 months to less than 1 year"
+  },
+  "job_details": {
+    "location": "Calgary, AB T2A 0P9",
+    "salary": "$37–$40 per hour",
+    "hours_per_week": "30–40",
+    "job_type": "Permanent, Full-time",
+    "shift": "Day, Evening, Morning, Weekend",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Implement new administrative procedures",
+      "Review and evaluate administrative procedures",
+      "Delegate work to office support staff",
+      "Establish work priorities and ensure deadlines are met",
+      "Carry out administrative activities of the establishment",
+      "Coordinate office services such as equipment, supplies, parking, maintenance and security",
+      "Assist in preparation of operating budgets and maintain inventory controls",
+      "Assemble data and prepare reports, manuals and correspondence",
+      "Oversee and coordinate office administrative procedures"
+    ]
+  },
+  "required_skills": [
+    "MS Word",
+    "MS Excel",
+    "MS PowerPoint",
+    "MS Outlook",
+    "MS Office",
+    "Windows",
+    "Google Drive"
+  ],
+  "benefits": [
+    "Flexible schedule",
+    "On-site parking",
+    "Parking available"
+  ],
+  "how_to_apply": {
+    "screening_questions": [
+      "Are you authorized to work in Canada?",
+      "Are you willing to relocate for this position?",
+      "Do you have experience working in this field?"
+    ]
+  },
+  "employment_equity_support": {
+    "persons_with_disabilities": true,
+    "newcomers_and_refugees": true,
+    "youth": true,
+    "veterans": true,
+    "indigenous_people": true,
+    "mature_workers": true,
+    "visible_minorities": true
   }
+},
+{
+  "job_title": "Office Manager",
+  "company": "Crowfoot Dental Studio",
+  "overview": {
+    "languages": "English",
+    "education": "Not specified",
+    "experience": "Dental administration or office management experience preferred"
+  },
+  "job_details": {
+    "location": "400 Crowfoot Cr NW, Calgary, AB T3G 5H6",
+    "salary": "$30–$50 per hour",
+    "hours_per_week": "Full-time",
+    "job_type": "Permanent, Full-time",
+    "shift": "Day",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Oversee daily administrative and front office operations",
+      "Supervise and support reception and administrative staff",
+      "Manage scheduling and coordination for efficient patient flow",
+      "Oversee billing, collections, and insurance processes",
+      "Manage vendor relationships and office services",
+      "Assist with bookkeeping, payroll coordination, and budgeting using QuickBooks",
+      "Support onboarding, training, and ongoing staff development",
+      "Maintain organized records, policies, and procedures",
+      "Ensure compliance with office policies and healthcare standards",
+      "Assist with operational improvements and special projects"
+    ]
+  },
+  "required_skills": [
+    "Office management",
+    "QuickBooks",
+    "Payroll coordination",
+    "Scheduling",
+    "Customer service",
+    "Leadership and organization"
+  ],
+  "benefits": [
+    "Dental care",
+    "Extended health care",
+    "On-site parking"
+  ],
+  "how_to_apply": {
+    "screening_questions": [
+      "Do you have experience in dental administration or office management?",
+      "Do you have experience using QuickBooks?",
+      "Are you legally able to work in Canada?"
+    ]
+  }
+},
+{
+  "job_title": "Account Executive",
+  "company": "NES Fircroft",
+  "overview": {
+    "languages": "English",
+    "education": "Not specified",
+    "experience": "1–2 years in a client-facing or coordination role (Entry level)"
+  },
+  "job_details": {
+    "location": "Calgary, Alberta, Canada",
+    "salary": "Competitive salary + bonus structure",
+    "hours_per_week": "Full-time",
+    "job_type": "Permanent",
+    "shift": "Day",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Oversee day-to-day activities across key client accounts",
+      "Ensure delivery of top-tier recruitment services to clients",
+      "Identify and develop new revenue opportunities across projects and regions",
+      "Proactively seek referral opportunities to grow contractor networks",
+      "Build and maintain strong relationships with clients and contractors",
+      "Support recruitment teams by sourcing leads and securing vacancies",
+      "Conduct competitor analysis and contribute to process improvements",
+      "Liaise with internal teams to resolve payment and invoicing queries",
+      "Share best practices to improve account performance"
+    ]
+  },
+  "required_skills": [
+    "Client relationship management",
+    "Communication skills",
+    "Account coordination",
+    "Networking and relationship building",
+    "Multitasking",
+    "Problem-solving",
+    "Organizational skills"
+  ],
+  "benefits": [
+    "Paid time off",
+    "Vision care",
+    "Dental care",
+    "Life insurance",
+    "On-site gym",
+    "Designated paid holidays",
+    "Paid charity day",
+    "Christmas-to-New-Year shutdown"
+  ],
+  "how_to_apply": {
+    "screening_questions": [
+      "Do you have experience in a client-facing or coordination role?",
+      "Are you legally eligible to work in Canada?",
+      "Are you comfortable working in a fast-paced recruitment environment?"
+    ]
+  },
+  "employment_equity_support": {
+    "persons_with_disabilities": true,
+    "neurodiverse_candidates": true
+  }
+},
+{
+  "job_title": "Executive Assistant",
+  "company": "Dream Unlimited",
+  "overview": {
+    "languages": "English",
+    "education": "Not specified",
+    "experience": "3+ years providing executive support to senior leadership"
+  },
+  "job_details": {
+    "location": "Calgary, AB T2N 1X7 (Hybrid work)",
+    "salary": "Not disclosed",
+    "hours_per_week": "Full-time",
+    "job_type": "Full-time",
+    "shift": "Day (Overtime and On-call as required)",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Coordinate day-to-day administrative requirements of the senior leadership team",
+      "Manage calendars, meetings, engagements, and communications",
+      "Support planning and logistics for events, strategic meetings, and offsites",
+      "Filter, delegate, and respond to communications on behalf of leadership",
+      "Review documents for accuracy and manage confidential files securely",
+      "Provide vacation coverage and relief support to the Office Coordinator",
+      "Prepare and distribute meeting minutes and packages",
+      "Coordinate signatures for contracts and agreements",
+      "Process invoices and provide backup support for accounts payable"
+    ]
+  },
+  "required_skills": [
+    "Executive support",
+    "Calendar and travel management",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Outlook",
+    "Adobe",
+    "Mobile devices and tablets",
+    "Confidential information handling",
+    "Communication and interpersonal skills",
+    "Organization and multitasking"
+  ],
+  "benefits": [
+    "Hybrid work arrangement",
+    "Career growth opportunities",
+    "Supportive and inclusive work environment",
+    "Workplace accommodations for persons with disabilities"
+  ],
+  "how_to_apply": {
+    "screening_questions": [
+      "Do you have at least 3 years of experience supporting senior leadership?",
+      "Are you comfortable working overtime and being on call?",
+      "Are you proficient with MS Office and modern mobile technologies?"
+    ]
+  },
+  "employment_equity_support": {
+    "persons_with_disabilities": true,
+    "diverse_workplace": true
+  }
+}
+
+
+
 ]
