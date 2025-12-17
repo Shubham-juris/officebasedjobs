@@ -9201,53 +9201,7 @@
     ],
     "application_instructions": "Apply online only (no phone calls)"
   },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Bagolac Saigon Restaurant",
-    "overview": {
-      "education": "College/CEGEP diploma",
-      "experience": "2 to less than 3 years",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB T2A 0T2",
-      "pay": "$36 an hour",
-      "job_type": ["Permanent", "Part-time", "Full-time"],
-      "work_hours": "30 hours per week",
-      "work_setting": "Restaurant-based",
-      "benefits": []
-    },
-    "responsibilities": [
-      "Analyze budget to boost and maintain restaurant profits",
-      "Evaluate daily operations",
-      "Modify food preparation methods and menu prices as per budget",
-      "Plan and organize daily operations",
-      "Set staff work schedules",
-      "Train staff and conduct performance reviews",
-      "Ensure health and safety regulations are followed",
-      "Address customer complaints and concerns",
-      "Lead and instruct staff",
-      "Manage events",
-      "Authorize and organize establishment of departments and senior staff positions",
-      "Allocate resources to implement policies/programs",
-      "Establish objectives and approve policies/programs",
-      "Represent the organization in negotiations or official functions"
-    ],
-    "personal_suitability": [
-      "Excellent oral and written communication",
-      "Flexibility",
-      "Organized",
-      "Attention to detail"
-    ],
-    "supervision": {
-      "number_of_people": "5-10"
-    },
-    "work_conditions": [
-      "Fast-paced environment",
-      "Work under pressure",
-      "Tight deadlines"
-    ]
-  },
+
   {
     "job_title": "Activities Convenor - Emily's Backyard",
     "company": "Alberta Health Services",
@@ -10162,112 +10116,8 @@
       "about_company": "Calgary Co-op, founded in 1956, is one of North America’s largest retail co-operatives with over 456,000 members and 3,530 employees. The organization operates food centres, pharmacies, gas stations, car washes, and liquor stores across Calgary and surrounding areas. Recognized with the Canadian Grocer’s 2024 Impact Award, Calgary Co-op is known for its commitment to sustainability, community support, and local sourcing."
     }
   },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Manohar Vegetarian Bakery",
-    "overview": {
-      "education": "Secondary (high) school graduation certificate or equivalent",
-      "experience": "1 year to less than 2 years of experience in restaurant or food service management",
-      "languages": ["English"],
-      "skills": [
-        "Restaurant operations management",
-        "Budgeting and cost control",
-        "Menu planning and food preparation oversight",
-        "Staff training and supervision",
-        "Supplier negotiation and procurement",
-        "Health and safety compliance",
-        "Revenue monitoring and labor cost management",
-        "Customer service and client relations"
-      ]
-    },
-    "job_details": {
-      "location": "Calgary, AB T3J 3J8",
-      "pay": "$35.50 per hour",
-      "job_type": ["Permanent", "Full-time"],
-      "hours_per_week": "30–35 hours per week",
-      "work_setting": "In-person, fast-paced restaurant environment"
-    },
-    "responsibilities": [
-      "Develop budgets to determine costs of food, ingredients, and supplies",
-      "Evaluate and improve daily restaurant operations",
-      "Modify food preparation methods and menu prices according to budget goals",
-      "Monitor revenues and labor costs to ensure profitability",
-      "Supervise and assess staff performance (5–10 employees)",
-      "Plan, organize, and oversee daily business operations",
-      "Train and motivate staff to deliver quality service",
-      "Ensure compliance with health and safety regulations",
-      "Negotiate with suppliers for food, beverages, and equipment",
-      "Coordinate catering or facility-use arrangements with clients"
-    ],
-    "personal_suitability": [
-      "Excellent oral communication",
-      "Flexibility and adaptability",
-      "Reliability and attention to detail",
-      "Ability to work under pressure in a fast-paced environment"
-    ],
-    "additional_information": {
-      "supervision": "Manages a team of 5–10 employees",
-      "work_conditions": [
-        "Fast-paced environment",
-        "Requires multitasking and quick decision-making"
-      ],
-      "language_of_work": "English",
-      "employment_duration": "Permanent, full-time position"
-    }
-  },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Manohar Vegetarian Bakery",
-    "overview": {
-      "education": "Secondary (high) school graduation certificate or equivalent",
-      "experience": "1 year to less than 2 years of experience in restaurant or food service management",
-      "languages": ["English"],
-      "skills": [
-        "Restaurant operations management",
-        "Budgeting and cost control",
-        "Menu planning and food preparation oversight",
-        "Staff training and supervision",
-        "Supplier negotiation and procurement",
-        "Health and safety compliance",
-        "Revenue monitoring and labor cost management",
-        "Customer service and client relations"
-      ]
-    },
-    "job_details": {
-      "location": "Calgary, AB T3J 3J8",
-      "pay": "$35.50 per hour",
-      "job_type": ["Permanent", "Full-time"],
-      "hours_per_week": "30–35 hours per week",
-      "work_setting": "In-person, fast-paced restaurant environment"
-    },
-    "responsibilities": [
-      "Develop budgets to determine costs of food, ingredients, and supplies",
-      "Evaluate and improve daily restaurant operations",
-      "Modify food preparation methods and menu prices according to budget goals",
-      "Monitor revenues and labor costs to ensure profitability",
-      "Supervise and assess staff performance (5–10 employees)",
-      "Plan, organize, and oversee daily business operations",
-      "Train and motivate staff to deliver quality service",
-      "Ensure compliance with health and safety regulations",
-      "Negotiate with suppliers for food, beverages, and equipment",
-      "Coordinate catering or facility-use arrangements with clients"
-    ],
-    "personal_suitability": [
-      "Excellent oral communication",
-      "Flexibility and adaptability",
-      "Reliability and attention to detail",
-      "Ability to work under pressure in a fast-paced environment"
-    ],
-    "additional_information": {
-      "supervision": "Manages a team of 5–10 employees",
-      "work_conditions": [
-        "Fast-paced environment",
-        "Requires multitasking and quick decision-making"
-      ],
-      "language_of_work": "English",
-      "employment_duration": "Permanent, full-time position"
-    }
-  },
+
+
   {
     "job_title": "Seasonal Greeter, Chinook Mall",
     "company": "Bell Canada",
@@ -10900,48 +10750,7 @@
       "hybrid_policy": "3 days per week in-office"
     }
   },
-  {
-    "job_title": "Restaurant Manager",
-    "company": "Pho Hoan Pasteur Ltd",
-    "overview": {
-      "education": "High school diploma or GED",
-      "experience": "2–3 years in restaurant management or related field",
-      "languages": ["English"]
-    },
-    "job_details": {
-      "location": "Calgary, AB",
-      "pay": "$35.40 per hour",
-      "job_type": "Permanent, Full-time",
-      "hours": "30–40 hours per week"
-    },
-    "responsibilities": [
-      "Analyze budget to boost and maintain restaurant profits",
-      "Develop budgets for food, ingredients, alcohol, kitchen, and cleaning supplies",
-      "Monitor staff performance and conduct performance reviews",
-      "Plan and organize daily restaurant operations",
-      "Set staff work schedules and supervise 5–10 employees",
-      "Determine types of services offered and implement operational procedures",
-      "Organize and maintain inventory",
-      "Ensure health and safety regulations are followed",
-      "Negotiate arrangements with suppliers for food and other supplies",
-      "Address customer complaints or concerns"
-    ],
-    "work_environment": {
-      "conditions": ["Fast-paced environment", "Work under pressure"]
-    },
-    "personal_suitability": [
-      "Efficient interpersonal skills",
-      "Excellent oral communication",
-      "Team player",
-      "Ability to multitask"
-    ],
-    "screening_questions": [
-      "Are you currently a student?",
-      "Are you legally able to work in Canada?",
-      "Are you willing to relocate for this position?",
-      "Do you have previous experience in this field of employment?"
-    ]
-  },
+
   {
     "job_title": "Principal Product Engineer - Americas",
     "company": "Ashby",
